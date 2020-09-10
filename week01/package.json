@@ -1,0 +1,23 @@
+{
+  "name": "wa01",
+  "version": "1.0.0",
+  "description": "assignment 01",
+  "main": "wa01.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessieJessJe/Data-Structure.git"
+  },
+  "author": "jessie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessieJessJe/Data-Structure/issues"
+  },
+  "homepage": "https://github.com/JessieJessJe/Data-Structure#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "request": "^2.88.2"
+  }
+}
