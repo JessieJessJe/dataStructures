@@ -13,7 +13,7 @@ Let's get the work done!
 
 ## Week One
 
-Here's the [assignment instruction](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_01.md) and my solution in [wa01.js](https://github.com/JessieJessJe/data-structures/blob/master/wa01.js).
+Here're the [assignment instruction](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_01.md) and my solution in [wa01.js](https://github.com/JessieJessJe/data-structures/blob/master/wa01.js).
 
 #### The process
 * Create an asynchronous function 'saveFile' to save an individual HTML page into a local .txt file.  
@@ -24,4 +24,13 @@ Here's the [assignment instruction](https://github.com/visualizedata/data-struct
 * JavaScript async and await in loops [Link](https://zellwk.com/blog/async-await-in-loops/)
 
 
+## Week Two
 
+#### Directory
+* Assignment instruction [here](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_02.md)
+* The web page for data extraction [here](https://parsons.nyc/aa/m07.html)
+* My solution in [wa02.js](https://github.com/JessieJessJe/dataStructures/blob/master/week02/wa02.js)
+* Output in [location.json](https://github.com/JessieJessJe/dataStructures/blob/master/week02/location.json)
+
+#### The process
+* For the detailed information go to Week02 -> [README](https://github.com/JessieJessJe/dataStructures/blob/master/week02/README.md)
