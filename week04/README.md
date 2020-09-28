@@ -5,7 +5,7 @@
 * My solution in [4a.js](https://github.com/JessieJessJe/dataStructures/blob/master/week04/4a.js), [4b.js](https://github.com/JessieJessJe/dataStructures/blob/master/week04/4b.js). [4c.js](https://github.com/JessieJessJe/dataStructures/blob/master/week04/4c.js)
 
 #### Database Model
-![db model](https://github.com/JessieJessJe/dataStructures/blob/master/week04/data%20model.png)
+![db model](https://github.com/JessieJessJe/dataStructures/blob/master/week04/data_model.jpg)
 
 #### The Process
 * Prepare a `module.js` of credentials to get connected with the AWS RDS POSTGRESQL Database.
