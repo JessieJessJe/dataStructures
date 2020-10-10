@@ -1,9 +1,59 @@
 ## Week Six
 
 #### Directory
-* Assignment instruction [here](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05.md)
-* My solution in [wa05.js](https://github.com/JessieJessJe/dataStructures/blob/master/week05/wa05.js)
+* My solution in [6a.js](https://github.com/JessieJessJe/dataStructures/blob/master/week06/6a.js) and  [6b.js](https://github.com/JessieJessJe/dataStructures/blob/master/week06/6b.js)
+* [DynamoDB Query](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Query.html#DDB-Query-request-KeyConditionExpression)
 
-#### The Process Blog DB Plan
-In this assignment, I used a NoSQL database to store some relevant information of the photos i took on my cat, including date of creation, theme, number of photos taken, and whether or not being posted on Instagram. 
-![db model](https://github.com/JessieJessJe/dataStructures/blob/master/week05/wa05_plan.png)
+#### The Process
+#### Query for the AA data in PostgreSQL (SQL DB)
+
+```javascript
+const { Client } = require('pg');
+
+// Import the module of database credentials from week04
+const db = require('./../week04/module');
+const client = new Client(db.db_credentials);
+client.connect();
+
+// Sample SQL statement 
+var thisQuery = "SELECT address, lat, long FROM aalocations WHERE long >= -73.95 and long <= -73.94;";
+
+client.query(thisQuery, (err, res) => {
+    if (err) {throw err}
+    else {
+        console.log(res.rows);
+        client.end();
+    }
+});
+```
+
+Result of the query: only two entries satisfying the longitude conditions shows up.
+
+![6A result](https://github.com/JessieJessJe/dataStructures/blob/master/week06/queryA.png)
+
+#### Query for the Dear Diary data in DynamoDB (NoSQL DB)
+
+```javascript
+var params = {
+    TableName : "processblog",
+    KeyConditionExpression: "pk = :pkval", // partition key equality test
+    ExpressionAttributeValues: { // specify query values
+        ":pkval": {S: "0"} // 
+    }
+};
+
+dynamodb.query(params, function(err, data) {
+    if (err) {
+        console.error("Unable to query. Error:", JSON.stringify(err, null, 2));
+    } else {
+        console.log("Query succeeded.");
+        data.Items.forEach(function(item) {
+            console.log("***** ***** ***** ***** ***** \n", item);
+        });
+    }
+});
+```
+Result of the query: the first entry of which partition key is '0' shows up.
+
+![6A result](https://github.com/JessieJessJe/dataStructures/blob/master/week06/queryB.png)
+
