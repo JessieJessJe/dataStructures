@@ -1,0 +1,532 @@
+[
+  {
+    "name": "Jan Hus Church",
+    "group": "A BAFFLED LOT -",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Manhattan Church of Christ",
+    "group": "A.A. TRADITIONS AND HISTORY -",
+    "floor": "2nd Floor Library",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "48 E 80TH ST New York NY ",
+    "lat": "40.7767263",
+    "lng": "-73.9612366"
+  },
+  {
+    "name": "St. Jean Baptiste Church",
+    "group": "ACTIVE",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "184 E 76TH ST New York NY ",
+    "lat": "40.7729024777959",
+    "lng": "-73.960301601538"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "AFTERNOON AWAKENING -",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Church of the Epiphany",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION -",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "1393 YORK AVE New York NY ",
+    "lat": "40.768415",
+    "lng": "-73.9528341"
+  },
+  {
+    "name": "Christ United Methodist Church",
+    "group": "ATLANTIC GROUP (:I)",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "520 PARK AVE New York NY ",
+    "lat": "40.7639426",
+    "lng": "-73.9700429"
+  },
+  {
+    "name": "Archdiocian Cathedral of the Holy Trinity",
+    "group": "ATLANTIC GROUP (:II) -",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "337 E 74TH ST New York NY ",
+    "lat": "40.7696836",
+    "lng": "-73.9561119"
+  },
+  {
+    "name": "All Souls Church",
+    "group": "ATLANTIC GROUP (:III) -",
+    "floor": "",
+    "postcode": 10075,
+    "wheelChair": true,
+    "location": "1157 LEXINGTON AVE New York NY ",
+    "lat": "40.7754455",
+    "lng": "-73.9583638"
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "BREAKING THROUGH",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "420 E 76TH ST New York NY ",
+    "lat": "40.7697705",
+    "lng": "-73.9529077"
+  },
+  {
+    "name": "Our Lady of Good Counsel Church",
+    "group": "CAME TO BELIEVE",
+    "floor": "Downstairs",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "230 E 90TH ST New York NY ",
+    "lat": "40.780841",
+    "lng": "-73.9510956"
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "CARNEGIE HILL",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "65 E 89TH ST New York NY ",
+    "lat": "40.78259",
+    "lng": "-73.9566571"
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "CENTRAL",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "865 MADISON AVE New York NY ",
+    "lat": "40.7713251",
+    "lng": "-73.9655852"
+  },
+  {
+    "name": "Immanuel Lutheran Church",
+    "group": "CHAPTER FIVE",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "1296 LEXINGTON AVE New York NY ",
+    "lat": "40.780135833909",
+    "lng": "-73.9552304898083"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "ELEVENTH STEP AT JAN HUS",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "FEARLESS -",
+    "floor": "1st Floor",
+    "postcode": 10028,
+    "wheelChair": false,
+    "location": "1157 LEXINGTON AVE New York NY ",
+    "lat": "40.7754455",
+    "lng": "-73.9583638"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY CENTRAL -",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "St. Thomas More Church Rectory",
+    "group": "FRIDAY NIGHT MEN'S STEP",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "65 E 89TH ST New York NY ",
+    "lat": "40.78259",
+    "lng": "-73.9566571"
+  },
+  {
+    "name": "Church of Saint Thomas Moore",
+    "group": "HUMANISTS TOO -",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "65 E 89TH ST New York NY ",
+    "lat": "40.78259",
+    "lng": "-73.9566571"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "I'M ALL IN -",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "St. Francis de Sales Church",
+    "group": "INTO ACTION MANHATTAN",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "135 E 96TH ST New York NY ",
+    "lat": "40.7862757",
+    "lng": "-73.951491"
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "KITCHEN TABLE MEETING -",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "LENOX HILL",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "2 E 90TH ST New York NY ",
+    "lat": "40.7836928",
+    "lng": "-73.9578694"
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "LEX 80 STEP -",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true,
+    "location": "1157 LEXINGTON AVE New York NY ",
+    "lat": "40.7754455",
+    "lng": "-73.9583638"
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "LIVE AND LET LIVE",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "420 E 76TH ST New York NY ",
+    "lat": "40.7697705",
+    "lng": "-73.9529077"
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "MADISON 73",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MEDITATION (EXPECT MIRACLES)",
+    "floor": "2nd Floor Chapel Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Philomathist Center",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY -",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "1285 MADISON AVE New York NY ",
+    "lat": "40.7843189",
+    "lng": "-73.9560924"
+  },
+  {
+    "name": "St. Ignatius Loyola School",
+    "group": "METROPOLITAN",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true,
+    "location": "48 E 84TH ST New York NY ",
+    "lat": "40.7790604",
+    "lng": "-73.9588788"
+  },
+  {
+    "name": "St. Stephen of Hungary Church",
+    "group": "MONDAY EAST TOPIC",
+    "floor": "Rectory",
+    "postcode": 10028,
+    "wheelChair": false,
+    "location": "408 E 82ND ST New York NY ",
+    "lat": "40.7738528",
+    "lng": "-73.9504699"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MONDAY WOMEN -",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MORNING REFLECTIONS -",
+    "floor": "2nd Floor - Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Congregational Kehilath Jeshurun",
+    "group": "NEW CHOICES",
+    "floor": "Ramaz School Entrance",
+    "postcode": 10028,
+    "wheelChair": true,
+    "location": "125 E 85TH ST New York NY ",
+    "lat": "40.7790514",
+    "lng": "-73.956386"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OPEN BOOK -",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OUR PRIMARY PURPOSE -",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "St. James Church",
+    "group": "PARK BENCH   (:II) -",
+    "floor": "3rd Floor",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "865 MADISON AVE New York NY ",
+    "lat": "40.7713251",
+    "lng": "-73.9655852"
+  },
+  {
+    "name": "Brick Church Parish House",
+    "group": "PARK MADISON",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": true,
+    "location": "62 E 92ND ST New York NY ",
+    "lat": "40.7842393",
+    "lng": "-73.955258"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "PERSEVERANCE",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "St. Joseph's School",
+    "group": "RECOVERY ROOM",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "420 E 87TH ST New York NY ",
+    "lat": "40.7770465",
+    "lng": "-73.9479432"
+  },
+  {
+    "name": "Central Presbyterian Church",
+    "group": "RENEWAL EAST -",
+    "floor": "5th Floor Library",
+    "postcode": 10128,
+    "wheelChair": true,
+    "location": "593 PARK AVE New York NY ",
+    "lat": "40.765841",
+    "lng": "-73.9673386"
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "RENEWAL NORTH -",
+    "floor": "Ring Red Buzzer",
+    "postcode": 10128,
+    "wheelChair": true,
+    "location": "65 E 89TH ST New York NY ",
+    "lat": "40.78259",
+    "lng": "-73.9566571"
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "RHINELANDER",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "865 MADISON AVE New York NY ",
+    "lat": "40.7713251",
+    "lng": "-73.9655852"
+  },
+  {
+    "name": "",
+    "group": "ROOSEVELT ISLAND SERENITY -",
+    "floor": "Basement 10044",
+    "postcode": 10044,
+    "wheelChair": true,
+    "location": "543 MAIN ST New York NY ",
+    "lat": "40.7618261",
+    "lng": "-73.9500511"
+  },
+  {
+    "name": "St. Monica's Church",
+    "group": "SEVENTY-NINTH STREET WORKSHOP",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "413 E 79TH ST New York NY ",
+    "lat": "40.7721222",
+    "lng": "-73.9517608"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "SOBER WOMEN",
+    "floor": "Sanctuary",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "New York Blood Center",
+    "group": "STEP BY STEP",
+    "floor": "Auditorium",
+    "postcode": 10065,
+    "wheelChair": true,
+    "location": "310 E 67TH ST New York NY ",
+    "lat": "40.7651821",
+    "lng": "-73.9599207"
+  },
+  {
+    "name": "Lenox Hill Neighborhood House",
+    "group": "SUNDAY ON 70TH",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "331 E 70TH ST New York NY ",
+    "lat": "40.766948",
+    "lng": "-73.9577722"
+  },
+  {
+    "name": "Church of St. Catherine of Siena",
+    "group": "SUTTON",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "location": "411 E 68TH ST New York NY ",
+    "lat": "40.7651081",
+    "lng": "-73.957215"
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "THREE TWELVES",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "2 E 90TH ST New York NY ",
+    "lat": "40.7836928",
+    "lng": "-73.9578694"
+  },
+  {
+    "name": "Holy Trinity Church",
+    "group": "TRINITY",
+    "floor": "Choir Room (Ring Bell)",
+    "postcode": 10128,
+    "wheelChair": false,
+    "location": "341 E 87TH ST New York NY ",
+    "lat": "40.7780211",
+    "lng": "-73.9497263"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WE HUMANISTS",
+    "floor": "2nd Floor Museum Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WEDNESDAY EAST ON THURSDAY",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "YORKVILLE-BUTTERFIELD",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "location": "351 E 74TH ST New York NY ",
+    "lat": "40.7694194",
+    "lng": "-73.9555151"
+  }
+]

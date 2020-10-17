@@ -1,0 +1,426 @@
+[
+  {
+    "name": "Jan Hus Church",
+    "group": "A BAFFLED LOT -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Manhattan Church of Christ",
+    "group": "A.A. TRADITIONS AND HISTORY -",
+    "loc": "48 East 80th Street",
+    "floor": "2nd Floor Library",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "St. Jean Baptiste Church",
+    "group": "ACTIVE",
+    "loc": "184 East 76th Street",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "AFTERNOON AWAKENING -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Church of the Epiphany",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION -",
+    "loc": "1393 York Avenue",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Christ United Methodist Church",
+    "group": "ATLANTIC GROUP (:I)",
+    "loc": "520 Park Avenue",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Archdiocian Cathedral of the Holy Trinity",
+    "group": "ATLANTIC GROUP (:II) -",
+    "loc": "337 E. 74th St.",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "All Souls Church",
+    "group": "ATLANTIC GROUP (:III) -",
+    "loc": "1157 Lexington Avenue",
+    "floor": "",
+    "postcode": 10075,
+    "wheelChair": true
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "BREAKING THROUGH",
+    "loc": "420 East 76th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Our Lady of Good Counsel Church",
+    "group": "CAME TO BELIEVE",
+    "loc": "230 East 90th Street",
+    "floor": "Downstairs",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "CARNEGIE HILL",
+    "loc": "65 East 89th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "CENTRAL",
+    "loc": "865 Madison Avenue",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Immanuel Lutheran Church",
+    "group": "CHAPTER FIVE",
+    "loc": "1296 Lexington Avenue",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "ELEVENTH STEP AT JAN HUS",
+    "loc": "351 East 74th Street",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "FEARLESS -",
+    "loc": "1157 Lexington Avenue",
+    "floor": "1st Floor",
+    "postcode": 10028,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY CENTRAL -",
+    "loc": "351 East 74th Street",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "St. Thomas More Church Rectory",
+    "group": "FRIDAY NIGHT MEN'S STEP",
+    "loc": "65 East 89th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Church of Saint Thomas Moore",
+    "group": "HUMANISTS TOO -",
+    "loc": "65 East 89th Street - Rectory basement",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "I'M ALL IN -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "St. Francis de Sales Church",
+    "group": "INTO ACTION MANHATTAN",
+    "loc": "135 East 96th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "KITCHEN TABLE MEETING -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "LENOX HILL",
+    "loc": "2 East 90th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "LEX 80 STEP -",
+    "loc": "1157 Lexington Avenue",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "LIVE AND LET LIVE",
+    "loc": "420 East 76th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "MADISON 73",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MEDITATION (EXPECT MIRACLES)",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Chapel Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Philomathist Center",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY -",
+    "loc": "1285 Madison Avenue",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "St. Ignatius Loyola School",
+    "group": "METROPOLITAN",
+    "loc": "48 East 84th Street",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true
+  },
+  {
+    "name": "St. Stephen of Hungary Church",
+    "group": "MONDAY EAST TOPIC",
+    "loc": "408 East 82nd Street",
+    "floor": "Rectory",
+    "postcode": 10028,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MONDAY WOMEN -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MORNING REFLECTIONS -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor - Front Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Congregational Kehilath Jeshurun",
+    "group": "NEW CHOICES",
+    "loc": "125 East 85th Street",
+    "floor": "Ramaz School Entrance",
+    "postcode": 10028,
+    "wheelChair": true
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OPEN BOOK -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OUR PRIMARY PURPOSE -",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "St. James Church",
+    "group": "PARK BENCH   (:II) -",
+    "loc": "865 Madison Avenue",
+    "floor": "3rd Floor",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Brick Church Parish House",
+    "group": "PARK MADISON",
+    "loc": "62 East 92nd Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": true
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "PERSEVERANCE",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "St. Joseph's School",
+    "group": "RECOVERY ROOM",
+    "loc": "420 East 87th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Central Presbyterian Church",
+    "group": "RENEWAL EAST -",
+    "loc": "593 Park Avenue",
+    "floor": "5th Floor Library",
+    "postcode": 10128,
+    "wheelChair": true
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "RENEWAL NORTH -",
+    "loc": "65 East 89th Street",
+    "floor": "Ring Red Buzzer",
+    "postcode": 10128,
+    "wheelChair": true
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "RHINELANDER",
+    "loc": "865 Madison Avenue",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "",
+    "group": "ROOSEVELT ISLAND SERENITY -",
+    "loc": "543 Main St.",
+    "floor": "Basement 10044",
+    "postcode": 10044,
+    "wheelChair": true
+  },
+  {
+    "name": "St. Monica's Church",
+    "group": "SEVENTY-NINTH STREET WORKSHOP",
+    "loc": "413 East 79th Street",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "SOBER WOMEN",
+    "loc": "351 East 74th Street",
+    "floor": "Sanctuary",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "New York Blood Center",
+    "group": "STEP BY STEP",
+    "loc": "310 East 67th Street",
+    "floor": "Auditorium",
+    "postcode": 10065,
+    "wheelChair": true
+  },
+  {
+    "name": "Lenox Hill Neighborhood House",
+    "group": "SUNDAY ON 70TH",
+    "loc": "331 E 70th St",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Church of St. Catherine of Siena",
+    "group": "SUTTON",
+    "loc": "411 East 68th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "THREE TWELVES",
+    "loc": "2 East 90th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Holy Trinity Church",
+    "group": "TRINITY",
+    "loc": "341 East 87th Street",
+    "floor": "Choir Room (Ring Bell)",
+    "postcode": 10128,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WE HUMANISTS",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Museum Room",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WEDNESDAY EAST ON THURSDAY",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "YORKVILLE-BUTTERFIELD",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false
+  }
+]
