@@ -1,0 +1,1189 @@
+[
+  {
+    "id": "6730",
+    "day": "Saturday",
+    "hour": "7:30AM",
+    "type": "OD",
+    "group": "A BAFFLED LOT"
+  },
+  {
+    "id": "21900",
+    "day": "Tuesday",
+    "hour": "7:00PM",
+    "type": "T",
+    "group": "A.A. TRADITIONS AND HISTORY"
+  },
+  {
+    "id": "31800",
+    "day": "Wednesday",
+    "hour": "6:00PM",
+    "type": "S",
+    "group": "ACTIVE"
+  },
+  {
+    "id": "11430",
+    "day": "Monday",
+    "hour": "2:30PM",
+    "type": "B",
+    "group": "AFTERNOON AWAKENING",
+    "special": "Living Sober"
+  },
+  {
+    "id": "21430",
+    "day": "Tuesday",
+    "hour": "2:30PM",
+    "type": "S",
+    "group": "AFTERNOON AWAKENING"
+  },
+  {
+    "id": "31430",
+    "day": "Wednesday",
+    "hour": "2:30PM",
+    "type": "BB",
+    "group": "AFTERNOON AWAKENING"
+  },
+  {
+    "id": "41430",
+    "day": "Thursday",
+    "hour": "2:30PM",
+    "type": "S",
+    "group": "AFTERNOON AWAKENING"
+  },
+  {
+    "id": "51430",
+    "day": "Friday",
+    "hour": "2:30PM",
+    "type": "S",
+    "group": "AFTERNOON AWAKENING"
+  },
+  {
+    "id": "11915",
+    "day": "Monday",
+    "hour": "7:15PM",
+    "type": "S",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION"
+  },
+  {
+    "id": "21900",
+    "day": "Tuesday",
+    "hour": "7:00PM",
+    "type": "O",
+    "group": "ATLANTIC GROUP (:I)"
+  },
+  {
+    "id": "41900",
+    "day": "Thursday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "ATLANTIC GROUP (:II)"
+  },
+  {
+    "id": "61800",
+    "day": "Saturday",
+    "hour": "6:00PM",
+    "type": "O",
+    "group": "ATLANTIC GROUP (:III)"
+  },
+  {
+    "id": "51830",
+    "day": "Friday",
+    "hour": "6:30PM",
+    "type": "B",
+    "group": "BREAKING THROUGH"
+  },
+  {
+    "id": "01530",
+    "day": "Sunday",
+    "hour": "3:30PM",
+    "type": "B",
+    "group": "CAME TO BELIEVE"
+  },
+  {
+    "id": "21815",
+    "day": "Tuesday",
+    "hour": "6:15PM",
+    "type": "C",
+    "group": "CARNEGIE HILL"
+  },
+  {
+    "id": "01700",
+    "day": "Sunday",
+    "hour": "5:00PM",
+    "type": "O",
+    "group": "CENTRAL",
+    "special": "Meditation"
+  },
+  {
+    "id": "01800",
+    "day": "Sunday",
+    "hour": "6:00PM",
+    "type": "S",
+    "group": "CENTRAL"
+  },
+  {
+    "id": "01800",
+    "day": "Sunday",
+    "hour": "6:00PM",
+    "type": "OD",
+    "group": "CENTRAL"
+  },
+  {
+    "id": "01915",
+    "day": "Sunday",
+    "hour": "7:15PM",
+    "type": "B",
+    "group": "CENTRAL"
+  },
+  {
+    "id": "1715",
+    "day": "Monday",
+    "hour": "7:15AM",
+    "type": "BB",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "2715",
+    "day": "Tuesday",
+    "hour": "7:15AM",
+    "type": "OD",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "3715",
+    "day": "Wednesday",
+    "hour": "7:15AM",
+    "type": "S",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "4715",
+    "day": "Thursday",
+    "hour": "7:15AM",
+    "type": "OD",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "5715",
+    "day": "Friday",
+    "hour": "7:15AM",
+    "type": "OD",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "0800",
+    "day": "Sunday",
+    "hour": "8:00AM",
+    "type": "OD",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "6800",
+    "day": "Saturday",
+    "hour": "8:00AM",
+    "type": "OD",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "51815",
+    "day": "Friday",
+    "hour": "6:15PM",
+    "type": "S",
+    "group": "CHAPTER FIVE",
+    "special": "Women"
+  },
+  {
+    "id": "01900",
+    "day": "Sunday",
+    "hour": "7:00PM",
+    "type": "C",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "31930",
+    "day": "Wednesday",
+    "hour": "7:30PM",
+    "type": "B",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "42000",
+    "day": "Thursday",
+    "hour": "8:00PM",
+    "type": "BB",
+    "group": "CHAPTER FIVE"
+  },
+  {
+    "id": "0900",
+    "day": "Sunday",
+    "hour": "9:00AM",
+    "type": "S",
+    "group": "ELEVENTH STEP AT JAN HUS"
+  },
+  {
+    "id": "51930",
+    "day": "Friday",
+    "hour": "7:30PM",
+    "type": "C",
+    "group": "FEARLESS"
+  },
+  {
+    "id": "51830",
+    "day": "Friday",
+    "hour": "6:30PM",
+    "type": "C",
+    "group": "FRIDAY CENTRAL"
+  },
+  {
+    "id": "52000",
+    "day": "Friday",
+    "hour": "8:00PM",
+    "type": "S",
+    "group": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "special": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "id": "51815",
+    "day": "Friday",
+    "hour": "6:15PM",
+    "type": "S",
+    "group": "FRIDAY NIGHT MEN'S STEP",
+    "special": "Men"
+  },
+  {
+    "id": "11815",
+    "day": "Monday",
+    "hour": "6:15PM",
+    "type": "Agnostic",
+    "group": "HUMANISTS TOO",
+    "special": "Agnostic"
+  },
+  {
+    "id": "22430",
+    "day": "Tuesday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "32430",
+    "day": "Wednesday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "42430",
+    "day": "Thursday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "52430",
+    "day": "Friday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "62430",
+    "day": "Saturday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "12430",
+    "day": "Monday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "I'M ALL IN"
+  },
+  {
+    "id": "31830",
+    "day": "Wednesday",
+    "hour": "6:30PM",
+    "type": "S",
+    "group": "INTO ACTION MANHATTAN",
+    "special": "Big Book Workshop"
+  },
+  {
+    "id": "61100",
+    "day": "Saturday",
+    "hour": "11:00AM",
+    "type": "C",
+    "group": "KITCHEN TABLE MEETING"
+  },
+  {
+    "id": "11900",
+    "day": "Monday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "LENOX HILL"
+  },
+  {
+    "id": "11900",
+    "day": "Monday",
+    "hour": "7:00PM",
+    "type": "S",
+    "group": "LENOX HILL"
+  },
+  {
+    "id": "41900",
+    "day": "Thursday",
+    "hour": "7:00PM",
+    "type": "O",
+    "group": "LENOX HILL"
+  },
+  {
+    "id": "42015",
+    "day": "Thursday",
+    "hour": "8:15PM",
+    "type": "B",
+    "group": "LENOX HILL"
+  },
+  {
+    "id": "12015",
+    "day": "Monday",
+    "hour": "8:15PM",
+    "type": "C",
+    "group": "LENOX HILL"
+  },
+  {
+    "id": "31830",
+    "day": "Wednesday",
+    "hour": "6:30PM",
+    "type": "S",
+    "group": "LEX 80 STEP",
+    "special": "Twelve Steps"
+  },
+  {
+    "id": "21900",
+    "day": "Tuesday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "LIVE AND LET LIVE",
+    "special": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "id": "41900",
+    "day": "Thursday",
+    "hour": "7:00PM",
+    "type": "OD",
+    "group": "LIVE AND LET LIVE",
+    "special": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "id": "22030",
+    "day": "Tuesday",
+    "hour": "8:30PM",
+    "type": "C",
+    "group": "LIVE AND LET LIVE",
+    "special": "Gay, Lesbian and Bisexual"
+  },
+  {
+    "id": "61900",
+    "day": "Saturday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "MADISON 73"
+  },
+  {
+    "id": "61900",
+    "day": "Saturday",
+    "hour": "7:00PM",
+    "type": "S",
+    "group": "MADISON 73"
+  },
+  {
+    "id": "41100",
+    "day": "Thursday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "51100",
+    "day": "Friday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "11100",
+    "day": "Monday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "21100",
+    "day": "Tuesday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "31100",
+    "day": "Wednesday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "32000",
+    "day": "Wednesday",
+    "hour": "8:00PM",
+    "type": "OD",
+    "group": "MEDITATION (EXPECT MIRACLES)"
+  },
+  {
+    "id": "31900",
+    "day": "Wednesday",
+    "hour": "7:00PM",
+    "type": "BB",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY"
+  },
+  {
+    "id": "61515",
+    "day": "Saturday",
+    "hour": "3:15PM",
+    "type": "S",
+    "group": "METROPOLITAN",
+    "special": "First Step Workshop"
+  },
+  {
+    "id": "01815",
+    "day": "Sunday",
+    "hour": "6:15PM",
+    "type": "B",
+    "group": "METROPOLITAN"
+  },
+  {
+    "id": "21830",
+    "day": "Tuesday",
+    "hour": "6:30PM",
+    "group": "METROPOLITAN"
+  },
+  {
+    "id": "01930",
+    "day": "Sunday",
+    "hour": "7:30PM",
+    "type": "S",
+    "group": "METROPOLITAN"
+  },
+  {
+    "id": "21945",
+    "day": "Tuesday",
+    "hour": "7:45PM",
+    "type": "B",
+    "group": "METROPOLITAN"
+  },
+  {
+    "id": "11900",
+    "day": "Monday",
+    "hour": "7:00PM",
+    "type": "C",
+    "group": "MONDAY EAST TOPIC"
+  },
+  {
+    "id": "11915",
+    "day": "Monday",
+    "hour": "7:15PM",
+    "type": "C",
+    "group": "MONDAY WOMEN",
+    "special": "Women"
+  },
+  {
+    "id": "3930",
+    "day": "Wednesday",
+    "hour": "9:30AM",
+    "type": "OD",
+    "group": "MORNING REFLECTIONS",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "4930",
+    "day": "Thursday",
+    "hour": "9:30AM",
+    "type": "OD",
+    "group": "MORNING REFLECTIONS",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "5930",
+    "day": "Friday",
+    "hour": "9:30AM",
+    "type": "OD",
+    "group": "MORNING REFLECTIONS",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "1930",
+    "day": "Monday",
+    "hour": "9:30AM",
+    "type": "OD",
+    "group": "MORNING REFLECTIONS",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "2930",
+    "day": "Tuesday",
+    "hour": "9:30AM",
+    "type": "OD",
+    "group": "MORNING REFLECTIONS",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "11830",
+    "day": "Monday",
+    "hour": "6:30PM",
+    "type": "C",
+    "group": "NEW CHOICES"
+  },
+  {
+    "id": "31830",
+    "day": "Wednesday",
+    "hour": "6:30PM",
+    "type": "S",
+    "group": "NEW CHOICES"
+  },
+  {
+    "id": "11915",
+    "day": "Monday",
+    "hour": "7:15PM",
+    "type": "BB",
+    "group": "OPEN BOOK"
+  },
+  {
+    "id": "6930",
+    "day": "Saturday",
+    "hour": "9:30AM",
+    "type": "S",
+    "group": "OUR PRIMARY PURPOSE",
+    "special": "Women"
+  },
+  {
+    "id": "32430",
+    "day": "Wednesday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "PARK BENCH   (:II)"
+  },
+  {
+    "id": "42430",
+    "day": "Thursday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "PARK BENCH   (:II)"
+  },
+  {
+    "id": "51845",
+    "day": "Friday",
+    "hour": "6:45PM",
+    "type": "C",
+    "group": "PARK MADISON"
+  },
+  {
+    "id": "21845",
+    "day": "Tuesday",
+    "hour": "6:45PM",
+    "type": "B",
+    "group": "PARK MADISON"
+  },
+  {
+    "id": "22000",
+    "day": "Tuesday",
+    "hour": "8:00PM",
+    "type": "C",
+    "group": "PARK MADISON"
+  },
+  {
+    "id": "52000",
+    "day": "Friday",
+    "hour": "8:00PM",
+    "type": "S",
+    "group": "PARK MADISON"
+  },
+  {
+    "id": "61100",
+    "day": "Saturday",
+    "hour": "11:00AM",
+    "type": "OD",
+    "group": "PERSEVERANCE"
+  },
+  {
+    "id": "31900",
+    "day": "Wednesday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "RECOVERY ROOM"
+  },
+  {
+    "id": "31830",
+    "day": "Wednesday",
+    "hour": "6:30PM",
+    "type": "C",
+    "group": "RENEWAL EAST"
+  },
+  {
+    "id": "41830",
+    "day": "Thursday",
+    "hour": "6:30PM",
+    "type": "OD",
+    "group": "RENEWAL NORTH"
+  },
+  {
+    "id": "11800",
+    "day": "Monday",
+    "hour": "6:00PM",
+    "type": "OD",
+    "group": "RHINELANDER"
+  },
+  {
+    "id": "41800",
+    "day": "Thursday",
+    "hour": "6:00PM",
+    "type": "S",
+    "group": "RHINELANDER"
+  },
+  {
+    "id": "41900",
+    "day": "Thursday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "RHINELANDER"
+  },
+  {
+    "id": "11900",
+    "day": "Monday",
+    "hour": "7:00PM",
+    "type": "B",
+    "group": "RHINELANDER"
+  },
+  {
+    "id": "61830",
+    "day": "Saturday",
+    "hour": "6:30PM",
+    "type": "C",
+    "group": "ROOSEVELT ISLAND SERENITY"
+  },
+  {
+    "id": "2600",
+    "day": "Tuesday",
+    "hour": "6:00AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "1600",
+    "day": "Monday",
+    "hour": "6:00AM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Daily Reflections"
+  },
+  {
+    "id": "5600",
+    "day": "Friday",
+    "hour": "6:00AM",
+    "type": "BB",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "4600",
+    "day": "Thursday",
+    "hour": "6:00AM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "3600",
+    "day": "Wednesday",
+    "hour": "6:00AM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "As Bill Sees It"
+  },
+  {
+    "id": "2715",
+    "day": "Tuesday",
+    "hour": "7:15AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "1715",
+    "day": "Monday",
+    "hour": "7:15AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "5715",
+    "day": "Friday",
+    "hour": "7:15AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "4715",
+    "day": "Thursday",
+    "hour": "7:15AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "3715",
+    "day": "Wednesday",
+    "hour": "7:15AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "6800",
+    "day": "Saturday",
+    "hour": "8:00AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "0800",
+    "day": "Sunday",
+    "hour": "8:00AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "3830",
+    "day": "Wednesday",
+    "hour": "8:30AM",
+    "type": "T",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "2830",
+    "day": "Tuesday",
+    "hour": "8:30AM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Promises"
+  },
+  {
+    "id": "1830",
+    "day": "Monday",
+    "hour": "8:30AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "5830",
+    "day": "Friday",
+    "hour": "8:30AM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "4830",
+    "day": "Thursday",
+    "hour": "8:30AM",
+    "type": "BB",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "41000",
+    "day": "Thursday",
+    "hour": "10:00AM",
+    "type": "T",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "31000",
+    "day": "Wednesday",
+    "hour": "10:00AM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "21000",
+    "day": "Tuesday",
+    "hour": "10:00AM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "11000",
+    "day": "Monday",
+    "hour": "10:00AM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "61000",
+    "day": "Saturday",
+    "hour": "10:00AM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Children Welcome"
+  },
+  {
+    "id": "01000",
+    "day": "Sunday",
+    "hour": "10:00AM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "51000",
+    "day": "Friday",
+    "hour": "10:00AM",
+    "type": "BB",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "42430",
+    "day": "Thursday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "32430",
+    "day": "Wednesday",
+    "hour": "12:30PM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "22430",
+    "day": "Tuesday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "12430",
+    "day": "Monday",
+    "hour": "12:30PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "62430",
+    "day": "Saturday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "02430",
+    "day": "Sunday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "52430",
+    "day": "Friday",
+    "hour": "12:30PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "61400",
+    "day": "Saturday",
+    "hour": "2:00PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Women"
+  },
+  {
+    "id": "01400",
+    "day": "Sunday",
+    "hour": "2:00PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Men"
+  },
+  {
+    "id": "51600",
+    "day": "Friday",
+    "hour": "4:00PM",
+    "type": "S",
+    "group": "SEVENTY",
+    "special": "First Step Workshop"
+  },
+  {
+    "id": "41600",
+    "day": "Thursday",
+    "hour": "4:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "31600",
+    "day": "Wednesday",
+    "hour": "4:00PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "21600",
+    "day": "Tuesday",
+    "hour": "4:00PM",
+    "type": "BB",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "11600",
+    "day": "Monday",
+    "hour": "4:00PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "61600",
+    "day": "Saturday",
+    "hour": "4:00PM",
+    "type": "S",
+    "group": "SEVENTY",
+    "special": "Steps 1-2-3"
+  },
+  {
+    "id": "01600",
+    "day": "Sunday",
+    "hour": "4:00PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "As Bill Sees It"
+  },
+  {
+    "id": "51815",
+    "day": "Friday",
+    "hour": "6:15PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Children Welcome"
+  },
+  {
+    "id": "41815",
+    "day": "Thursday",
+    "hour": "6:15PM",
+    "type": "O",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "31815",
+    "day": "Wednesday",
+    "hour": "6:15PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "21815",
+    "day": "Tuesday",
+    "hour": "6:15PM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "11815",
+    "day": "Monday",
+    "hour": "6:15PM",
+    "type": "T",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "61815",
+    "day": "Saturday",
+    "hour": "6:15PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "01815",
+    "day": "Sunday",
+    "hour": "6:15PM",
+    "type": "OD",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "02000",
+    "day": "Sunday",
+    "hour": "8:00PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Promises"
+  },
+  {
+    "id": "52000",
+    "day": "Friday",
+    "hour": "8:00PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "32000",
+    "day": "Wednesday",
+    "hour": "8:00PM",
+    "type": "BB",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "22000",
+    "day": "Tuesday",
+    "hour": "8:00PM",
+    "type": "C",
+    "group": "SEVENTY",
+    "special": "Sponsorship Workshop"
+  },
+  {
+    "id": "62000",
+    "day": "Saturday",
+    "hour": "8:00PM",
+    "type": "O",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "62200",
+    "day": "Saturday",
+    "hour": "10:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "02200",
+    "day": "Sunday",
+    "hour": "10:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "52200",
+    "day": "Friday",
+    "hour": "10:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "42200",
+    "day": "Thursday",
+    "hour": "10:00PM",
+    "type": "S",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "22200",
+    "day": "Tuesday",
+    "hour": "10:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "12200",
+    "day": "Monday",
+    "hour": "10:00PM",
+    "type": "B",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "32200",
+    "day": "Wednesday",
+    "hour": "10:00PM",
+    "type": "C",
+    "group": "SEVENTY"
+  },
+  {
+    "id": "6915",
+    "day": "Saturday",
+    "hour": "9:15AM",
+    "type": "C",
+    "group": "SOBER WOMEN",
+    "special": "Women"
+  },
+  {
+    "id": "61000",
+    "day": "Saturday",
+    "hour": "10:00AM",
+    "type": "S",
+    "group": "STEP BY STEP"
+  },
+  {
+    "id": "01000",
+    "day": "Sunday",
+    "hour": "10:00AM",
+    "type": "B",
+    "group": "SUNDAY ON 70TH"
+  },
+  {
+    "id": "61830",
+    "day": "Saturday",
+    "hour": "6:30PM",
+    "type": "OD",
+    "group": "SUTTON"
+  },
+  {
+    "id": "22400",
+    "day": "Tuesday",
+    "hour": "12:00PM",
+    "type": "C",
+    "group": "THREE TWELVES"
+  },
+  {
+    "id": "42400",
+    "day": "Thursday",
+    "hour": "12:00PM",
+    "type": "C",
+    "group": "THREE TWELVES"
+  },
+  {
+    "id": "51900",
+    "day": "Friday",
+    "hour": "7:00PM",
+    "type": "S",
+    "group": "TRINITY"
+  },
+  {
+    "id": "21915",
+    "day": "Tuesday",
+    "hour": "7:15PM",
+    "type": "B",
+    "group": "TRINITY"
+  },
+  {
+    "id": "52030",
+    "day": "Friday",
+    "hour": "8:30PM",
+    "type": "B",
+    "group": "TRINITY"
+  },
+  {
+    "id": "22030",
+    "day": "Tuesday",
+    "hour": "8:30PM",
+    "type": "C",
+    "group": "TRINITY"
+  },
+  {
+    "id": "31815",
+    "day": "Wednesday",
+    "hour": "6:15PM",
+    "type": "C",
+    "group": "WE HUMANISTS",
+    "special": "Agnostic"
+  },
+  {
+    "id": "42000",
+    "day": "Thursday",
+    "hour": "8:00PM",
+    "type": "C",
+    "group": "WEDNESDAY EAST ON THURSDAY"
+  },
+  {
+    "id": "42000",
+    "day": "Thursday",
+    "hour": "8:00PM",
+    "type": "C",
+    "group": "YORKVILLE"
+  }
+]
