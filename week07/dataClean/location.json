@@ -1,7 +1,7 @@
 [
   {
     "name": "Jan Hus Church",
-    "group": "A BAFFLED LOT -",
+    "group": "A BAFFLED LOT",
     "floor": "2nd Floor",
     "postcode": 10021,
     "wheelChair": false,
@@ -11,7 +11,7 @@
   },
   {
     "name": "Manhattan Church of Christ",
-    "group": "A.A. TRADITIONS AND HISTORY -",
+    "group": "A.A. TRADITIONS AND HISTORY",
     "floor": "2nd Floor Library",
     "postcode": 10021,
     "wheelChair": true,
@@ -31,7 +31,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "AFTERNOON AWAKENING -",
+    "group": "AFTERNOON AWAKENING",
     "floor": "2nd Floor",
     "postcode": 10021,
     "wheelChair": false,
@@ -41,7 +41,7 @@
   },
   {
     "name": "Church of the Epiphany",
-    "group": "ATLANTIC ELEVENTH STEP MEDITATION -",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION",
     "floor": "",
     "postcode": 10021,
     "wheelChair": false,
@@ -61,7 +61,7 @@
   },
   {
     "name": "Archdiocian Cathedral of the Holy Trinity",
-    "group": "ATLANTIC GROUP (:II) -",
+    "group": "ATLANTIC GROUP (:II)",
     "floor": "",
     "postcode": 10021,
     "wheelChair": true,
@@ -71,7 +71,7 @@
   },
   {
     "name": "All Souls Church",
-    "group": "ATLANTIC GROUP (:III) -",
+    "group": "ATLANTIC GROUP (:III)",
     "floor": "",
     "postcode": 10075,
     "wheelChair": true,
@@ -141,7 +141,7 @@
   },
   {
     "name": "All Souls Uniterian Church",
-    "group": "FEARLESS -",
+    "group": "FEARLESS",
     "floor": "1st Floor",
     "postcode": 10028,
     "wheelChair": false,
@@ -151,7 +151,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "FRIDAY CENTRAL -",
+    "group": "FRIDAY CENTRAL",
     "floor": "Mazaryk Room",
     "postcode": 10021,
     "wheelChair": false,
@@ -181,7 +181,7 @@
   },
   {
     "name": "Church of Saint Thomas Moore",
-    "group": "HUMANISTS TOO -",
+    "group": "HUMANISTS TOO",
     "floor": "",
     "postcode": 10128,
     "wheelChair": false,
@@ -191,7 +191,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "I'M ALL IN -",
+    "group": "I'M ALL IN",
     "floor": "2nd Floor",
     "postcode": 10021,
     "wheelChair": false,
@@ -211,7 +211,7 @@
   },
   {
     "name": "Jan Hus Presbyterian Church",
-    "group": "KITCHEN TABLE MEETING -",
+    "group": "KITCHEN TABLE MEETING",
     "floor": "2nd Floor Kitchen",
     "postcode": 10021,
     "wheelChair": false,
@@ -231,7 +231,7 @@
   },
   {
     "name": "All Souls Uniterian Church",
-    "group": "LEX 80 STEP -",
+    "group": "LEX 80 STEP",
     "floor": "",
     "postcode": 10028,
     "wheelChair": true,
@@ -271,7 +271,7 @@
   },
   {
     "name": "Philomathist Center",
-    "group": "MEN'S NYC BIG BOOK STEP STUDY -",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY",
     "floor": "",
     "postcode": 10128,
     "wheelChair": false,
@@ -301,7 +301,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "MONDAY WOMEN -",
+    "group": "MONDAY WOMEN",
     "floor": "2nd Floor Front Room",
     "postcode": 10021,
     "wheelChair": false,
@@ -311,7 +311,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "MORNING REFLECTIONS -",
+    "group": "MORNING REFLECTIONS",
     "floor": "2nd Floor - Front Room",
     "postcode": 10021,
     "wheelChair": false,
@@ -331,7 +331,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "OPEN BOOK -",
+    "group": "OPEN BOOK",
     "floor": "2nd Floor",
     "postcode": 10021,
     "wheelChair": false,
@@ -341,7 +341,7 @@
   },
   {
     "name": "Jan Hus Church",
-    "group": "OUR PRIMARY PURPOSE -",
+    "group": "OUR PRIMARY PURPOSE",
     "floor": "2nd Floor Kitchen",
     "postcode": 10021,
     "wheelChair": false,
@@ -351,7 +351,7 @@
   },
   {
     "name": "St. James Church",
-    "group": "PARK BENCH   (:II) -",
+    "group": "PARK BENCH   (:II)",
     "floor": "3rd Floor",
     "postcode": 10021,
     "wheelChair": true,
@@ -391,7 +391,7 @@
   },
   {
     "name": "Central Presbyterian Church",
-    "group": "RENEWAL EAST -",
+    "group": "RENEWAL EAST",
     "floor": "5th Floor Library",
     "postcode": 10128,
     "wheelChair": true,
@@ -401,7 +401,7 @@
   },
   {
     "name": "St. Thomas More Church",
-    "group": "RENEWAL NORTH -",
+    "group": "RENEWAL NORTH",
     "floor": "Ring Red Buzzer",
     "postcode": 10128,
     "wheelChair": true,
@@ -421,7 +421,7 @@
   },
   {
     "name": "",
-    "group": "ROOSEVELT ISLAND SERENITY -",
+    "group": "ROOSEVELT ISLAND SERENITY",
     "floor": "Basement 10044",
     "postcode": 10044,
     "wheelChair": true,

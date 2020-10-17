@@ -14,8 +14,9 @@ $('td[style="border-bottom:1px solid #e3e3e3; width:260px"]')
         
        var entry = $(elem).text().split("\n").map(item => item.trim()).slice(2).filter(Boolean); 
        var name = $(elem).children().first().text().trim();
+       var group = $(elem).find('b').text().split(' - ')[0].trim();
        
-       var info = getDetail(entry,name);
+       var info = getDetail(entry,name,group);
        list.push(info);
       
       console.log(info);
@@ -25,7 +26,7 @@ $('td[style="border-bottom:1px solid #e3e3e3; width:260px"]')
     
 fs.writeFileSync('dataClean/loc.json', JSON.stringify(list, null, 2));
 
-function getDetail(a,b){
+function getDetail(a,b,c){
     
     var wheelchair = false;
     if (a[a.length - 1] == 'Wheelchair access') { wheelchair = true; }
@@ -40,7 +41,7 @@ function getDetail(a,b){
     
     var info = {
         name: b,
-        group: a[0].split(' - ')[0],
+        group: c,
         loc: a[1].slice(a[1].search(/\b\d/),a[1].length).split(',')[0],
         floor: floor,
         postcode: parseInt(postcode,10),
