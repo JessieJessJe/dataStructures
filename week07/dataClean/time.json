@@ -1,1189 +1,1354 @@
 [
   {
-    "id": "6730",
+    "timeid": "607300830",
+    "group": "A BAFFLED LOT",
     "day": "Saturday",
-    "hour": "7:30AM",
-    "type": "OD",
-    "group": "A BAFFLED LOT"
+    "start": "7:30 AM",
+    "end": "8:30 AM",
+    "type": "OD"
   },
   {
-    "id": "21900",
+    "timeid": "219002000",
+    "group": "A.A. TRADITIONS AND HISTORY",
     "day": "Tuesday",
-    "hour": "7:00PM",
-    "type": "T",
-    "group": "A.A. TRADITIONS AND HISTORY"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "T"
   },
   {
-    "id": "31800",
+    "timeid": "318001900",
+    "group": "ACTIVE",
     "day": "Wednesday",
-    "hour": "6:00PM",
-    "type": "S",
-    "group": "ACTIVE"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "S"
   },
   {
-    "id": "11430",
-    "day": "Monday",
-    "hour": "2:30PM",
-    "type": "B",
+    "timeid": "114301530",
     "group": "AFTERNOON AWAKENING",
+    "day": "Monday",
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "type": "B",
     "special": "Living Sober"
   },
   {
-    "id": "21430",
+    "timeid": "214301530",
+    "group": "AFTERNOON AWAKENING",
     "day": "Tuesday",
-    "hour": "2:30PM",
-    "type": "S",
-    "group": "AFTERNOON AWAKENING"
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "type": "S"
   },
   {
-    "id": "31430",
+    "timeid": "314301530",
+    "group": "AFTERNOON AWAKENING",
     "day": "Wednesday",
-    "hour": "2:30PM",
-    "type": "BB",
-    "group": "AFTERNOON AWAKENING"
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "type": "BB"
   },
   {
-    "id": "41430",
+    "timeid": "414301530",
+    "group": "AFTERNOON AWAKENING",
     "day": "Thursday",
-    "hour": "2:30PM",
-    "type": "S",
-    "group": "AFTERNOON AWAKENING"
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "type": "S"
   },
   {
-    "id": "51430",
+    "timeid": "514301530",
+    "group": "AFTERNOON AWAKENING",
     "day": "Friday",
-    "hour": "2:30PM",
-    "type": "S",
-    "group": "AFTERNOON AWAKENING"
+    "start": "2:30 PM",
+    "end": "3:30 PM",
+    "type": "S"
   },
   {
-    "id": "11915",
+    "timeid": "119152015",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION",
     "day": "Monday",
-    "hour": "7:15PM",
-    "type": "S",
-    "group": "ATLANTIC ELEVENTH STEP MEDITATION"
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "type": "S"
   },
   {
-    "id": "21900",
+    "timeid": "219002000",
+    "group": "ATLANTIC GROUP (:I)",
     "day": "Tuesday",
-    "hour": "7:00PM",
-    "type": "O",
-    "group": "ATLANTIC GROUP (:I)"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "O"
   },
   {
-    "id": "41900",
+    "timeid": "419002000",
+    "group": "ATLANTIC GROUP (:II)",
     "day": "Thursday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "ATLANTIC GROUP (:II)"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "61800",
+    "timeid": "618001900",
+    "group": "ATLANTIC GROUP (:III)",
     "day": "Saturday",
-    "hour": "6:00PM",
-    "type": "O",
-    "group": "ATLANTIC GROUP (:III)"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "O"
   },
   {
-    "id": "51830",
+    "timeid": "518301930",
+    "group": "BREAKING THROUGH",
     "day": "Friday",
-    "hour": "6:30PM",
-    "type": "B",
-    "group": "BREAKING THROUGH"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "B"
   },
   {
-    "id": "01530",
+    "timeid": "015301630",
+    "group": "CAME TO BELIEVE",
     "day": "Sunday",
-    "hour": "3:30PM",
-    "type": "B",
-    "group": "CAME TO BELIEVE"
+    "start": "3:30 PM",
+    "end": "4:30 PM",
+    "type": "B"
   },
   {
-    "id": "21815",
+    "timeid": "218151915",
+    "group": "CARNEGIE HILL",
     "day": "Tuesday",
-    "hour": "6:15PM",
-    "type": "C",
-    "group": "CARNEGIE HILL"
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "C"
   },
   {
-    "id": "01700",
-    "day": "Sunday",
-    "hour": "5:00PM",
-    "type": "O",
+    "timeid": "017001745",
     "group": "CENTRAL",
+    "day": "Sunday",
+    "start": "5:00 PM",
+    "end": "5:45 PM",
+    "type": "O",
     "special": "Meditation"
   },
   {
-    "id": "01800",
+    "timeid": "018001900",
+    "group": "CENTRAL",
     "day": "Sunday",
-    "hour": "6:00PM",
-    "type": "S",
-    "group": "CENTRAL"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "S"
   },
   {
-    "id": "01800",
+    "timeid": "018001900",
+    "group": "CENTRAL",
     "day": "Sunday",
-    "hour": "6:00PM",
-    "type": "OD",
-    "group": "CENTRAL"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "OD"
   },
   {
-    "id": "01915",
+    "timeid": "019152015",
+    "group": "CENTRAL",
     "day": "Sunday",
-    "hour": "7:15PM",
-    "type": "B",
-    "group": "CENTRAL"
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "type": "B"
   },
   {
-    "id": "1715",
-    "day": "Monday",
-    "hour": "7:15AM",
-    "type": "BB",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "2715",
-    "day": "Tuesday",
-    "hour": "7:15AM",
-    "type": "OD",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "3715",
-    "day": "Wednesday",
-    "hour": "7:15AM",
-    "type": "S",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "4715",
-    "day": "Thursday",
-    "hour": "7:15AM",
-    "type": "OD",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "5715",
-    "day": "Friday",
-    "hour": "7:15AM",
-    "type": "OD",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "0800",
-    "day": "Sunday",
-    "hour": "8:00AM",
-    "type": "OD",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "6800",
-    "day": "Saturday",
-    "hour": "8:00AM",
-    "type": "OD",
-    "group": "CHAPTER FIVE"
-  },
-  {
-    "id": "51815",
-    "day": "Friday",
-    "hour": "6:15PM",
-    "type": "S",
+    "timeid": "107150815",
     "group": "CHAPTER FIVE",
+    "day": "Monday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "BB"
+  },
+  {
+    "timeid": "207150815",
+    "group": "CHAPTER FIVE",
+    "day": "Tuesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "OD"
+  },
+  {
+    "timeid": "307150815",
+    "group": "CHAPTER FIVE",
+    "day": "Wednesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "S"
+  },
+  {
+    "timeid": "407150815",
+    "group": "CHAPTER FIVE",
+    "day": "Thursday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "OD"
+  },
+  {
+    "timeid": "507150815",
+    "group": "CHAPTER FIVE",
+    "day": "Friday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "OD"
+  },
+  {
+    "timeid": "008000900",
+    "group": "CHAPTER FIVE",
+    "day": "Sunday",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "type": "OD"
+  },
+  {
+    "timeid": "608000900",
+    "group": "CHAPTER FIVE",
+    "day": "Saturday",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "type": "OD"
+  },
+  {
+    "timeid": "518151930",
+    "group": "CHAPTER FIVE",
+    "day": "Friday",
+    "start": "6:15 PM",
+    "end": "7:30 PM",
+    "type": "S",
     "special": "Women"
   },
   {
-    "id": "01900",
+    "timeid": "019002000",
+    "group": "CHAPTER FIVE",
     "day": "Sunday",
-    "hour": "7:00PM",
-    "type": "C",
-    "group": "CHAPTER FIVE"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "C"
   },
   {
-    "id": "31930",
+    "timeid": "319302100",
+    "group": "CHAPTER FIVE",
     "day": "Wednesday",
-    "hour": "7:30PM",
-    "type": "B",
-    "group": "CHAPTER FIVE"
+    "start": "7:30 PM",
+    "end": "9:00 PM",
+    "type": "B"
   },
   {
-    "id": "42000",
+    "timeid": "420002115",
+    "group": "CHAPTER FIVE",
     "day": "Thursday",
-    "hour": "8:00PM",
-    "type": "BB",
-    "group": "CHAPTER FIVE"
+    "start": "8:00 PM",
+    "end": "9:15 PM",
+    "type": "BB"
   },
   {
-    "id": "0900",
+    "timeid": "009001000",
+    "group": "ELEVENTH STEP AT JAN HUS",
     "day": "Sunday",
-    "hour": "9:00AM",
-    "type": "S",
-    "group": "ELEVENTH STEP AT JAN HUS"
+    "start": "9:00 AM",
+    "end": "10:00 AM",
+    "type": "S"
   },
   {
-    "id": "51930",
+    "timeid": "519302030",
+    "group": "FEARLESS",
     "day": "Friday",
-    "hour": "7:30PM",
-    "type": "C",
-    "group": "FEARLESS"
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "type": "C"
   },
   {
-    "id": "51830",
+    "timeid": "518301930",
+    "group": "FRIDAY CENTRAL",
     "day": "Friday",
-    "hour": "6:30PM",
-    "type": "C",
-    "group": "FRIDAY CENTRAL"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "C"
   },
   {
-    "id": "52000",
-    "day": "Friday",
-    "hour": "8:00PM",
-    "type": "S",
+    "timeid": "520002100",
     "group": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "S",
     "special": "Gay, Lesbian and Bisexual"
   },
   {
-    "id": "51815",
-    "day": "Friday",
-    "hour": "6:15PM",
-    "type": "S",
+    "timeid": "518151915",
     "group": "FRIDAY NIGHT MEN'S STEP",
+    "day": "Friday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "S",
     "special": "Men"
   },
   {
-    "id": "11815",
-    "day": "Monday",
-    "hour": "6:15PM",
-    "type": "Agnostic",
+    "timeid": "118151915",
     "group": "HUMANISTS TOO",
+    "day": "Monday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "Agnostic",
     "special": "Agnostic"
   },
   {
-    "id": "22430",
+    "timeid": "224301330",
+    "group": "I'M ALL IN",
     "day": "Tuesday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "32430",
+    "timeid": "324301330",
+    "group": "I'M ALL IN",
     "day": "Wednesday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "42430",
+    "timeid": "424301330",
+    "group": "I'M ALL IN",
     "day": "Thursday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "52430",
+    "timeid": "524301330",
+    "group": "I'M ALL IN",
     "day": "Friday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "62430",
+    "timeid": "624301330",
+    "group": "I'M ALL IN",
     "day": "Saturday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "12430",
+    "timeid": "124301330",
+    "group": "I'M ALL IN",
     "day": "Monday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "I'M ALL IN"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
   },
   {
-    "id": "31830",
-    "day": "Wednesday",
-    "hour": "6:30PM",
-    "type": "S",
+    "timeid": "318301930",
     "group": "INTO ACTION MANHATTAN",
+    "day": "Wednesday",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "S",
     "special": "Big Book Workshop"
   },
   {
-    "id": "61100",
+    "timeid": "6011002400",
+    "group": "KITCHEN TABLE MEETING",
     "day": "Saturday",
-    "hour": "11:00AM",
-    "type": "C",
-    "group": "KITCHEN TABLE MEETING"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "C"
   },
   {
-    "id": "11900",
+    "timeid": "119002000",
+    "group": "LENOX HILL",
     "day": "Monday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "LENOX HILL"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "11900",
+    "timeid": "119002000",
+    "group": "LENOX HILL",
     "day": "Monday",
-    "hour": "7:00PM",
-    "type": "S",
-    "group": "LENOX HILL"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "S"
   },
   {
-    "id": "41900",
+    "timeid": "419002000",
+    "group": "LENOX HILL",
     "day": "Thursday",
-    "hour": "7:00PM",
-    "type": "O",
-    "group": "LENOX HILL"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "O"
   },
   {
-    "id": "42015",
+    "timeid": "420152100",
+    "group": "LENOX HILL",
     "day": "Thursday",
-    "hour": "8:15PM",
-    "type": "B",
-    "group": "LENOX HILL"
+    "start": "8:15 PM",
+    "end": "9:00 PM",
+    "type": "B"
   },
   {
-    "id": "12015",
+    "timeid": "120152100",
+    "group": "LENOX HILL",
     "day": "Monday",
-    "hour": "8:15PM",
-    "type": "C",
-    "group": "LENOX HILL"
+    "start": "8:15 PM",
+    "end": "9:00 PM",
+    "type": "C"
   },
   {
-    "id": "31830",
-    "day": "Wednesday",
-    "hour": "6:30PM",
-    "type": "S",
+    "timeid": "318301930",
     "group": "LEX 80 STEP",
+    "day": "Wednesday",
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "S",
     "special": "Twelve Steps"
   },
   {
-    "id": "21900",
+    "timeid": "219002000",
+    "group": "LIVE AND LET LIVE",
     "day": "Tuesday",
-    "hour": "7:00PM",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
     "type": "B",
-    "group": "LIVE AND LET LIVE",
     "special": "Gay, Lesbian and Bisexual"
   },
   {
-    "id": "41900",
+    "timeid": "419002000",
+    "group": "LIVE AND LET LIVE",
     "day": "Thursday",
-    "hour": "7:00PM",
+    "start": "7:00 PM",
+    "end": "8:00 PM",
     "type": "OD",
-    "group": "LIVE AND LET LIVE",
     "special": "Gay, Lesbian and Bisexual"
   },
   {
-    "id": "22030",
+    "timeid": "220302130",
+    "group": "LIVE AND LET LIVE",
     "day": "Tuesday",
-    "hour": "8:30PM",
+    "start": "8:30 PM",
+    "end": "9:30 PM",
     "type": "C",
-    "group": "LIVE AND LET LIVE",
     "special": "Gay, Lesbian and Bisexual"
   },
   {
-    "id": "61900",
+    "timeid": "619002000",
+    "group": "MADISON 73",
     "day": "Saturday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "MADISON 73"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "61900",
+    "timeid": "619002000",
+    "group": "MADISON 73",
     "day": "Saturday",
-    "hour": "7:00PM",
-    "type": "S",
-    "group": "MADISON 73"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "S"
   },
   {
-    "id": "41100",
+    "timeid": "4011002400",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Thursday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "51100",
+    "timeid": "5011002400",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Friday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "11100",
+    "timeid": "1011002400",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Monday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "21100",
+    "timeid": "2011002400",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Tuesday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "31100",
+    "timeid": "3011002400",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Wednesday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "32000",
+    "timeid": "320002100",
+    "group": "MEDITATION (EXPECT MIRACLES)",
     "day": "Wednesday",
-    "hour": "8:00PM",
-    "type": "OD",
-    "group": "MEDITATION (EXPECT MIRACLES)"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "OD"
   },
   {
-    "id": "31900",
+    "timeid": "319002030",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY",
     "day": "Wednesday",
-    "hour": "7:00PM",
-    "type": "BB",
-    "group": "MEN'S NYC BIG BOOK STEP STUDY"
+    "start": "7:00 PM",
+    "end": "8:30 PM",
+    "type": "BB"
   },
   {
-    "id": "61515",
-    "day": "Saturday",
-    "hour": "3:15PM",
-    "type": "S",
+    "timeid": "615151615",
     "group": "METROPOLITAN",
+    "day": "Saturday",
+    "start": "3:15 PM",
+    "end": "4:15 PM",
+    "type": "S",
     "special": "First Step Workshop"
   },
   {
-    "id": "01815",
+    "timeid": "018151915",
+    "group": "METROPOLITAN",
     "day": "Sunday",
-    "hour": "6:15PM",
-    "type": "B",
-    "group": "METROPOLITAN"
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "B"
   },
   {
-    "id": "21830",
+    "timeid": "218301930",
+    "group": "METROPOLITAN",
     "day": "Tuesday",
-    "hour": "6:30PM",
-    "group": "METROPOLITAN"
+    "start": "6:30 PM",
+    "end": "7:30 PM"
   },
   {
-    "id": "01930",
+    "timeid": "019302030",
+    "group": "METROPOLITAN",
     "day": "Sunday",
-    "hour": "7:30PM",
-    "type": "S",
-    "group": "METROPOLITAN"
+    "start": "7:30 PM",
+    "end": "8:30 PM",
+    "type": "S"
   },
   {
-    "id": "21945",
+    "timeid": "219452045",
+    "group": "METROPOLITAN",
     "day": "Tuesday",
-    "hour": "7:45PM",
-    "type": "B",
-    "group": "METROPOLITAN"
+    "start": "7:45 PM",
+    "end": "8:45 PM",
+    "type": "B"
   },
   {
-    "id": "11900",
+    "timeid": "119002000",
+    "group": "MONDAY EAST TOPIC",
     "day": "Monday",
-    "hour": "7:00PM",
-    "type": "C",
-    "group": "MONDAY EAST TOPIC"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "C"
   },
   {
-    "id": "11915",
-    "day": "Monday",
-    "hour": "7:15PM",
-    "type": "C",
+    "timeid": "119152015",
     "group": "MONDAY WOMEN",
+    "day": "Monday",
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "type": "C",
     "special": "Women"
   },
   {
-    "id": "3930",
-    "day": "Wednesday",
-    "hour": "9:30AM",
-    "type": "OD",
+    "timeid": "309301030",
     "group": "MORNING REFLECTIONS",
+    "day": "Wednesday",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "type": "OD",
     "special": "Daily Reflections"
   },
   {
-    "id": "4930",
+    "timeid": "409301030",
+    "group": "MORNING REFLECTIONS",
     "day": "Thursday",
-    "hour": "9:30AM",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
     "type": "OD",
-    "group": "MORNING REFLECTIONS",
     "special": "Daily Reflections"
   },
   {
-    "id": "5930",
+    "timeid": "509301030",
+    "group": "MORNING REFLECTIONS",
     "day": "Friday",
-    "hour": "9:30AM",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
     "type": "OD",
-    "group": "MORNING REFLECTIONS",
     "special": "Daily Reflections"
   },
   {
-    "id": "1930",
+    "timeid": "109301030",
+    "group": "MORNING REFLECTIONS",
     "day": "Monday",
-    "hour": "9:30AM",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
     "type": "OD",
-    "group": "MORNING REFLECTIONS",
     "special": "Daily Reflections"
   },
   {
-    "id": "2930",
+    "timeid": "209301030",
+    "group": "MORNING REFLECTIONS",
     "day": "Tuesday",
-    "hour": "9:30AM",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
     "type": "OD",
-    "group": "MORNING REFLECTIONS",
     "special": "Daily Reflections"
   },
   {
-    "id": "11830",
+    "timeid": "118301930",
+    "group": "NEW CHOICES",
     "day": "Monday",
-    "hour": "6:30PM",
-    "type": "C",
-    "group": "NEW CHOICES"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "C"
   },
   {
-    "id": "31830",
+    "timeid": "318301930",
+    "group": "NEW CHOICES",
     "day": "Wednesday",
-    "hour": "6:30PM",
-    "type": "S",
-    "group": "NEW CHOICES"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "S"
   },
   {
-    "id": "11915",
+    "timeid": "119152015",
+    "group": "OPEN BOOK",
     "day": "Monday",
-    "hour": "7:15PM",
-    "type": "BB",
-    "group": "OPEN BOOK"
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "type": "BB"
   },
   {
-    "id": "6930",
-    "day": "Saturday",
-    "hour": "9:30AM",
-    "type": "S",
+    "timeid": "609301030",
     "group": "OUR PRIMARY PURPOSE",
+    "day": "Saturday",
+    "start": "9:30 AM",
+    "end": "10:30 AM",
+    "type": "S",
     "special": "Women"
   },
   {
-    "id": "32430",
+    "timeid": "324301330",
+    "group": "PARK BENCH   (:II)",
     "day": "Wednesday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "PARK BENCH   (:II)"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
   },
   {
-    "id": "42430",
+    "timeid": "424301330",
+    "group": "PARK BENCH   (:II)",
     "day": "Thursday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "PARK BENCH   (:II)"
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
   },
   {
-    "id": "51845",
+    "timeid": "518451945",
+    "group": "PARK MADISON",
     "day": "Friday",
-    "hour": "6:45PM",
-    "type": "C",
-    "group": "PARK MADISON"
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "type": "C"
   },
   {
-    "id": "21845",
+    "timeid": "218451945",
+    "group": "PARK MADISON",
     "day": "Tuesday",
-    "hour": "6:45PM",
-    "type": "B",
-    "group": "PARK MADISON"
+    "start": "6:45 PM",
+    "end": "7:45 PM",
+    "type": "B"
   },
   {
-    "id": "22000",
+    "timeid": "220002100",
+    "group": "PARK MADISON",
     "day": "Tuesday",
-    "hour": "8:00PM",
-    "type": "C",
-    "group": "PARK MADISON"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "C"
   },
   {
-    "id": "52000",
+    "timeid": "520002100",
+    "group": "PARK MADISON",
     "day": "Friday",
-    "hour": "8:00PM",
-    "type": "S",
-    "group": "PARK MADISON"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "S"
   },
   {
-    "id": "61100",
+    "timeid": "6011002400",
+    "group": "PERSEVERANCE",
     "day": "Saturday",
-    "hour": "11:00AM",
-    "type": "OD",
-    "group": "PERSEVERANCE"
+    "start": "11:00 AM",
+    "end": "12:00 PM",
+    "type": "OD"
   },
   {
-    "id": "31900",
+    "timeid": "319002000",
+    "group": "RECOVERY ROOM",
     "day": "Wednesday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "RECOVERY ROOM"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "31830",
+    "timeid": "318301930",
+    "group": "RENEWAL EAST",
     "day": "Wednesday",
-    "hour": "6:30PM",
-    "type": "C",
-    "group": "RENEWAL EAST"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "C"
   },
   {
-    "id": "41830",
+    "timeid": "418301930",
+    "group": "RENEWAL NORTH",
     "day": "Thursday",
-    "hour": "6:30PM",
-    "type": "OD",
-    "group": "RENEWAL NORTH"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "OD"
   },
   {
-    "id": "11800",
+    "timeid": "118001900",
+    "group": "RHINELANDER",
     "day": "Monday",
-    "hour": "6:00PM",
-    "type": "OD",
-    "group": "RHINELANDER"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "OD"
   },
   {
-    "id": "41800",
+    "timeid": "418001900",
+    "group": "RHINELANDER",
     "day": "Thursday",
-    "hour": "6:00PM",
-    "type": "S",
-    "group": "RHINELANDER"
+    "start": "6:00 PM",
+    "end": "7:00 PM",
+    "type": "S"
   },
   {
-    "id": "41900",
+    "timeid": "419002000",
+    "group": "RHINELANDER",
     "day": "Thursday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "RHINELANDER"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "11900",
+    "timeid": "119002000",
+    "group": "RHINELANDER",
     "day": "Monday",
-    "hour": "7:00PM",
-    "type": "B",
-    "group": "RHINELANDER"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "B"
   },
   {
-    "id": "61830",
+    "timeid": "618301930",
+    "group": "ROOSEVELT ISLAND SERENITY",
     "day": "Saturday",
-    "hour": "6:30PM",
-    "type": "C",
-    "group": "ROOSEVELT ISLAND SERENITY"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "C"
   },
   {
-    "id": "2600",
-    "day": "Tuesday",
-    "hour": "6:00AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "1600",
-    "day": "Monday",
-    "hour": "6:00AM",
-    "type": "C",
+    "timeid": "206000700",
     "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "106000700",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "type": "C",
     "special": "Daily Reflections"
   },
   {
-    "id": "5600",
-    "day": "Friday",
-    "hour": "6:00AM",
-    "type": "BB",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "4600",
-    "day": "Thursday",
-    "hour": "6:00AM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "3600",
-    "day": "Wednesday",
-    "hour": "6:00AM",
-    "type": "C",
+    "timeid": "506000700",
     "group": "SEVENTY",
+    "day": "Friday",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "type": "BB"
+  },
+  {
+    "timeid": "406000700",
+    "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "type": "S"
+  },
+  {
+    "timeid": "306000700",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "6:00 AM",
+    "end": "7:00 AM",
+    "type": "C",
     "special": "As Bill Sees It"
   },
   {
-    "id": "2715",
-    "day": "Tuesday",
-    "hour": "7:15AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "1715",
-    "day": "Monday",
-    "hour": "7:15AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "5715",
-    "day": "Friday",
-    "hour": "7:15AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "4715",
-    "day": "Thursday",
-    "hour": "7:15AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "3715",
-    "day": "Wednesday",
-    "hour": "7:15AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "6800",
-    "day": "Saturday",
-    "hour": "8:00AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "0800",
-    "day": "Sunday",
-    "hour": "8:00AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "3830",
-    "day": "Wednesday",
-    "hour": "8:30AM",
-    "type": "T",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "2830",
-    "day": "Tuesday",
-    "hour": "8:30AM",
-    "type": "C",
+    "timeid": "207150815",
     "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "107150815",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "507150815",
+    "group": "SEVENTY",
+    "day": "Friday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "407150815",
+    "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "307150815",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "608000900",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "008000900",
+    "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "8:00 AM",
+    "end": "9:00 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "308300930",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "type": "T"
+  },
+  {
+    "timeid": "208300930",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "type": "C",
     "special": "Promises"
   },
   {
-    "id": "1830",
-    "day": "Monday",
-    "hour": "8:30AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "5830",
-    "day": "Friday",
-    "hour": "8:30AM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "4830",
-    "day": "Thursday",
-    "hour": "8:30AM",
-    "type": "BB",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "41000",
-    "day": "Thursday",
-    "hour": "10:00AM",
-    "type": "T",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "31000",
-    "day": "Wednesday",
-    "hour": "10:00AM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "21000",
-    "day": "Tuesday",
-    "hour": "10:00AM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "11000",
-    "day": "Monday",
-    "hour": "10:00AM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "61000",
-    "day": "Saturday",
-    "hour": "10:00AM",
-    "type": "C",
+    "timeid": "108300930",
     "group": "SEVENTY",
+    "day": "Monday",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "508300930",
+    "group": "SEVENTY",
+    "day": "Friday",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "type": "S"
+  },
+  {
+    "timeid": "408300930",
+    "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "8:30 AM",
+    "end": "9:30 AM",
+    "type": "BB"
+  },
+  {
+    "timeid": "4100001100",
+    "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "T"
+  },
+  {
+    "timeid": "3100001100",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "C"
+  },
+  {
+    "timeid": "2100001100",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "S"
+  },
+  {
+    "timeid": "1100001100",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "B"
+  },
+  {
+    "timeid": "6100001100",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "C",
     "special": "Children Welcome"
   },
   {
-    "id": "01000",
-    "day": "Sunday",
-    "hour": "10:00AM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "51000",
-    "day": "Friday",
-    "hour": "10:00AM",
-    "type": "BB",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "42430",
-    "day": "Thursday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "32430",
-    "day": "Wednesday",
-    "hour": "12:30PM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "22430",
-    "day": "Tuesday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "12430",
-    "day": "Monday",
-    "hour": "12:30PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "62430",
-    "day": "Saturday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "02430",
-    "day": "Sunday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "52430",
-    "day": "Friday",
-    "hour": "12:30PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "61400",
-    "day": "Saturday",
-    "hour": "2:00PM",
-    "type": "C",
+    "timeid": "0100001100",
     "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "S"
+  },
+  {
+    "timeid": "5100001100",
+    "group": "SEVENTY",
+    "day": "Friday",
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "BB"
+  },
+  {
+    "timeid": "424301330",
+    "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "324301330",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "S"
+  },
+  {
+    "timeid": "224301330",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "124301330",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "624301330",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "024301330",
+    "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "524301330",
+    "group": "SEVENTY",
+    "day": "Friday",
+    "start": "12:30 PM",
+    "end": "1:30 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "614001500",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "type": "C",
     "special": "Women"
   },
   {
-    "id": "01400",
-    "day": "Sunday",
-    "hour": "2:00PM",
-    "type": "C",
+    "timeid": "014001500",
     "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "2:00 PM",
+    "end": "3:00 PM",
+    "type": "C",
     "special": "Men"
   },
   {
-    "id": "51600",
-    "day": "Friday",
-    "hour": "4:00PM",
-    "type": "S",
+    "timeid": "516001700",
     "group": "SEVENTY",
+    "day": "Friday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "S",
     "special": "First Step Workshop"
   },
   {
-    "id": "41600",
-    "day": "Thursday",
-    "hour": "4:00PM",
-    "type": "C",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "31600",
-    "day": "Wednesday",
-    "hour": "4:00PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "21600",
-    "day": "Tuesday",
-    "hour": "4:00PM",
-    "type": "BB",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "11600",
-    "day": "Monday",
-    "hour": "4:00PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "61600",
-    "day": "Saturday",
-    "hour": "4:00PM",
-    "type": "S",
+    "timeid": "416001700",
     "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "C"
+  },
+  {
+    "timeid": "316001700",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "216001700",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "BB"
+  },
+  {
+    "timeid": "116001700",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "616001700",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "S",
     "special": "Steps 1-2-3"
   },
   {
-    "id": "01600",
-    "day": "Sunday",
-    "hour": "4:00PM",
-    "type": "C",
+    "timeid": "016001700",
     "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "4:00 PM",
+    "end": "5:00 PM",
+    "type": "C",
     "special": "As Bill Sees It"
   },
   {
-    "id": "51815",
-    "day": "Friday",
-    "hour": "6:15PM",
-    "type": "C",
+    "timeid": "518151915",
     "group": "SEVENTY",
+    "day": "Friday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "C",
     "special": "Children Welcome"
   },
   {
-    "id": "41815",
-    "day": "Thursday",
-    "hour": "6:15PM",
-    "type": "O",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "31815",
-    "day": "Wednesday",
-    "hour": "6:15PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "21815",
-    "day": "Tuesday",
-    "hour": "6:15PM",
-    "type": "S",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "11815",
-    "day": "Monday",
-    "hour": "6:15PM",
-    "type": "T",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "61815",
-    "day": "Saturday",
-    "hour": "6:15PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "01815",
-    "day": "Sunday",
-    "hour": "6:15PM",
-    "type": "OD",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "02000",
-    "day": "Sunday",
-    "hour": "8:00PM",
-    "type": "C",
+    "timeid": "418151915",
     "group": "SEVENTY",
+    "day": "Thursday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "O"
+  },
+  {
+    "timeid": "318151915",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "218151915",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "S"
+  },
+  {
+    "timeid": "118151915",
+    "group": "SEVENTY",
+    "day": "Monday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "T"
+  },
+  {
+    "timeid": "618151915",
+    "group": "SEVENTY",
+    "day": "Saturday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "018151915",
+    "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "OD"
+  },
+  {
+    "timeid": "020002100",
+    "group": "SEVENTY",
+    "day": "Sunday",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "C",
     "special": "Promises"
   },
   {
-    "id": "52000",
-    "day": "Friday",
-    "hour": "8:00PM",
-    "type": "B",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "32000",
-    "day": "Wednesday",
-    "hour": "8:00PM",
-    "type": "BB",
-    "group": "SEVENTY"
-  },
-  {
-    "id": "22000",
-    "day": "Tuesday",
-    "hour": "8:00PM",
-    "type": "C",
+    "timeid": "520002100",
     "group": "SEVENTY",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "B"
+  },
+  {
+    "timeid": "320002100",
+    "group": "SEVENTY",
+    "day": "Wednesday",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "BB"
+  },
+  {
+    "timeid": "220002100",
+    "group": "SEVENTY",
+    "day": "Tuesday",
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "C",
     "special": "Sponsorship Workshop"
   },
   {
-    "id": "62000",
+    "timeid": "620002100",
+    "group": "SEVENTY",
     "day": "Saturday",
-    "hour": "8:00PM",
-    "type": "O",
-    "group": "SEVENTY"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "O"
   },
   {
-    "id": "62200",
+    "timeid": "622002300",
+    "group": "SEVENTY",
     "day": "Saturday",
-    "hour": "10:00PM",
-    "type": "C",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "C"
   },
   {
-    "id": "02200",
+    "timeid": "022002300",
+    "group": "SEVENTY",
     "day": "Sunday",
-    "hour": "10:00PM",
-    "type": "C",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "C"
   },
   {
-    "id": "52200",
+    "timeid": "522002300",
+    "group": "SEVENTY",
     "day": "Friday",
-    "hour": "10:00PM",
-    "type": "C",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "C"
   },
   {
-    "id": "42200",
+    "timeid": "422002300",
+    "group": "SEVENTY",
     "day": "Thursday",
-    "hour": "10:00PM",
-    "type": "S",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "S"
   },
   {
-    "id": "22200",
+    "timeid": "222002300",
+    "group": "SEVENTY",
     "day": "Tuesday",
-    "hour": "10:00PM",
-    "type": "C",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "C"
   },
   {
-    "id": "12200",
+    "timeid": "122002300",
+    "group": "SEVENTY",
     "day": "Monday",
-    "hour": "10:00PM",
-    "type": "B",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "B"
   },
   {
-    "id": "32200",
+    "timeid": "322002300",
+    "group": "SEVENTY",
     "day": "Wednesday",
-    "hour": "10:00PM",
-    "type": "C",
-    "group": "SEVENTY"
+    "start": "10:00 PM",
+    "end": "11:00 PM",
+    "type": "C"
   },
   {
-    "id": "6915",
-    "day": "Saturday",
-    "hour": "9:15AM",
-    "type": "C",
+    "timeid": "609151015",
     "group": "SOBER WOMEN",
+    "day": "Saturday",
+    "start": "9:15 AM",
+    "end": "10:15 AM",
+    "type": "C",
     "special": "Women"
   },
   {
-    "id": "61000",
+    "timeid": "6100001100",
+    "group": "STEP BY STEP",
     "day": "Saturday",
-    "hour": "10:00AM",
-    "type": "S",
-    "group": "STEP BY STEP"
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "S"
   },
   {
-    "id": "01000",
+    "timeid": "0100001100",
+    "group": "SUNDAY ON 70TH",
     "day": "Sunday",
-    "hour": "10:00AM",
-    "type": "B",
-    "group": "SUNDAY ON 70TH"
+    "start": "10:00 AM",
+    "end": "11:00 AM",
+    "type": "B"
   },
   {
-    "id": "61830",
+    "timeid": "618301930",
+    "group": "SUTTON",
     "day": "Saturday",
-    "hour": "6:30PM",
-    "type": "OD",
-    "group": "SUTTON"
+    "start": "6:30 PM",
+    "end": "7:30 PM",
+    "type": "OD"
   },
   {
-    "id": "22400",
+    "timeid": "224001300",
+    "group": "THREE TWELVES",
     "day": "Tuesday",
-    "hour": "12:00PM",
-    "type": "C",
-    "group": "THREE TWELVES"
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "type": "C"
   },
   {
-    "id": "42400",
+    "timeid": "424001300",
+    "group": "THREE TWELVES",
     "day": "Thursday",
-    "hour": "12:00PM",
-    "type": "C",
-    "group": "THREE TWELVES"
+    "start": "12:00 PM",
+    "end": "1:00 PM",
+    "type": "C"
   },
   {
-    "id": "51900",
+    "timeid": "519002000",
+    "group": "TRINITY",
     "day": "Friday",
-    "hour": "7:00PM",
-    "type": "S",
-    "group": "TRINITY"
+    "start": "7:00 PM",
+    "end": "8:00 PM",
+    "type": "S"
   },
   {
-    "id": "21915",
+    "timeid": "219152015",
+    "group": "TRINITY",
     "day": "Tuesday",
-    "hour": "7:15PM",
-    "type": "B",
-    "group": "TRINITY"
+    "start": "7:15 PM",
+    "end": "8:15 PM",
+    "type": "B"
   },
   {
-    "id": "52030",
+    "timeid": "520302130",
+    "group": "TRINITY",
     "day": "Friday",
-    "hour": "8:30PM",
-    "type": "B",
-    "group": "TRINITY"
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "type": "B"
   },
   {
-    "id": "22030",
+    "timeid": "220302130",
+    "group": "TRINITY",
     "day": "Tuesday",
-    "hour": "8:30PM",
-    "type": "C",
-    "group": "TRINITY"
+    "start": "8:30 PM",
+    "end": "9:30 PM",
+    "type": "C"
   },
   {
-    "id": "31815",
-    "day": "Wednesday",
-    "hour": "6:15PM",
-    "type": "C",
+    "timeid": "318151915",
     "group": "WE HUMANISTS",
+    "day": "Wednesday",
+    "start": "6:15 PM",
+    "end": "7:15 PM",
+    "type": "C",
     "special": "Agnostic"
   },
   {
-    "id": "42000",
+    "timeid": "420002100",
+    "group": "WEDNESDAY EAST ON THURSDAY",
     "day": "Thursday",
-    "hour": "8:00PM",
-    "type": "C",
-    "group": "WEDNESDAY EAST ON THURSDAY"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "C"
   },
   {
-    "id": "42000",
+    "timeid": "420002100",
+    "group": "YORKVILLE",
     "day": "Thursday",
-    "hour": "8:00PM",
-    "type": "C",
-    "group": "YORKVILLE"
+    "start": "8:00 PM",
+    "end": "9:00 PM",
+    "type": "C"
   }
 ]
