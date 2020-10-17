@@ -7,8 +7,6 @@ const dataDir = path.join(__dirname + './../week01/data/page7.txt') ;
 var content = fs.readFileSync(dataDir);
 var $ = cheerio.load(content);
 
-var groupList = JSON.parse(fs.readFileSync('dataClean/group.json'));
-
 var list=[];
 
 
@@ -39,7 +37,7 @@ function getDetail(a,b){
       type: entry[10],
       special:ss
       
-    }
+    };
     
     return info;
 }
@@ -48,12 +46,13 @@ function getDetail(a,b){
 $('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')       
     .each(function(i, elem){
     
-    var group = $(elem).prev().find('b').text().split('-')[0].trim();
-    var entry = $(elem).text().trim().replace(/\t/g,"").trim().split("\n");      
- 
+    var group = $(elem).prev().find('b').text().split(' - ')[0].trim();
+    var entry = $(elem).text().trim().replace(/\t/g,"").trim().split("\n");  
+    
+    var info;
     if (entry.length == 1)
       { 
-       var info = getDetail(entry[0], group);
+       info = getDetail(entry[0], group);
        list.push(info);
        console.log(info);
        
@@ -61,7 +60,7 @@ $('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')
         
         for (let i = 0; i< entry.length; i += 4){
           console.log(i);
-          var info = getDetail(entry[i], group);
+          info = getDetail(entry[i], group);
           list.push(info);
           console.log(info);
           
