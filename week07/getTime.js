@@ -3,14 +3,52 @@ var path = require('path');
 var cheerio = require('cheerio');
 
 //load the saved page HTML
-const dataDir = path.join(__dirname + './../week01/data/page7.txt') ;
+
+
+for (let i = 1; i < 11; i++) {
+    
+    parseTime(i); 
+    
+}    
+
+async function parseTime(j){
+
+const dataDir = await getPath(j) ;
 var content = fs.readFileSync(dataDir);
 var $ = cheerio.load(content);
 
 var list=[];
 
+// traversing the page
+$('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')       
+    .each(function(i, elem){
+    
+    var group = $(elem).prev().find('b').text().split(' - ')[0].trim().split('(')[0].trim();
+    var entry = $(elem).text().trim().replace(/\t/g,"").trim().split("\n");  
+    
+    var info;
+    if (entry.length == 1)
+      { 
+       info = getDetail(entry[0], group,j);
+       list.push(info);
+       console.log(info);
+       
+      } else {
+        
+        for (let i = 0; i< entry.length; i += 4){
+          console.log(i);
+          info = getDetail(entry[i], group,j);
+          list.push(info);
+          console.log(info);
+          
+        }
+      }
+    });
+   
+fs.appendFileSync('dataClean/timeAll.json', JSON.stringify(list, null, 2));
+}
 
-function getDetail(a,b){
+function getDetail(a,b,j){
     
     var ss;
     var s = a.search("Special Interest") + 17;
@@ -25,7 +63,6 @@ function getDetail(a,b){
     var hour2 = convertTime(entry[3],entry[4]) + convertTime(entry[6],entry[7]);
     var day = getDay(entry[0]);
     var day2 = day.toString();
- 
     
     var info = {
     
@@ -35,46 +72,13 @@ function getDetail(a,b){
       start: entry[3] +' '+ entry[4],
       end: entry[6] +' '+ entry[7],
       type: entry[10],
-      special:ss
+      special:ss,
+      zone: j
       
     };
     
     return info;
 }
-
-// traversing the page
-$('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')       
-    .each(function(i, elem){
-    
-    var group = $(elem).prev().find('b').text().split(' - ')[0].trim();
-    var entry = $(elem).text().trim().replace(/\t/g,"").trim().split("\n");  
-    
-    var info;
-    if (entry.length == 1)
-      { 
-       info = getDetail(entry[0], group);
-       list.push(info);
-       console.log(info);
-       
-      } else {
-        
-        for (let i = 0; i< entry.length; i += 4){
-          console.log(i);
-          info = getDetail(entry[i], group);
-          list.push(info);
-          console.log(info);
-          
-        }
-      }
-  
-   
-         
-    
-    });
-   
-    
-
-fs.writeFileSync('dataClean/time.json', JSON.stringify(list, null, 2));
 
 function convertTime(a,b){
    if (b == "PM") {
@@ -90,7 +94,7 @@ function convertTime(a,b){
 
 function getDay(b){
 var day;
-switch (b.trim()) {
+switch (b) {
   case "Sundays":
     day = 0;
     break;
@@ -114,4 +118,11 @@ switch (b.trim()) {
 }
 
 return day;
+}
+
+function getPath(j){
+  
+    const name = __dirname + "/../week01/data/page" + j + ".txt";
+    return name;
+    
 }

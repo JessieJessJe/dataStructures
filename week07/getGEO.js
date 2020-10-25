@@ -9,11 +9,13 @@ dotenv.config();
 const KEY = process.env.KEY;
 const URL = 'https://geoservices.tamu.edu/Services/Geocode/WebService/GeocoderWebServiceHttpNonParsed_V04_01.aspx';
 
-var objArray = JSON.parse(fs.readFileSync('dataClean/loc.json'));
-
+// manually did the following steps:
+// var listRaw = JSON.stringify(fs.readFileSync('dataClean/locAll.json'));
+// var listClean = listRaw.replace('][',',');
+var list = JSON.parse(fs.readFileSync('dataClean/locAll.json'));
 var dirList = []; 
 
-async.eachSeries(objArray, (obj,callback) => {
+async.eachSeries(list, (obj,callback) => {
   
     let query = {
         streetAddress: obj.loc,
@@ -40,9 +42,9 @@ async.eachSeries(objArray, (obj,callback) => {
         dirList.push(obj);
     });
   
-    setTimeout(callback,1000);
+    setTimeout(callback,500);
     
 }, (err) => {
     if (err)  throw err;
-    fs.writeFileSync('dataClean/location.json', JSON.stringify(dirList, null, 2));
+    fs.writeFileSync('dataClean/locationAll.json', JSON.stringify(dirList, null, 2));
 });

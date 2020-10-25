@@ -1,0 +1,3368 @@
+[
+  {
+    "name": "St Andrews Church",
+    "group": "A DESIGN FOR LIVING",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "Rectory Basement",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "St. Andrew's Church",
+    "group": "CHAMBERS STREET",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "Enter through driveway behind Church.",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "Church of the Transfiguration",
+    "group": "CHINATOWN",
+    "loc": "29 Mott Street",
+    "floor": "Basement",
+    "postcode": 10013,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "St. Margaret's Residence",
+    "group": "DOWNTOWN",
+    "loc": "49 Fulton Street",
+    "floor": "1st Floor Library",
+    "postcode": 10038,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "",
+    "group": "EXCHANGE VIEWS @ JOHN STREET CHURCH",
+    "loc": "44 John Street",
+    "floor": "",
+    "postcode": 10038,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "",
+    "group": "EXCHANGE VIEWS @ ST. MARGARET'S HOUSE",
+    "loc": "49 Fulton Street",
+    "floor": "",
+    "postcode": 10038,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "St. Andrew's Church",
+    "group": "FRIDAY DOWNTOWN",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "Enter thru driveway behind Church.",
+    "postcode": 10007,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "St. Peter's Church",
+    "group": "GATEWAY",
+    "loc": "22 Barclay Street",
+    "floor": "",
+    "postcode": null,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "St. Andrew's Church",
+    "group": "PASSING THE BAR",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "Enter thru driveway behind Church.",
+    "postcode": 10007,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "Saint Peter's Church",
+    "group": "S.O.B.E.R.",
+    "loc": "22 Barclay Street (Basement)",
+    "floor": "",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "Hazelden Tribeca",
+    "group": "SANE AND SOBER",
+    "loc": "283 West Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "Municipal Union Bldg DC 37",
+    "group": "SATURDAY AFTERNOON DISCUSSION",
+    "loc": "125 Barclay Street",
+    "floor": "",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "St. Margaret's House",
+    "group": "SEAMEN'S GROUP",
+    "loc": "49 Fulton Street",
+    "floor": "Conference Room #1",
+    "postcode": 10038,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "St. Margaret's House",
+    "group": "SEAPORT",
+    "loc": "49 Fulton Street",
+    "floor": "",
+    "postcode": 10038,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "Church of Saint Andrew",
+    "group": "TOWER",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "Tribeca 12 Building",
+    "group": "TRIANGLE GROUP",
+    "loc": "283 West Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "",
+    "group": "TRIBECA GROUP @ ST. MARGARET'S HOUSE",
+    "loc": "49 Fulton Street",
+    "floor": "",
+    "postcode": 10038,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "St. Peter's Church",
+    "group": "TRIBECA GROUP @ ST. PETER'S CHURCH",
+    "loc": "22 Barclay Street- basement chapel",
+    "floor": "",
+    "postcode": 10006,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "St. Andrew's Church",
+    "group": "WOMEN'S DOWNTOWN AA STEP MEETING",
+    "loc": "20 Cardinal Hayes Place",
+    "floor": "",
+    "postcode": 10007,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "Hazelden Center",
+    "group": "YOUNG PEOPLE'S DIVERSITY",
+    "loc": "283 West Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": false,
+    "zone": 1
+  },
+  {
+    "name": "Hazelden Center",
+    "group": "YOUNG PEOPLE'S STEP",
+    "loc": "283 West Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "Hazelden Center",
+    "group": "YOUTH ENJOYING SOBRIETY",
+    "loc": "283 W. Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": true,
+    "zone": 1
+  },
+  {
+    "name": "University Settlement",
+    "group": "A.A. ON THE BOWERY",
+    "loc": "273 Bowery",
+    "floor": "Downstairs",
+    "postcode": 10002,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "Manhattan Seventh-Day Adventist Church",
+    "group": "AFTER FIVE",
+    "loc": "232 West 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Hazelden Center",
+    "group": "AFTERNOON DELIGHT",
+    "loc": "283 West Broadway",
+    "floor": "",
+    "postcode": 10013,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "Seventh Day Adventist Church",
+    "group": "ARTISTS IN RECOVERY",
+    "loc": "232 W. 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "",
+    "group": "BAGELS AND BIG BOOK",
+    "loc": "220 West Houston Street",
+    "floor": "2nd Floor",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Golden Bridge Yoga Center",
+    "group": "CENTER MEETING",
+    "loc": "253 Center Street",
+    "floor": "3rd Floor",
+    "postcode": 10013,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "University Settlement (The Chinatown YMCA)",
+    "group": "EAST VILLAGE SOBER AGNOSTICS",
+    "loc": "273 Bowery",
+    "floor": "",
+    "postcode": 10002,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "St. Luke's Episcopal School",
+    "group": "GREENWICH VILLAGE",
+    "loc": "487 Hudson Street",
+    "floor": "Basement",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "St. Augustine's Church",
+    "group": "GRUPO CENTRAL",
+    "loc": "292 Henry Street",
+    "floor": "Basement",
+    "postcode": 10002,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "Manhattan Church of The Seventh-day Adventist",
+    "group": "HAPPY, JOYOUS AND FREE",
+    "loc": "232 West 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "Church of Saint Theresa Rectory",
+    "group": "LOWER EAST SIDE",
+    "loc": "141 Henry Street",
+    "floor": "1st Floor",
+    "postcode": 10002,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "",
+    "group": "MIDNITE",
+    "loc": "220 West Houston Street",
+    "floor": "2nd Floor",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "St. John's Lutheran Church",
+    "group": "NEW GROUP",
+    "loc": "83 Christopher Street (Red Door",
+    "floor": "Left of Church)",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "",
+    "group": "PERRY STREET WORKSHOP",
+    "loc": "50 Perry Street",
+    "floor": "Ground Floor",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Seventh Day Adventist Church",
+    "group": "PRIMETIME NYC",
+    "loc": "232 West 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "St. John's Episcopal Church",
+    "group": "RED DOOR",
+    "loc": "224 Waverly Place",
+    "floor": "1st floor event room.",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "St. Anthony's of Padua",
+    "group": "ROOM FOR IMPROVEMENT",
+    "loc": "154 Sullivan Street",
+    "floor": "",
+    "postcode": 10012,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Chinatown YMCA",
+    "group": "ROOM FOR IMPROVEMENT",
+    "loc": "273 Bowery Street",
+    "floor": "",
+    "postcode": 10012,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "St. Joseph's Church",
+    "group": "SHERIDAN SQUARE FOLLIES",
+    "loc": "371 6th Avenue",
+    "floor": "Basement",
+    "postcode": 10014,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "St. Anthony of Padua Church",
+    "group": "SOHO",
+    "loc": "155 Sullivan Street",
+    "floor": "Basement",
+    "postcode": 10012,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "The Bronfman Cernter @ NYU",
+    "group": "SPIRITUAL WORKSHOP",
+    "loc": "7 East 10th Strert",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Seventh Adventist Church",
+    "group": "T&A-TOGETHERNESS & ACTION",
+    "loc": "232 West 11th Street",
+    "floor": "Basement",
+    "postcode": null,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "St. John's Lutheran Church",
+    "group": "TEN PLUS",
+    "loc": "81 Christopher Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "University Settlement (The Chinatown YMCA)",
+    "group": "THE CAPTAIN'S TABLE",
+    "loc": "273 Bowery",
+    "floor": "Downstairs",
+    "postcode": 10002,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "Manhattan Seventh-Day Adventist Church",
+    "group": "TOGETHER WE CAN",
+    "loc": "232 West 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "Manhattan Church of The Seventh-day Adventist",
+    "group": "WEDNESDAY FOCUS",
+    "loc": "232 West 11th Street",
+    "floor": "",
+    "postcode": 10014,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "St. John's Lutheran Church",
+    "group": "WEST VILLAGE WOMEN",
+    "loc": "83 Christopher Street",
+    "floor": "Basement",
+    "postcode": 10014,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "",
+    "group": "WOMEN INTO ACTION",
+    "loc": "220 West Houston Street",
+    "floor": "2nd Floor",
+    "postcode": 10014,
+    "wheelChair": false,
+    "zone": 2
+  },
+  {
+    "name": "University Settlement @ Houston Street Center",
+    "group": "WOMEN TOGETHER",
+    "loc": "273 Bowery",
+    "floor": "Classroom Floor",
+    "postcode": 10002,
+    "wheelChair": true,
+    "zone": 2
+  },
+  {
+    "name": "N.Y.U Bronfman Center",
+    "group": "12 CONCEPTS WORKSHOP",
+    "loc": "7 East 10th Street",
+    "floor": "2nd Floor",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Gustavus Adolphus Church",
+    "group": "22 BELOW",
+    "loc": "155 East 22nd Street",
+    "floor": "Basement",
+    "postcode": 10010,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Three Jewels Community Center",
+    "group": "AA AT THE THREE JEWELS",
+    "loc": "61 Fourth Avenue",
+    "floor": "3rd Floor",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "AGNOSTICS AT NOON",
+    "loc": "208 West 13th Street",
+    "floor": "3rd Floor",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Seafarers & Intl House",
+    "group": "ALIVE AGAIN",
+    "loc": "123 East 15th Street",
+    "floor": "2nd Floor Conference Room",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Calvary Church Parish House",
+    "group": "AT BILL'S PLACE",
+    "loc": "61 Gramercy Park North",
+    "floor": "",
+    "postcode": 10010,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Gustavus Adolphus Lutheran Church",
+    "group": "ATLANTIC BY THE BOOK",
+    "loc": "155 East 22nd Street",
+    "floor": "Ground Floor",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Mabel Bacon High School of the Future",
+    "group": "ATLANTIC DOWNTOWN",
+    "loc": "127 East 22nd Street",
+    "floor": "2nd Floor Auditorium",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Trinity Lower East Side Lutheran Parish",
+    "group": "AVENUE B CLEAN AND DRY",
+    "loc": "602 East 9th Street",
+    "floor": "",
+    "postcode": 10009,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "McBurney YMCA",
+    "group": "BIG BOOK MAGIC",
+    "loc": "125 West 14th Street",
+    "floor": "Kuttner Room",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "St. Peters Episcopal Church- Rectory",
+    "group": "CHELSEA MORNINGS",
+    "loc": "346 W. 20th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "McBurney YMCA",
+    "group": "CHELSEA NOONERS",
+    "loc": "125 West 14th Street",
+    "floor": "Ground Floor",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Our Lady of Immaculate Conception",
+    "group": "COMPLETE ABANDON",
+    "loc": "414 East 14th Street",
+    "floor": "Auditorium",
+    "postcode": 10009,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Fulton Senior Center",
+    "group": "COMPLETELY SOBER",
+    "loc": "119 Ninth Avenue",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Christopher House",
+    "group": "CROSSROADS",
+    "loc": "202 West 24 Street",
+    "floor": "Mezzanine",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Brotherhood Synagogue",
+    "group": "EAST MEETS WEST IN SOBRIETY",
+    "loc": "28 Gramercy Park South",
+    "floor": "1st Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Middle Collegiate Church",
+    "group": "EAST VILLAGE GROUP",
+    "loc": "50 East 7th Street",
+    "floor": "3rd and 4th floors",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "University Settlement House",
+    "group": "EXPERIENCE STRENGTH AND HOPE",
+    "loc": "273 Bowery",
+    "floor": "2nd Floor Classroom",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Grace Church Office Building",
+    "group": "GRACE ON BROADWAY",
+    "loc": "802 Broadway",
+    "floor": "3rd Floor Conference Room",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Brothhood Synagogue",
+    "group": "GRAMERCY",
+    "loc": "28 Grammercy Park South",
+    "floor": "2nd floor",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Saint George Episcopal Church",
+    "group": "GRATEFUL GROUP OF A.A.",
+    "loc": "209 East 16th Street",
+    "floor": "Basement",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Church of the Nativity",
+    "group": "GRUPO EL MILAGRO",
+    "loc": "44 2nd Avenue",
+    "floor": "Main Floor",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Our Lady of Guadalupe Church",
+    "group": "GRUPO GRATITUD",
+    "loc": "229 West 14th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Our Lady of Guadalupe Church",
+    "group": "GRUPO SOBRIEDAD",
+    "loc": "229 West 14th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "HIGH NOON",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Brotherhood Synagogue",
+    "group": "JUST FOR TODAY",
+    "loc": "28 Gramercy Park South",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bisexual, & Transgender Community Center",
+    "group": "LAeX",
+    "loc": "208 W 13th Street",
+    "floor": "Room 212",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "The Upright Citizens Brigade Theatre",
+    "group": "LEARNING TO LIVE",
+    "loc": "307 W. 26th St.",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "St. Columba Church",
+    "group": "LEARNING TO LIVE",
+    "loc": "343 West 25th Street",
+    "floor": "",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Theatre 80",
+    "group": "LIVING NOW",
+    "loc": "80 St. Mark's Place",
+    "floor": "2nd Floor",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "LIVING TODAY",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Intercare",
+    "group": "MADISON PARK BEGINNERS",
+    "loc": "51 East 25th Street",
+    "floor": "Lower Level",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Gustavus Adolphus Church",
+    "group": "MANHATTAN",
+    "loc": "155 East 22nd Street",
+    "floor": "Basement",
+    "postcode": 10010,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Bronfman Center",
+    "group": "N.Y.U.",
+    "loc": "7 East 10th Street",
+    "floor": "2nd Floor (Note: A photo ID is required to enter the building.)",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "German Evangelist Lutheran Church of St. Paul",
+    "group": "NEVER HAD A LEGAL DRINK",
+    "loc": "315 West 22nd Street",
+    "floor": "1st Floor",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Friends Meeting House",
+    "group": "NEW LIFE IN SOBRIETY",
+    "loc": "15 Rutherford Place",
+    "floor": "Basement",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "The Realization Center",
+    "group": "NINJAS IN RECOVERY",
+    "loc": "25 East 15th",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "General Theological Seminary",
+    "group": "NINTH AVENUE",
+    "loc": "175 9th Avenue",
+    "floor": "1st and 2nd Floor",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "The Realization Center",
+    "group": "OADW",
+    "loc": "19 Union Square West",
+    "floor": "7th Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Gustavus Adolphus Church",
+    "group": "P.A.X",
+    "loc": "155 East 22nd Street",
+    "floor": "1st Floor",
+    "postcode": 10010,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Veterans Administration Hospital",
+    "group": "POT LUCK",
+    "loc": "423 East 23rd Street",
+    "floor": "3rd fl",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "St. George's Church",
+    "group": "POTPOURRI",
+    "loc": "209 East 16th Street",
+    "floor": "Olmstead Hall",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "",
+    "group": "PRIMETIME NYC",
+    "loc": "411 East 12th Street",
+    "floor": "",
+    "postcode": 10009,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "St. George's Church",
+    "group": "SATURDAY BEGINNERS",
+    "loc": "209 East 16th Street",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Epiphany Roman Catholic Church",
+    "group": "SATURDAY WEEKENDERS",
+    "loc": "239 East 21st Street",
+    "floor": "Church Rectory",
+    "postcode": 10009,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "First Presbyterian Church",
+    "group": "SAVE HER A SEAT",
+    "loc": "12 West 12th Street",
+    "floor": "6th Floor-Roof Level",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Church of the Nativity",
+    "group": "SECOND AVENUE CLEAN AND DRY",
+    "loc": "44 2nd Avenue",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "SOBER MIRACLES",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Church of the Ascension Parish House",
+    "group": "SOBRIETY ON THE SQUARE",
+    "loc": "12 West 11th Street",
+    "floor": "Ground Floor",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "PS 41 Elementary School",
+    "group": "SPEAKER MAGIC",
+    "loc": "116 West 11th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "",
+    "group": "STRAIGHT 12",
+    "loc": "80 5th Avenue",
+    "floor": "14th Floor",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "P.S. 41 (see footnote re: temp location)",
+    "group": "SUNDAY AT SIX",
+    "loc": "116 W. 11th Street",
+    "floor": "Cafeteria",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Gustavus Adolphus Church",
+    "group": "SUNDAY MORNING MEDITATION",
+    "loc": "155 East 22nd Street",
+    "floor": "",
+    "postcode": 10010,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "East Midtown Plaza (Community Room H)",
+    "group": "SUNDAY NOONERS",
+    "loc": "319 Eastr 24th Street",
+    "floor": "",
+    "postcode": 10010,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Beth Israel Hospital @ Karpas Cancer Center Library",
+    "group": "SURVIVORS IN SOBRIETY",
+    "loc": "10 East Union Square",
+    "floor": "4th Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "All Saints Ukrainian Orthodox Church",
+    "group": "SVOBODA",
+    "loc": "206-208 East 11th Street",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Seafarers & International House",
+    "group": "T.G.I.F. & S.",
+    "loc": "123 East 15th Street",
+    "floor": "2nd Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "",
+    "group": "THE 12th STREET WORKSHOP",
+    "loc": "411 East 12th Street",
+    "floor": "Basement",
+    "postcode": 10009,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "McBurney YMCA",
+    "group": "THE FELLOWSHIP CLUB",
+    "loc": "125 West 14th Street",
+    "floor": "1st Floor Meeting Room",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "LGBT Community Center",
+    "group": "TRANSGENDER FOCUS",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Beth Israel Phillips Ambulatory Center",
+    "group": "TWELVE AT SIX",
+    "loc": "10 Union Square East",
+    "floor": "2nd Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "St. Francis Residence",
+    "group": "UPON AWAKENING",
+    "loc": "155 West 22nd Street",
+    "floor": "1st Floor",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "VILLAGE AGNOSTICS",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "First Presbyterian Church",
+    "group": "VILLAGE OPEN DISCUSSION",
+    "loc": "12 West 12th Street",
+    "floor": "Third Floor",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "The Caring Community",
+    "group": "VILLAGE SOBER",
+    "loc": "20 Washington Square North",
+    "floor": "2nd Floor",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "14th Street Y",
+    "group": "WEEKENDERS",
+    "loc": "344 East 14th Street",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "St. Francis Residence",
+    "group": "WEST 22nd STREET SOBRIETY",
+    "loc": "155 West 22nd Street",
+    "floor": "1st Floor",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "WESTWINGERS",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Trinity Lutheran Church",
+    "group": "WHOLESALE MIRACLES",
+    "loc": "602 East 9th Street",
+    "floor": "Ground Floor",
+    "postcode": 10009,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Gay, Lesbian, Bi-Sexual & Transgender Community Center",
+    "group": "WOMEN NOW",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Lesbian, Gay, Bi-Sexual & Transgender Community Center",
+    "group": "WOMEN TOGETHER",
+    "loc": "208 West 13th Street",
+    "floor": "",
+    "postcode": 10011,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Realization Center",
+    "group": "WOMEN'S SATURDAY ELEVENTH STEP MEDITATION",
+    "loc": "19 Union Square West",
+    "floor": "7th Floor",
+    "postcode": 10003,
+    "wheelChair": true,
+    "zone": 3
+  },
+  {
+    "name": "Most Holy Redeemer Church",
+    "group": "WORKS IN PROGRESS",
+    "loc": "173 East 3rd Street- basement",
+    "floor": "",
+    "postcode": 10009,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "Middle Collegiate Church",
+    "group": "YOUNG AND WISE",
+    "loc": "50 East 7th Street",
+    "floor": "",
+    "postcode": 10003,
+    "wheelChair": false,
+    "zone": 3
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "4 THE GRACE",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "42nd AT 9:00pm",
+    "loc": "303 West 42nd Street",
+    "floor": "Room #404",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "A NEW FREEDOM",
+    "loc": "303 West 42nd Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "S.A.G.E.",
+    "group": "ABINGDON SQUARE IN CHELSEA",
+    "loc": "305 7th Avenue",
+    "floor": "6th Floor",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Saint Thomas Church",
+    "group": "ADVENTURES IN SOBRIETY",
+    "loc": "1 West 53rd Street",
+    "floor": "3rd Floor",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "ALANON HOUSE",
+    "loc": "303 West 42nd Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Mary the Virgin Church",
+    "group": "AMAZING GRACE",
+    "loc": "133 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Hudson Guild",
+    "group": "ANNEX",
+    "loc": "441 West 26th Street",
+    "floor": "2nd Fl.",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "GMHC",
+    "group": "ANNEX",
+    "loc": "446 West 33rd Street",
+    "floor": "6th Floor",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Clubhouse",
+    "group": "ARTISTS IN RECOVERY",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "BEGINNERS",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "BEGINNERS",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "The Actor's Temple",
+    "group": "BETWEEN SHOWS",
+    "loc": "339 West 47th Street",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "BLUEPRINT FOR LIVING",
+    "loc": "303 West 42nd St Rm 306",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Francis of Assisi Education Center",
+    "group": "BOOKSHOP AT NOON",
+    "loc": "139 West 31st Street",
+    "floor": "3rd Floor",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Trinity Presbyterian Church",
+    "group": "CLEAN AND DRY",
+    "loc": "422 West 57th Street",
+    "floor": "Upstairs",
+    "postcode": 10019,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. John's Hall",
+    "group": "COMMUTERS SPECIAL",
+    "loc": "211 West 30th Street",
+    "floor": "",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "D.I.V.A.",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Thomas Church",
+    "group": "FIFTH AVENUE STEP",
+    "loc": "1 West 53rd Street",
+    "floor": "3rd Floor",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Trinity Presbyterian Church",
+    "group": "FIRESIDE",
+    "loc": "422 West 57th Street",
+    "floor": "",
+    "postcode": 10019,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Fifth Av Presbyterian Church",
+    "group": "FOGLIFTERS-FIFTH AVENUE",
+    "loc": "7 West 55th Street",
+    "floor": "5th Floor",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "FORTY-FIVE SOLUTIONS",
+    "loc": "252 West 46th Street",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "The Actors Fund of America",
+    "group": "GREEN ROOM",
+    "loc": "729 7th Avenue",
+    "floor": "10th Floor small conference room",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Apartment Building",
+    "group": "GRUPO BUENA VOLUNTAD",
+    "loc": "538 West 47th Street",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Mount Sinai - Roosevelt Hospital",
+    "group": "HELL'S KITCHEN",
+    "loc": "1000 Tenth Avenue",
+    "floor": "8th Floor (Room #8G49",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "HENRY HUDSON",
+    "loc": "303 West 42nd Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "JOE AND CHARLIE CD MEETING",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Upright Citizens Brigade Theatre",
+    "group": "LEARNING TO LIVE",
+    "loc": "307 West 26th Street",
+    "floor": "",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Paul's Episcopal Parish House",
+    "group": "LUCKY ONES",
+    "loc": "405 West 59th Street",
+    "floor": "",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "MIDNIGHT IN MIDTOWN",
+    "loc": "303 West 42nd Street",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Trinity Presbyterian Church",
+    "group": "MIRACLE",
+    "loc": "422 W. 57th St.",
+    "floor": "",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "St. Mary the Virgin Church",
+    "group": "MORNING CALL",
+    "loc": "133 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Mary the Virgin Church",
+    "group": "NEW BUT WEST",
+    "loc": "133 West 46th Street",
+    "floor": "2nd & 3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "NEW PHOENIX",
+    "loc": "303 West 42nd Street",
+    "floor": "Room #306",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Holy Apostles Church Rectory",
+    "group": "NINTH AVENUE",
+    "loc": "296 9th Avenue",
+    "floor": "2nd Floor",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Francis of Assisi Center",
+    "group": "NU GARDEN",
+    "loc": "139 West 31st Street",
+    "floor": "3rd Floor",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Thomas Church",
+    "group": "PARK BENCH",
+    "loc": "1 West 53rd Street",
+    "floor": "3rd Floor",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Manhattan Plaza Health Club",
+    "group": "POWERLESS",
+    "loc": "484 West 43rd Street",
+    "floor": "1st Floor",
+    "postcode": 10036,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Fifth Av Presbyterian Church",
+    "group": "PROMISES",
+    "loc": "7 West 55th Street",
+    "floor": "",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "PROMISES",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "RAINBOW ROOM",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "The Learning Center",
+    "group": "RENAISSANCE",
+    "loc": "4 West 43rd Street",
+    "floor": "",
+    "postcode": 10017,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "SATURDAY ROTATING 12 STEP",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Church of The Holy Apostles",
+    "group": "SPIRITUAL FRIDAYS",
+    "loc": "296 Ninth Avenue",
+    "floor": "Rectory",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. Thomas Church Parish House",
+    "group": "ST. THOMAS A.M.",
+    "loc": "1 West 53rd Street",
+    "floor": "3rd Floor",
+    "postcode": 10019,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "St. John the Baptist Church",
+    "group": "STATLER AT NOON",
+    "loc": "210 West 31st Street",
+    "floor": "Basement (On Left)",
+    "postcode": 10001,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "Trinity Presbyterian Church",
+    "group": "STEPS AND TRADITIONS ON WEDNESDAY",
+    "loc": "422 West 57th Street",
+    "floor": "",
+    "postcode": 10019,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "SUNDAY NIGHT BEGINNERS",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "TUESDAY SOBER AGNOSTICS",
+    "loc": "134 West 29th Street - 2nd floor Studio 203",
+    "floor": "",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "Mount Sinai - Roosevelt Hospital",
+    "group": "WEST 58th STREET STEP",
+    "loc": "1000 Tenth Avenue",
+    "floor": "8th Fl",
+    "postcode": 10019,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "GMHC",
+    "group": "WOMEN OVER FORTY",
+    "loc": "446 West 33rd Street",
+    "floor": "",
+    "postcode": 10001,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "St. Clements Church",
+    "group": "YOUNG IN 164",
+    "loc": "423 West 46th Street",
+    "floor": "",
+    "postcode": 10036,
+    "wheelChair": true,
+    "zone": 4
+  },
+  {
+    "name": "46th Street Club House",
+    "group": "YOUNG PEOPLE'S MEETING",
+    "loc": "252 West 46th Street",
+    "floor": "3rd Floor",
+    "postcode": 10036,
+    "wheelChair": false,
+    "zone": 4
+  },
+  {
+    "name": "",
+    "group": "AA LITERATURE",
+    "loc": "122 East 37th Street",
+    "floor": "Basement",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "",
+    "group": "BREAKFAST CLUB",
+    "loc": "30 East 35th Street",
+    "floor": "",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Cathedral High School",
+    "group": "CARLYLE",
+    "loc": "350 East 56th Street",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "St. Peter's Lutheran Church @ Citicorp Center",
+    "group": "CITY GROUP",
+    "loc": "619 Lexington Avenue",
+    "floor": "Lower Level Music Rooms",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "",
+    "group": "COURAGE TO CHANGE",
+    "loc": "122 East 37th Street",
+    "floor": "Basement",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "J.H. Holmes Community House",
+    "group": "EMPIRE STATE",
+    "loc": "28 East 35th Street",
+    "floor": "",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Cathedral High School",
+    "group": "GOTHAM",
+    "loc": "350 East 56th Street ",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Soldiers, Sailors, Marines & Airmen's Club",
+    "group": "GRAND CENTRAL",
+    "loc": "283 Lexington Avenue",
+    "floor": "2nd Floor",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "",
+    "group": "GRUPO BRASIL",
+    "loc": "122 East 37th Street",
+    "floor": "Basement",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "group": "LIFE LINE",
+    "loc": "619 Lexington Avenue",
+    "floor": "Lower Level 2 in The Studio",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "Saint Agnes Church",
+    "group": "LUNCH BUNCH",
+    "loc": "141 East 43rd Street",
+    "floor": "Basement Hall",
+    "postcode": 10017,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "MUSTARD SEED",
+    "group": "LUNCHTIME EXPRESS AT THE MUSTARD SEED",
+    "loc": "122 E 37TH St.",
+    "floor": "",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Mustard Seed",
+    "group": "MEDITATION SATURDAY NIGHT",
+    "loc": "122 East 37th Street",
+    "floor": "",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "St. Agnes Church",
+    "group": "MONDAY MEN",
+    "loc": "141 East 43rd Street",
+    "floor": "",
+    "postcode": 10017,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Church of the Incarnation",
+    "group": "MURRAY HILL",
+    "loc": "209 Madison Avenue",
+    "floor": "2nd Floor",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "",
+    "group": "MUSTARD SEED",
+    "loc": "122 East 37th Street",
+    "floor": "Basement",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "group": "REBELLION DOGS",
+    "loc": "619 Lexington Avenue",
+    "floor": "Lower Level",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "Church of the Good Shepherd",
+    "group": "SATURDAY EAST",
+    "loc": "240 East 31st Street",
+    "floor": "",
+    "postcode": 10016,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "The New York New Church",
+    "group": "SATURDAY STEP",
+    "loc": "114 East 35th Street",
+    "floor": "2nd Floor",
+    "postcode": 10016,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "ALL SAINTS CHURCH",
+    "group": "SERENITY EAST",
+    "loc": "230 East 60th Street (Basement) ",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Caron Foundation",
+    "group": "SERENITY EAST",
+    "loc": "244 East 58th Street",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "St. Peter's Lutheran Church @ CitiCorp Center",
+    "group": "SILKWORTH WOMEN'S",
+    "loc": "619 Lexington Avenue",
+    "floor": "Lower Level",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "St. Bartholomew's Church",
+    "group": "ST. BART'S TWELVE-THIRTIES",
+    "loc": "325 Park Avenue",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "CHURCH OF THE GOOD SHEPARD",
+    "group": "STRAIGHT 12",
+    "loc": "236 EAST 31st STREET ",
+    "floor": "basement",
+    "postcode": 10016,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "Conservative Synagogue",
+    "group": "TEMPLETON",
+    "loc": "308 East 55th Street",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": false,
+    "zone": 5
+  },
+  {
+    "name": "The Caron Foundation",
+    "group": "TRAFALGAR",
+    "loc": "244 East 58th Street",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "Caron Foundation",
+    "group": "TUDOR",
+    "loc": "244 East 58th Street",
+    "floor": "Lower Level",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "",
+    "group": "WOMEN'S ELEVENTH STEP",
+    "loc": "109 East 50th Street",
+    "floor": "",
+    "postcode": 10022,
+    "wheelChair": true,
+    "zone": 5
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "A NEW DAY",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Christ & St. Stephen's Church",
+    "group": "A VISION FOR YOU",
+    "loc": "120 West 69th Street",
+    "floor": "Basement",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Trinity Presbyterian Church",
+    "group": "AFTER EIGHT",
+    "loc": "422 West 57th Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Phoenix House",
+    "group": "AFTER EIGHT",
+    "loc": "164 West 74th Street",
+    "floor": "1st floor",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "ALTERED ATTITUDES",
+    "loc": "207 West 96th Street",
+    "floor": "Little Room Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "St. Gregory's Church",
+    "group": "AMSTERDAM",
+    "loc": "144 West 90th Street",
+    "floor": "Basement",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Hamilton House",
+    "group": "ANSONIA",
+    "loc": "141 West 73rd Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Fourth Universalist Church",
+    "group": "ATLANTIC WEST STEP & TRADITION",
+    "loc": "4 West 76th Street. Meeting in the gym.",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Church of the Ascension",
+    "group": "BLOOMINGDALE",
+    "loc": "221 West 107th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "BROADWAY AT 96TH",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Trinity Rectory",
+    "group": "CADILLACS FOR EVERYONE",
+    "loc": "215 West 82nd Street",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Broadway Presbyterian Church",
+    "group": "CAMPUS CHEER",
+    "loc": "601 West 114th Street",
+    "floor": "(2nd Red Door)",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Universalist Church",
+    "group": "CENTRAL PARK WEST",
+    "loc": "76th Street - basement gymnasium",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "West Side YMCA at 63rd Street",
+    "group": "CHELSEA RIVERSIDE",
+    "loc": "5 West 63rd Street",
+    "floor": "Downstairs in large meeting room.",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Universalist Church",
+    "group": "CHOCK FULL OF SOBRIETY",
+    "loc": "4 West 76th Street",
+    "floor": "(In the gym)",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Fourth Universalist Society",
+    "group": "CLASSEN HALL",
+    "loc": "160 Central Park West",
+    "floor": "Gym basement.",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Good Shepherd Faith Church",
+    "group": "CLASSEN HALL STEP MEETING",
+    "loc": "152 West 66th Street",
+    "floor": "Basement Level Chapel",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Second Presbyterian Church",
+    "group": "COLUMBUS AT FIVE",
+    "loc": "3 West 95th Street",
+    "floor": "Lower Level Auditorium",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "All Angels Church",
+    "group": "EIGHTIETH STREET BEGINNERS",
+    "loc": "251 West 80th Street",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Hargrave House",
+    "group": "FAST BREAK",
+    "loc": "111 West 71st Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "West Side YMCA",
+    "group": "FAST BREAK WEEKEND",
+    "loc": "5 West 63rd Street",
+    "floor": "1st Floor",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "West Side YMCA",
+    "group": "FIRESIDE",
+    "loc": "5 West 63rd Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "FIRST THINGS FIRST",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Church of St. Matthew and St. Timothy",
+    "group": "FRIDAY NIGHT STEP",
+    "loc": "26 West 84th Street",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name School",
+    "group": "GRUPO CAMINO REAL",
+    "loc": "200 West 97th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Grace House",
+    "group": "GRUPO DULCES 24",
+    "loc": "218 West 108th Street",
+    "floor": "Main Floor",
+    "postcode": 10025,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Iglesia Metodista Grace",
+    "group": "GRUPO LUZ DIVINA",
+    "loc": "125 West 104th Street",
+    "floor": "1st Floor",
+    "postcode": 10025,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Hamilton House",
+    "group": "HARGRAVE",
+    "loc": "141 West 73rd Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Rutgers Church",
+    "group": "LAMBDA WEST",
+    "loc": "236 West 73rd Street",
+    "floor": "5th Floor",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "West End Presbyterian Church",
+    "group": "MANHATTAN VALLEY",
+    "loc": "165 West 105th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "METROPOLIS MEN'S MEETING",
+    "loc": "207 West 96th Street",
+    "floor": "",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church Rectory",
+    "group": "MID-DAY CHEER",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Advent Lutheran Church",
+    "group": "MORNINGSIDE",
+    "loc": "2504 Broadway",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Church of Notre Dame",
+    "group": "MORNINGSIDE HEIGHTS BEGINNERS",
+    "loc": "405 West 114th Street",
+    "floor": "Merton Room",
+    "postcode": 10025,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "West End Collegiate Church",
+    "group": "NEVER TOO LATE",
+    "loc": "368 West End Ave",
+    "floor": "1st floor",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "St. Michael's Parish House",
+    "group": "NIGHT LIGHT",
+    "loc": "225 West 99th Street",
+    "floor": "1st Floor",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Anshe Chesed Synagogue",
+    "group": "NIGHT LIGHT BEGINNERS",
+    "loc": "251 West 100th Street",
+    "floor": "",
+    "postcode": 10025,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "NINETY-SIXTH STREET WORKSHOP",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Church of St. Matthew & St. Timothy",
+    "group": "OXFORD",
+    "loc": "26 West 84th Street",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "West Side YMCA",
+    "group": "PROMISES PROMISES",
+    "loc": "5 West 63rd Street",
+    "floor": "Basement",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "St. Ignatius Church",
+    "group": "RENEWAL WEST",
+    "loc": "552 West End Avenue",
+    "floor": "Basement",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Phoenix House",
+    "group": "ROUTES",
+    "loc": "164 West 74 Street",
+    "floor": "1st Floor",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Volunteers of America",
+    "group": "RUDE AWAKENING",
+    "loc": "340 West 85th Street",
+    "floor": "Basement",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "West End Collegiate Church",
+    "group": "SMITHEREENS",
+    "loc": "368 West End Avenue",
+    "floor": "1st Floor",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Blessed Sacrament Church Rectory",
+    "group": "SOBER STEPPING",
+    "loc": "152 West 71st Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "West Side YMCA",
+    "group": "SUNDAY MEN'S TOPIC",
+    "loc": "5 West 63rd Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "",
+    "group": "SUNDAY WEST",
+    "loc": "131 West 72nd Street",
+    "floor": "3rd Floor",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "TURN IT OVER",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Blessed Sacrament Church Rectory",
+    "group": "WAY OF LIFE",
+    "loc": "152 West 71st Street",
+    "floor": "Ring Bell",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Stephen Wise Free Synagogue",
+    "group": "WE AGNOSTICS OF NYC",
+    "loc": "30 West 68th Street",
+    "floor": "Check security desk for Room #",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "WE ARE NOT DOCTORS",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Church of St. Paul & St. Andrew",
+    "group": "WEST END",
+    "loc": "263 West 86th Street",
+    "floor": "1st Floor",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Addiction Institute",
+    "group": "WESTSIDE 11th STEP MEDITATION WORKSHOP",
+    "loc": "306 West 102nd Street",
+    "floor": "2nd Floor",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Blessed Sacrament Church Rectory",
+    "group": "WESTSIDE STEP",
+    "loc": "152 West 71st Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Church of St.Matthew & St. Timothy",
+    "group": "WESTSIDE YOUNG PEOPLE",
+    "loc": "26 West 84th Street",
+    "floor": "Stanford Room (blue door)",
+    "postcode": 10024,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Goddard Riverside Community Center",
+    "group": "WITHOUT A PRAYER",
+    "loc": "595 Columbus Avenue",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Trinity Halfway House",
+    "group": "WOMEN LIVING SOBER",
+    "loc": "306 West 102nd Street",
+    "floor": "2nd Floor",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Trinity Church",
+    "group": "WOMEN WEST AA",
+    "loc": "213 West 82nd Street",
+    "floor": "",
+    "postcode": 10024,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Blessed Sacrament (Rectory)",
+    "group": "WOMEN'S BEGINNING LITERATURE",
+    "loc": "152 West 71st Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "",
+    "group": "WOMEN'S ELEVENTH STEP MEETING",
+    "loc": "152 west 71st street",
+    "floor": "",
+    "postcode": null,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Blessed Sacrament (Rectory)",
+    "group": "WOMEN'S TELL IT LIKE IT IS",
+    "loc": "152 West 71st Street",
+    "floor": "",
+    "postcode": 10023,
+    "wheelChair": true,
+    "zone": 6
+  },
+  {
+    "name": "Universalist Church",
+    "group": "WOMEN'S WESTSIDE TOPIC",
+    "loc": "160 Central Park West",
+    "floor": "Downstairs",
+    "postcode": 10023,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Holy Name Church",
+    "group": "WRITING SOBER",
+    "loc": "207 West 96th Street",
+    "floor": "Basement",
+    "postcode": 10025,
+    "wheelChair": false,
+    "zone": 6
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "A BAFFLED LOT",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Manhattan Church of Christ",
+    "group": "A.A. TRADITIONS AND HISTORY",
+    "loc": "48 East 80th Street",
+    "floor": "2nd Floor Library",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "St. Jean Baptiste Church",
+    "group": "ACTIVE",
+    "loc": "184 East 76th Street",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "AFTERNOON AWAKENING",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Church of the Epiphany",
+    "group": "ATLANTIC ELEVENTH STEP MEDITATION",
+    "loc": "1393 York Avenue",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Christ United Methodist Church",
+    "group": "ATLANTIC GROUP",
+    "loc": "520 Park Avenue",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Archdiocian Cathedral of the Holy Trinity",
+    "group": "ATLANTIC GROUP",
+    "loc": "337 E. 74th St.",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "All Souls Church",
+    "group": "ATLANTIC GROUP",
+    "loc": "1157 Lexington Avenue",
+    "floor": "",
+    "postcode": 10075,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "BREAKING THROUGH",
+    "loc": "420 East 76th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Our Lady of Good Counsel Church",
+    "group": "CAME TO BELIEVE",
+    "loc": "230 East 90th Street",
+    "floor": "Downstairs",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "CARNEGIE HILL",
+    "loc": "65 East 89th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "CENTRAL",
+    "loc": "865 Madison Avenue",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Immanuel Lutheran Church",
+    "group": "CHAPTER FIVE",
+    "loc": "1296 Lexington Avenue",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "ELEVENTH STEP AT JAN HUS",
+    "loc": "351 East 74th Street",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "FEARLESS",
+    "loc": "1157 Lexington Avenue",
+    "floor": "1st Floor",
+    "postcode": 10028,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY CENTRAL",
+    "loc": "351 East 74th Street",
+    "floor": "Mazaryk Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "FRIDAY NIGHT GAY MEN & WOMEN",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. Thomas More Church Rectory",
+    "group": "FRIDAY NIGHT MEN'S STEP",
+    "loc": "65 East 89th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Church of Saint Thomas Moore",
+    "group": "HUMANISTS TOO",
+    "loc": "65 East 89th Street - Rectory basement",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "I'M ALL IN",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. Francis de Sales Church",
+    "group": "INTO ACTION MANHATTAN",
+    "loc": "135 East 96th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "KITCHEN TABLE MEETING",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "LENOX HILL",
+    "loc": "2 East 90th Street",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "All Souls Uniterian Church",
+    "group": "LEX 80 STEP",
+    "loc": "1157 Lexington Avenue",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Gracie Square Hospital",
+    "group": "LIVE AND LET LIVE",
+    "loc": "420 East 76th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Presbyterian Church",
+    "group": "MADISON 73",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MEDITATION",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Chapel Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Philomathist Center",
+    "group": "MEN'S NYC BIG BOOK STEP STUDY",
+    "loc": "1285 Madison Avenue",
+    "floor": "",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. Ignatius Loyola School",
+    "group": "METROPOLITAN",
+    "loc": "48 East 84th Street",
+    "floor": "",
+    "postcode": 10028,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "St. Stephen of Hungary Church",
+    "group": "MONDAY EAST TOPIC",
+    "loc": "408 East 82nd Street",
+    "floor": "Rectory",
+    "postcode": 10028,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MONDAY WOMEN",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "MORNING REFLECTIONS",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor - Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Congregational Kehilath Jeshurun",
+    "group": "NEW CHOICES",
+    "loc": "125 East 85th Street",
+    "floor": "Ramaz School Entrance",
+    "postcode": 10028,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OPEN BOOK",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "OUR PRIMARY PURPOSE",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. James Church",
+    "group": "PARK BENCH",
+    "loc": "865 Madison Avenue",
+    "floor": "3rd Floor",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Brick Church Parish House",
+    "group": "PARK MADISON",
+    "loc": "62 East 92nd Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "PERSEVERANCE",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Front Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "St. Joseph's School",
+    "group": "RECOVERY ROOM",
+    "loc": "420 East 87th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Central Presbyterian Church",
+    "group": "RENEWAL EAST",
+    "loc": "593 Park Avenue",
+    "floor": "5th Floor Library",
+    "postcode": 10128,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "St. Thomas More Church",
+    "group": "RENEWAL NORTH",
+    "loc": "65 East 89th Street",
+    "floor": "Ring Red Buzzer",
+    "postcode": 10128,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "St. James Episcopal Church",
+    "group": "RHINELANDER",
+    "loc": "865 Madison Avenue",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "",
+    "group": "ROOSEVELT ISLAND SERENITY",
+    "loc": "543 Main St.",
+    "floor": "Basement 10044",
+    "postcode": 10044,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "St. Monica's Church",
+    "group": "SEVENTY-NINTH STREET WORKSHOP",
+    "loc": "413 East 79th Street",
+    "floor": "Basement",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "SOBER WOMEN",
+    "loc": "351 East 74th Street",
+    "floor": "Sanctuary",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "New York Blood Center",
+    "group": "STEP BY STEP",
+    "loc": "310 East 67th Street",
+    "floor": "Auditorium",
+    "postcode": 10065,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Lenox Hill Neighborhood House",
+    "group": "SUNDAY ON 70TH",
+    "loc": "331 E 70th St",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Church of St. Catherine of Siena",
+    "group": "SUTTON",
+    "loc": "411 East 68th Street",
+    "floor": "",
+    "postcode": 10021,
+    "wheelChair": true,
+    "zone": 7
+  },
+  {
+    "name": "Church of the Heavenly Rest",
+    "group": "THREE TWELVES",
+    "loc": "2 East 90th Street",
+    "floor": "Basement",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Holy Trinity Church",
+    "group": "TRINITY",
+    "loc": "341 East 87th Street",
+    "floor": "Choir Room (Ring Bell)",
+    "postcode": 10128,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WE HUMANISTS",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Museum Room",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "WEDNESDAY EAST ON THURSDAY",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor Kitchen",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "Jan Hus Church",
+    "group": "YORKVILLE-BUTTERFIELD",
+    "loc": "351 East 74th Street",
+    "floor": "2nd Floor",
+    "postcode": 10021,
+    "wheelChair": false,
+    "zone": 7
+  },
+  {
+    "name": "SRO Building",
+    "group": "A CHANCE TO LIVE AGAIN",
+    "loc": "109 West 129th Street",
+    "floor": "Basement",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Union Baptist Church",
+    "group": "AA IT WORKS  II",
+    "loc": "240 West 145th Street",
+    "floor": "",
+    "postcode": 10039,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Our Lady of Lourdes Church",
+    "group": "ATTITUDE ADJUSTMENT",
+    "loc": "469 West 142nd Street",
+    "floor": "Basement",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "St. Phillip Church",
+    "group": "CONVENT",
+    "loc": "204 West 134th Street",
+    "floor": "1st Floor",
+    "postcode": 10030,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Spiritual Renewal Church",
+    "group": "FELLOWSHIP AT NOON",
+    "loc": "2044 Adam Clayton Powell Blvd.",
+    "floor": "",
+    "postcode": 10027,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "",
+    "group": "GRUPO TRASMITELO",
+    "loc": "469 West 142nd Street",
+    "floor": "1st Floor",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "St. Mary's Episcopal",
+    "group": "HARLEM HUMANISTS",
+    "loc": "521 W 126th St",
+    "floor": "",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "SRO Building Community Room",
+    "group": "K.I.S.S.",
+    "loc": "109 West 129th Street",
+    "floor": "Basement",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Our Lady of Lourdes",
+    "group": "LEARNING TO LIVE SOBER",
+    "loc": "469 West 142nd Street",
+    "floor": "Basement",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "",
+    "group": "LIVING CLEAN AND SOBER ON 121st STREET",
+    "loc": "2044 Seventh Avenue",
+    "floor": "",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "S.A.G.E.",
+    "group": "MEDITATION COMES TO HARLEM",
+    "loc": "127 West 127th Street",
+    "floor": "",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Grace Congregational Baptist Church",
+    "group": "MID-HARLEM",
+    "loc": "310 West 139th Street",
+    "floor": "Basement",
+    "postcode": 10037,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "St. James Church",
+    "group": "MONDAY NIGHT CHALLENGE",
+    "loc": "409 West 141st Street",
+    "floor": "Basement",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Riverside Church",
+    "group": "PRIMARY PURPOSE",
+    "loc": "91 Claremont Avenue",
+    "floor": "4th Floor",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Upper Manhattan Mental Health Center",
+    "group": "PROMISES TWO FOR ONE",
+    "loc": "1727 Amsterdam Avenue",
+    "floor": "1st Floor in the rear.",
+    "postcode": 10031,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Our Lady of Lourdes Church",
+    "group": "REALITY CHECK",
+    "loc": "469 West 142nd Street",
+    "floor": "Basement",
+    "postcode": 10037,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Riverside Church",
+    "group": "RIVERSIDE",
+    "loc": "91 Claremont Avenue",
+    "floor": "@ The Cloisters Club Room",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "St. Aloysius School",
+    "group": "RIVERTON",
+    "loc": "219 West 132nd Street",
+    "floor": "Cafeteria",
+    "postcode": 10027,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Salem United Methodist Church Community Center",
+    "group": "SALEM",
+    "loc": "211 West 129th Street",
+    "floor": "Downstairs in the Gym",
+    "postcode": 10027,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Convent Baptist Church Education Building",
+    "group": "SOBER ADULT MEN",
+    "loc": "425 West 144th Street",
+    "floor": "1st Floor",
+    "postcode": 10031,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "St. Phillip's Church",
+    "group": "ST. NICHOLAS",
+    "loc": "204 West 134th Street",
+    "floor": "Basement",
+    "postcode": 10030,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Harlem Hospital King Pavilion",
+    "group": "STEPS 3 and 11",
+    "loc": "506 Lenox Avenue",
+    "floor": "Room #3101",
+    "postcode": 10037,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Council Center for Problems of Living",
+    "group": "SUGAR HILL",
+    "loc": "1727 Amsterdam Avenue",
+    "floor": "1st floor in the rear",
+    "postcode": 10031,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "",
+    "group": "TUESDAY BIG BOOK STUDY",
+    "loc": "1854 Amsterdam Avenue",
+    "floor": "Basment",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Our Lady of Lourdes Church",
+    "group": "UPTOWN BIG BOOK WORKSHOP",
+    "loc": "469 West 142nd Street",
+    "floor": "Basement",
+    "postcode": 10031,
+    "wheelChair": false,
+    "zone": 8
+  },
+  {
+    "name": "Metropolitan AME Church",
+    "group": "YOU MAY CARE AFTER",
+    "loc": "58-66 West 135th Street",
+    "floor": "",
+    "postcode": 10037,
+    "wheelChair": true,
+    "zone": 8
+  },
+  {
+    "name": "Harlem Children's Zone Admin. Offices",
+    "group": "125",
+    "loc": "35 East 125 Street",
+    "floor": "1st Floor Conference Room",
+    "postcode": 10035,
+    "wheelChair": true,
+    "zone": 9
+  },
+  {
+    "name": "Peter Jay Sharpe Building",
+    "group": "EAST HARLEM",
+    "loc": "223 East 117th Street",
+    "floor": "1st Floor Dining Room",
+    "postcode": 10035,
+    "wheelChair": true,
+    "zone": 9
+  },
+  {
+    "name": "",
+    "group": "GRUPO NUEVA VIDA",
+    "loc": "2126 2nd Avenue",
+    "floor": "1st Floor",
+    "postcode": 10029,
+    "wheelChair": true,
+    "zone": 9
+  },
+  {
+    "name": "Veterans Residence",
+    "group": "HARLEM 1 PM RECOVERY",
+    "loc": "22 East 119th Street",
+    "floor": "1st Floor Cafeteria",
+    "postcode": 10035,
+    "wheelChair": true,
+    "zone": 9
+  },
+  {
+    "name": "Columbia Presbyterian Hospital",
+    "group": "A NEW WAY OF LIVING",
+    "loc": "701 West 168th Street @ Fort Washington Avenue",
+    "floor": "",
+    "postcode": 10032,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "Holy Rood Church",
+    "group": "BRIDGE TO SOBRIETY",
+    "loc": "715 West 179th Street",
+    "floor": "",
+    "postcode": 10033,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Holy Rood Church",
+    "group": "BRIDGE TO SOBRIETY",
+    "loc": "715 West 179th Street",
+    "floor": "",
+    "postcode": 10040,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "St. Jude's School",
+    "group": "DYCKMAN",
+    "loc": "431 West 204th Street",
+    "floor": "Basement",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Church of the Intercession",
+    "group": "FOUND-A-WAY",
+    "loc": "550 West 155th Street",
+    "floor": "2nd Floor Guild Room",
+    "postcode": 10032,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Casita Esperanza",
+    "group": "GRUPO DESPERTAR",
+    "loc": "557 West 156th Street",
+    "floor": "",
+    "postcode": 10032,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "",
+    "group": "GRUPO LA FLAMA PANAMERICANA",
+    "loc": "35 Thayer Street",
+    "floor": "Basement",
+    "postcode": 10040,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "Episcopal Holy Rood Church",
+    "group": "GRUPO LIBERTAD",
+    "loc": "715 West 179th Street",
+    "floor": "1st Floor",
+    "postcode": 10033,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "Church Santa Rosa de Lima",
+    "group": "GRUPO RECUPERACION",
+    "loc": "502 West165th Street",
+    "floor": "Basement",
+    "postcode": 10032,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Our Lady Queen of Martyrs",
+    "group": "GRUPO UN NUEVO AMANECER",
+    "loc": "91 Arden Street",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Holy Trinity Episcopal Church",
+    "group": "HAPPY DESTINY",
+    "loc": "20 Cumming Street",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Mount Washington Presbyterian Church",
+    "group": "INWOOD FORT TRYON",
+    "loc": "84 Vermilyea Avenue",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Church of the Good Shepherd",
+    "group": "ISHAM PARK",
+    "loc": "620 Isham Street",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "COATHA Church on the Hill Senior Center",
+    "group": "PROGRESS NOT PERFECTION",
+    "loc": "2005 Amsterdam Avenue",
+    "floor": "",
+    "postcode": 10032,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "Our Saviour's Atonement Lutheran Church",
+    "group": "THE MEN UPSTAIRS",
+    "loc": "178 Bennett Avenue",
+    "floor": "2nd Floor (Lorenz Library)",
+    "postcode": 10040,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Our Saviour's Atonement Church",
+    "group": "THE MISSING LINK",
+    "loc": "178 Bennett Avenue",
+    "floor": "2nd Floor",
+    "postcode": 10040,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Our Lady Queen of Martyrs",
+    "group": "UPPER MANHATTAN",
+    "loc": "91 Arden Street",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Holy Trinity Church",
+    "group": "UPTOWN SATURDAY NIGHT",
+    "loc": "20 Cummings Street",
+    "floor": "",
+    "postcode": 10034,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Holy Rood Church",
+    "group": "WASHINGTON HEIGHTS",
+    "loc": "715 West 179th Street",
+    "floor": "",
+    "postcode": 10033,
+    "wheelChair": true,
+    "zone": 10
+  },
+  {
+    "name": "Cornerstone Center",
+    "group": "WASHINGTON HEIGHTS",
+    "loc": "189th Street & Bennett Avenue",
+    "floor": "Kitchen",
+    "postcode": 10040,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "The Corner Stone Center",
+    "group": "WHAT WE ARE LIKE NOW",
+    "loc": "178 Bennett Avenue",
+    "floor": "2nd Floor",
+    "postcode": 10040,
+    "wheelChair": false,
+    "zone": 10
+  },
+  {
+    "name": "Cornerstone Center",
+    "group": "WOMEN'S NITE",
+    "loc": "178 Bennett Avenue",
+    "floor": "Kitchen",
+    "postcode": 10040,
+    "wheelChair": false,
+    "zone": 10
+  }
+]
