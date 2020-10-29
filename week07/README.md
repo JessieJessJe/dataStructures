@@ -64,8 +64,10 @@ INSERT INTO meeting_loc(name,location,lat,lng,postcode,floor,wheelchair,groupid)
 ````
 #### Debugging
 
-Ofterntimes when I first inserted the JSON data into each table, several entries would be missing. To find out why, I downloaded both the JSON and database(DB) data as .csv, and compared the'primary key' columns from JSON and DB in a google sheet. 
+Ofterntimes when I first inserted the JSON data into each table, several entries would be missing. To find out why, I downloaded both the JSON and database(DB) data as `.csv`, and compared the `primary key` columns from JSON and DB in a google sheet. 
 
-For example, the following screenshot shows the missing values after the first time I updated the 'meeting_tg' table. Then I went back to the JSON file to locate the data points. Most of the time, what caused the error was a mismatch between a value and its data type. Huh, done! 
+For example, the following screenshot shows the missing entries after the first time I updated **meeting_tg** table. Because of my database structures, the column for comparison here was timeid joined by groupid. 
+
+Then I went back to the JSON file to locate the data points and figured out the reasons. Most of the time, what caused the error was a mismatch between a value and its data type. Huh, not bad! 
 
 ![debug](https://github.com/JessieJessJe/dataStructures/blob/master/week07/debug.png)
