@@ -14,12 +14,12 @@ meeting_tg(**id**, type, zone, special, *timeid(fk)*, *groupid(fk)*)
 
 meeting_time(**timeid**, day, start_time, end_time)
 
-* Data Processing: [seperate time data from the above JSON(meeting_tg)](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getParts.js) 
+* Data Processing: [seperate time data from JSON(meeting_tg)](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getParts.js) 
 * JSON: [meeting_time](https://github.com/JessieJessJe/dataStructures/blob/master/week07/dataClean/timeTable.json)
 
 meeting_group(**groupid**)
 
-* Data Processing: [seperate group data from the above JSON(meeting_tg)](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getParts.js) 
+* Data Processing: [seperate group data from the JSON(meeting_tg)](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getParts.js) 
 * JSON: [meeting_group](https://github.com/JessieJessJe/dataStructures/blob/master/week07/dataClean/groupTable.json)
 
 #### SQL
@@ -62,3 +62,10 @@ INSERT INTO meeting_tg(timeid, groupid, type, zone, special) VALUES ($$"+ value.
 
 INSERT INTO meeting_loc(name,location,lat,lng,postcode,floor,wheelchair,groupid) VALUES ($$"+ value.name +"$$ , $$" + value.location + "$$ , $$"+ value.lat + "$$ , $$" + value.lng + "$$ , $$"+ value.postcode + "$$ , $$" + value.floor + "$$, $$" + value.wheelChair +"$$, $$" + value.group +"$$ );
 ````
+#### Debugging
+
+Ofterntimes when I first inserted the JSON data into each table, several entries would be missing entries. To find out the reason, I downloaded both the JSON and database(DB) data as .csv, and compared the'primary key' columns from JSON and DB in a google sheet. 
+
+For example, the following screenshot shows the missing values after the first time I updated the 'meeting_tg' table. Then I went back to the JSON file to locate the data points. Most of the time, what caused the error was a mismatch between a value and its data type. Huh, done! 
+
+![debug](https://github.com/JessieJessJe/dataStructures/blob/master/week07/debug.png)
