@@ -6,10 +6,9 @@ var cheerio = require('cheerio');
 
 
 for (let i = 1; i < 11; i++) {
-    
-    parseTime(i); 
-    
-}    
+   parseTime(i);
+  }   
+
 
 async function parseTime(j){
 
@@ -23,7 +22,7 @@ var list=[];
 $('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')       
     .each(function(i, elem){
     
-    var group = $(elem).prev().find('b').text().split(' - ')[0].trim().split('(')[0].trim();
+    var group = $(elem).prev().find('b').text().split(' - ')[0].trim().split('(')[0].trim().split('@')[0].trim();
     var entry = $(elem).text().trim().replace(/\t/g,"").trim().split("\n");  
     
     var info;
@@ -31,21 +30,22 @@ $('td[style="border-bottom:1px solid #e3e3e3;width:350px;"]')
       { 
        info = getDetail(entry[0], group,j);
        list.push(info);
-       console.log(info);
+      // console.log(info);
        
       } else {
         
         for (let i = 0; i< entry.length; i += 4){
-          console.log(i);
+        console.log(i);
           info = getDetail(entry[i], group,j);
           list.push(info);
-          console.log(info);
+        //  console.log(info);
           
         }
       }
     });
    
 fs.appendFileSync('dataClean/timeAll.json', JSON.stringify(list, null, 2));
+
 }
 
 function getDetail(a,b,j){
@@ -62,13 +62,17 @@ function getDetail(a,b,j){
     // eg, Monday 8:30PM to 9:30PM -> ID=108300930, day2=1, hour2=08300930
     var hour2 = convertTime(entry[3],entry[4]) + convertTime(entry[6],entry[7]);
     var day = getDay(entry[0]);
+    
     var day2 = day.toString();
+    
+    var day3;
+    if (entry[0] == "s"){ day3= "Sunday";} else { day3 = entry[0].slice(0, -1);} // Mondays -> Monday
     
     var info = {
     
       timeid : day2+hour2,
       group: b,
-      day: entry[0].slice(0, -1), // Mondays -> Monday
+      day: day3,
       start: entry[3] +' '+ entry[4],
       end: entry[6] +' '+ entry[7],
       type: entry[10],
@@ -81,12 +85,23 @@ function getDetail(a,b,j){
 }
 
 function convertTime(a,b){
-   if (b == "PM") {
-        var h = parseInt(a.split(":")[0],10) + 12;
-    } else if (a.split(":")[0] =="10"){
-        var h = a.split(":")[0];
-    } else {
-        var h = '0'+ a.split(":")[0];
+  var h;
+  if (b == "PM") {
+     
+     if (a.split(":")[0] =="12"){
+        h = '12'; 
+     } else {
+        h =parseInt(a.split(":")[0],10) + 12;
+     };
+ 
+  } else if (a.split(":")[0] =="10" || a.split(":")[0] =="11" ){
+        h = a.split(":")[0];
+       
+  } else if (a.split(":")[0] =="12"){
+        h = '00';
+        
+  } else {
+        h = '0'+ a.split(":")[0];
     }
     
     return h.toString() + a.split(":")[1];
@@ -115,6 +130,10 @@ switch (b) {
     break;
   case "Saturdays":
     day = 6;
+    break;
+  case "s": 
+    day = 0;
+    break;
 }
 
 return day;

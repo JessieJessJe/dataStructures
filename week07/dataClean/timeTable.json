@@ -1,0 +1,2684 @@
+[
+  {
+    "timeid": "000000000",
+    "day": "Sunday",
+    "start": "12:00 AM",
+    "end": "12:00 AM"
+  },
+  {
+    "timeid": "000000100",
+    "day": "Sunday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "000000115",
+    "day": "Sunday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "002000315",
+    "day": "Sunday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "006000700",
+    "day": "Sunday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "007150815",
+    "day": "Sunday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "007300830",
+    "day": "Sunday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "007450845",
+    "day": "Sunday",
+    "start": "7:45 AM",
+    "end": "8:45 AM"
+  },
+  {
+    "timeid": "008000900",
+    "day": "Sunday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "008150915",
+    "day": "Sunday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "008450945",
+    "day": "Sunday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "009001000",
+    "day": "Sunday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "009301030",
+    "day": "Sunday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "010001100",
+    "day": "Sunday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "010151115",
+    "day": "Sunday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "010301130",
+    "day": "Sunday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "010301200",
+    "day": "Sunday",
+    "start": "10:30 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "011001200",
+    "day": "Sunday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "011001215",
+    "day": "Sunday",
+    "start": "11:00 AM",
+    "end": "12:15 PM"
+  },
+  {
+    "timeid": "012001300",
+    "day": "Sunday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "012301330",
+    "day": "Sunday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "012451345",
+    "day": "Sunday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "013001400",
+    "day": "Sunday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "013301430",
+    "day": "Sunday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "014001500",
+    "day": "Sunday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "014301530",
+    "day": "Sunday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "014451545",
+    "day": "Sunday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "015001600",
+    "day": "Sunday",
+    "start": "3:00 PM",
+    "end": "4:00 PM"
+  },
+  {
+    "timeid": "015001630",
+    "day": "Sunday",
+    "start": "3:00 PM",
+    "end": "4:30 PM"
+  },
+  {
+    "timeid": "015301630",
+    "day": "Sunday",
+    "start": "3:30 PM",
+    "end": "4:30 PM"
+  },
+  {
+    "timeid": "016001700",
+    "day": "Sunday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "016301730",
+    "day": "Sunday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "017001745",
+    "day": "Sunday",
+    "start": "5:00 PM",
+    "end": "5:45 PM"
+  },
+  {
+    "timeid": "017001800",
+    "day": "Sunday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "017001900",
+    "day": "Sunday",
+    "start": "5:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "017151815",
+    "day": "Sunday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "017301830",
+    "day": "Sunday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "017451900",
+    "day": "Sunday",
+    "start": "5:45 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "018001900",
+    "day": "Sunday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "018001930",
+    "day": "Sunday",
+    "start": "6:00 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "018151900",
+    "day": "Sunday",
+    "start": "6:15 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "018151915",
+    "day": "Sunday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "018151945",
+    "day": "Sunday",
+    "start": "6:15 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "018301930",
+    "day": "Sunday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "018301945",
+    "day": "Sunday",
+    "start": "6:30 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "018451945",
+    "day": "Sunday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "019002000",
+    "day": "Sunday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "019002030",
+    "day": "Sunday",
+    "start": "7:00 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "019152015",
+    "day": "Sunday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "019302030",
+    "day": "Sunday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "020002100",
+    "day": "Sunday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "020002115",
+    "day": "Sunday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "020302130",
+    "day": "Sunday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "021152215",
+    "day": "Sunday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "022002300",
+    "day": "Sunday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "022002315",
+    "day": "Sunday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "022302330",
+    "day": "Sunday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "100000100",
+    "day": "Monday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "100000115",
+    "day": "Monday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "100301330",
+    "day": "Monday",
+    "start": "12:30 AM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "102000315",
+    "day": "Monday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "106000700",
+    "day": "Monday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "106300730",
+    "day": "Monday",
+    "start": "6:30 AM",
+    "end": "7:30 AM"
+  },
+  {
+    "timeid": "107000800",
+    "day": "Monday",
+    "start": "7:00 AM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "107150815",
+    "day": "Monday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "107300830",
+    "day": "Monday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "108000900",
+    "day": "Monday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "108150915",
+    "day": "Monday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "108300930",
+    "day": "Monday",
+    "start": "8:30 AM",
+    "end": "9:30 AM"
+  },
+  {
+    "timeid": "108450945",
+    "day": "Monday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "109001000",
+    "day": "Monday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "109301030",
+    "day": "Monday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "110001100",
+    "day": "Monday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "110151115",
+    "day": "Monday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "110301130",
+    "day": "Monday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "111001200",
+    "day": "Monday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "111151215",
+    "day": "Monday",
+    "start": "11:15 AM",
+    "end": "12:15 PM"
+  },
+  {
+    "timeid": "111301230",
+    "day": "Monday",
+    "start": "11:30 AM",
+    "end": "12:30 PM"
+  },
+  {
+    "timeid": "112001300",
+    "day": "Monday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "112001315",
+    "day": "Monday",
+    "start": "12:00 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "112151315",
+    "day": "Monday",
+    "start": "12:15 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "112301330",
+    "day": "Monday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "112451345",
+    "day": "Monday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "113001400",
+    "day": "Monday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "113001415",
+    "day": "Monday",
+    "start": "1:00 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "113151415",
+    "day": "Monday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "113301430",
+    "day": "Monday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "114001500",
+    "day": "Monday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "114301530",
+    "day": "Monday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "114451545",
+    "day": "Monday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "115001600",
+    "day": "Monday",
+    "start": "3:00 PM",
+    "end": "4:00 PM"
+  },
+  {
+    "timeid": "115151615",
+    "day": "Monday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "116001700",
+    "day": "Monday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "116001730",
+    "day": "Monday",
+    "start": "4:00 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "116301730",
+    "day": "Monday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "117001800",
+    "day": "Monday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "117151815",
+    "day": "Monday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "117301830",
+    "day": "Monday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "117451845",
+    "day": "Monday",
+    "start": "5:45 PM",
+    "end": "6:45 PM"
+  },
+  {
+    "timeid": "118001800",
+    "day": "Monday",
+    "start": "6:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "118001900",
+    "day": "Monday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "118151900",
+    "day": "Monday",
+    "start": "6:15 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "118151915",
+    "day": "Monday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "118301930",
+    "day": "Monday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "118451945",
+    "day": "Monday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "118452000",
+    "day": "Monday",
+    "start": "6:45 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "119002000",
+    "day": "Monday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "119002015",
+    "day": "Monday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "119002030",
+    "day": "Monday",
+    "start": "7:00 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "119152015",
+    "day": "Monday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "119302030",
+    "day": "Monday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "119302045",
+    "day": "Monday",
+    "start": "7:30 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "119452045",
+    "day": "Monday",
+    "start": "7:45 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "120002100",
+    "day": "Monday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "120002115",
+    "day": "Monday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "120152100",
+    "day": "Monday",
+    "start": "8:15 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "120152115",
+    "day": "Monday",
+    "start": "8:15 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "120302130",
+    "day": "Monday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "121002200",
+    "day": "Monday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "121152215",
+    "day": "Monday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "122002300",
+    "day": "Monday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "122002315",
+    "day": "Monday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "122152315",
+    "day": "Monday",
+    "start": "10:15 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "122302330",
+    "day": "Monday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "200000100",
+    "day": "Tuesday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "200000115",
+    "day": "Tuesday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "202000315",
+    "day": "Tuesday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "206000700",
+    "day": "Tuesday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "206150715",
+    "day": "Tuesday",
+    "start": "6:15 AM",
+    "end": "7:15 AM"
+  },
+  {
+    "timeid": "206300730",
+    "day": "Tuesday",
+    "start": "6:30 AM",
+    "end": "7:30 AM"
+  },
+  {
+    "timeid": "207000800",
+    "day": "Tuesday",
+    "start": "7:00 AM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "207150815",
+    "day": "Tuesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "207300830",
+    "day": "Tuesday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "207450845",
+    "day": "Tuesday",
+    "start": "7:45 AM",
+    "end": "8:45 AM"
+  },
+  {
+    "timeid": "208000900",
+    "day": "Tuesday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "208150915",
+    "day": "Tuesday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "208300930",
+    "day": "Tuesday",
+    "start": "8:30 AM",
+    "end": "9:30 AM"
+  },
+  {
+    "timeid": "208450945",
+    "day": "Tuesday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "209001000",
+    "day": "Tuesday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "209301030",
+    "day": "Tuesday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "210001100",
+    "day": "Tuesday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "210151115",
+    "day": "Tuesday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "210301130",
+    "day": "Tuesday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "211001200",
+    "day": "Tuesday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "211301230",
+    "day": "Tuesday",
+    "start": "11:30 AM",
+    "end": "12:30 PM"
+  },
+  {
+    "timeid": "212001300",
+    "day": "Tuesday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "212151315",
+    "day": "Tuesday",
+    "start": "12:15 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "212301330",
+    "day": "Tuesday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "212451345",
+    "day": "Tuesday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "213001400",
+    "day": "Tuesday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "213001415",
+    "day": "Tuesday",
+    "start": "1:00 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "213151415",
+    "day": "Tuesday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "213301430",
+    "day": "Tuesday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "214001500",
+    "day": "Tuesday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "214301530",
+    "day": "Tuesday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "214451545",
+    "day": "Tuesday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "215151615",
+    "day": "Tuesday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "215301630",
+    "day": "Tuesday",
+    "start": "3:30 PM",
+    "end": "4:30 PM"
+  },
+  {
+    "timeid": "216001700",
+    "day": "Tuesday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "216001730",
+    "day": "Tuesday",
+    "start": "4:00 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "216301630",
+    "day": "Tuesday",
+    "start": "4:30 PM",
+    "end": "4:30 PM"
+  },
+  {
+    "timeid": "216301730",
+    "day": "Tuesday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "217001800",
+    "day": "Tuesday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "217151815",
+    "day": "Tuesday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "217301830",
+    "day": "Tuesday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "217451845",
+    "day": "Tuesday",
+    "start": "5:45 PM",
+    "end": "6:45 PM"
+  },
+  {
+    "timeid": "218001900",
+    "day": "Tuesday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "218151915",
+    "day": "Tuesday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "218301930",
+    "day": "Tuesday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "218301945",
+    "day": "Tuesday",
+    "start": "6:30 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "218451945",
+    "day": "Tuesday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "218452000",
+    "day": "Tuesday",
+    "start": "6:45 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "219000800",
+    "day": "Tuesday",
+    "start": "7:00 PM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "219002000",
+    "day": "Tuesday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "219002015",
+    "day": "Tuesday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "219152015",
+    "day": "Tuesday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "219152030",
+    "day": "Tuesday",
+    "start": "7:15 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "219302030",
+    "day": "Tuesday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "219452045",
+    "day": "Tuesday",
+    "start": "7:45 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "220002100",
+    "day": "Tuesday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "220002115",
+    "day": "Tuesday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "220002200",
+    "day": "Tuesday",
+    "start": "8:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "220152130",
+    "day": "Tuesday",
+    "start": "8:15 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "220302130",
+    "day": "Tuesday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "221002200",
+    "day": "Tuesday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "221152215",
+    "day": "Tuesday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "221152230",
+    "day": "Tuesday",
+    "start": "9:15 PM",
+    "end": "10:30 PM"
+  },
+  {
+    "timeid": "221302230",
+    "day": "Tuesday",
+    "start": "9:30 PM",
+    "end": "10:30 PM"
+  },
+  {
+    "timeid": "222002300",
+    "day": "Tuesday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "222002315",
+    "day": "Tuesday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "222152315",
+    "day": "Tuesday",
+    "start": "10:15 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "222302330",
+    "day": "Tuesday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "300000100",
+    "day": "Wednesday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "300000115",
+    "day": "Wednesday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "302000315",
+    "day": "Wednesday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "306000700",
+    "day": "Wednesday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "306150715",
+    "day": "Wednesday",
+    "start": "6:15 AM",
+    "end": "7:15 AM"
+  },
+  {
+    "timeid": "306300730",
+    "day": "Wednesday",
+    "start": "6:30 AM",
+    "end": "7:30 AM"
+  },
+  {
+    "timeid": "307000800",
+    "day": "Wednesday",
+    "start": "7:00 AM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "307150815",
+    "day": "Wednesday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "307300830",
+    "day": "Wednesday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "308000900",
+    "day": "Wednesday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "308150915",
+    "day": "Wednesday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "308300930",
+    "day": "Wednesday",
+    "start": "8:30 AM",
+    "end": "9:30 AM"
+  },
+  {
+    "timeid": "308450945",
+    "day": "Wednesday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "309001000",
+    "day": "Wednesday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "309301030",
+    "day": "Wednesday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "310001100",
+    "day": "Wednesday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "310151115",
+    "day": "Wednesday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "310301130",
+    "day": "Wednesday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "311001200",
+    "day": "Wednesday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "311301230",
+    "day": "Wednesday",
+    "start": "11:30 AM",
+    "end": "12:30 PM"
+  },
+  {
+    "timeid": "312001300",
+    "day": "Wednesday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "312151315",
+    "day": "Wednesday",
+    "start": "12:15 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "312301315",
+    "day": "Wednesday",
+    "start": "12:30 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "312301330",
+    "day": "Wednesday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "312451345",
+    "day": "Wednesday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "313001400",
+    "day": "Wednesday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "313001415",
+    "day": "Wednesday",
+    "start": "1:00 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "313151415",
+    "day": "Wednesday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "313301430",
+    "day": "Wednesday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "314001500",
+    "day": "Wednesday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "314301530",
+    "day": "Wednesday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "314451545",
+    "day": "Wednesday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "315001600",
+    "day": "Wednesday",
+    "start": "3:00 PM",
+    "end": "4:00 PM"
+  },
+  {
+    "timeid": "315151615",
+    "day": "Wednesday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "316001700",
+    "day": "Wednesday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "316001730",
+    "day": "Wednesday",
+    "start": "4:00 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "316301730",
+    "day": "Wednesday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "316451745",
+    "day": "Wednesday",
+    "start": "4:45 PM",
+    "end": "5:45 PM"
+  },
+  {
+    "timeid": "317001800",
+    "day": "Wednesday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "317151815",
+    "day": "Wednesday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "317301830",
+    "day": "Wednesday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "317451845",
+    "day": "Wednesday",
+    "start": "5:45 PM",
+    "end": "6:45 PM"
+  },
+  {
+    "timeid": "317451915",
+    "day": "Wednesday",
+    "start": "5:45 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "318001900",
+    "day": "Wednesday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "318151915",
+    "day": "Wednesday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "318301930",
+    "day": "Wednesday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "318451945",
+    "day": "Wednesday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "319002000",
+    "day": "Wednesday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "319002015",
+    "day": "Wednesday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "319002030",
+    "day": "Wednesday",
+    "start": "7:00 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "319152015",
+    "day": "Wednesday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "319302030",
+    "day": "Wednesday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "319302045",
+    "day": "Wednesday",
+    "start": "7:30 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "319302100",
+    "day": "Wednesday",
+    "start": "7:30 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "320002100",
+    "day": "Wednesday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "320002115",
+    "day": "Wednesday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "320002200",
+    "day": "Wednesday",
+    "start": "8:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "320152115",
+    "day": "Wednesday",
+    "start": "8:15 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "320302130",
+    "day": "Wednesday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "321002200",
+    "day": "Wednesday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "321152215",
+    "day": "Wednesday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "322002300",
+    "day": "Wednesday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "322002315",
+    "day": "Wednesday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "322152315",
+    "day": "Wednesday",
+    "start": "10:15 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "322302330",
+    "day": "Wednesday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "400000100",
+    "day": "Thursday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "400000115",
+    "day": "Thursday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "402000315",
+    "day": "Thursday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "406000700",
+    "day": "Thursday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "406300730",
+    "day": "Thursday",
+    "start": "6:30 AM",
+    "end": "7:30 AM"
+  },
+  {
+    "timeid": "407000800",
+    "day": "Thursday",
+    "start": "7:00 AM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "407150815",
+    "day": "Thursday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "407300830",
+    "day": "Thursday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "408000900",
+    "day": "Thursday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "408150915",
+    "day": "Thursday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "408300930",
+    "day": "Thursday",
+    "start": "8:30 AM",
+    "end": "9:30 AM"
+  },
+  {
+    "timeid": "408450945",
+    "day": "Thursday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "409001000",
+    "day": "Thursday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "409301030",
+    "day": "Thursday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "410001100",
+    "day": "Thursday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "410151115",
+    "day": "Thursday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "410301130",
+    "day": "Thursday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "411001200",
+    "day": "Thursday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "411301230",
+    "day": "Thursday",
+    "start": "11:30 AM",
+    "end": "12:30 PM"
+  },
+  {
+    "timeid": "412000100",
+    "day": "Thursday",
+    "start": "12:00 PM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "412001300",
+    "day": "Thursday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "412151315",
+    "day": "Thursday",
+    "start": "12:15 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "412301330",
+    "day": "Thursday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "412451345",
+    "day": "Thursday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "413001400",
+    "day": "Thursday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "413001415",
+    "day": "Thursday",
+    "start": "1:00 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "413151415",
+    "day": "Thursday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "413301430",
+    "day": "Thursday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "414001500",
+    "day": "Thursday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "414301530",
+    "day": "Thursday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "414451545",
+    "day": "Thursday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "415151615",
+    "day": "Thursday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "415301630",
+    "day": "Thursday",
+    "start": "3:30 PM",
+    "end": "4:30 PM"
+  },
+  {
+    "timeid": "416001700",
+    "day": "Thursday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "416301730",
+    "day": "Thursday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "417001800",
+    "day": "Thursday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "417151815",
+    "day": "Thursday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "417301830",
+    "day": "Thursday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "418001900",
+    "day": "Thursday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "418001915",
+    "day": "Thursday",
+    "start": "6:00 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "418001930",
+    "day": "Thursday",
+    "start": "6:00 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "418151915",
+    "day": "Thursday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "418301930",
+    "day": "Thursday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "418301945",
+    "day": "Thursday",
+    "start": "6:30 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "418451945",
+    "day": "Thursday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "419002000",
+    "day": "Thursday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "419002015",
+    "day": "Thursday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "419302030",
+    "day": "Thursday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "419302045",
+    "day": "Thursday",
+    "start": "7:30 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "419452045",
+    "day": "Thursday",
+    "start": "7:45 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "420002100",
+    "day": "Thursday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "420002115",
+    "day": "Thursday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "420002200",
+    "day": "Thursday",
+    "start": "8:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "420152100",
+    "day": "Thursday",
+    "start": "8:15 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "420152115",
+    "day": "Thursday",
+    "start": "8:15 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "420302130",
+    "day": "Thursday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "421002200",
+    "day": "Thursday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "421152215",
+    "day": "Thursday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "421301030",
+    "day": "Thursday",
+    "start": "9:30 PM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "422002300",
+    "day": "Thursday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "422002315",
+    "day": "Thursday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "422152315",
+    "day": "Thursday",
+    "start": "10:15 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "422302330",
+    "day": "Thursday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "500000100",
+    "day": "Friday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "500000115",
+    "day": "Friday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "502000315",
+    "day": "Friday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "506000700",
+    "day": "Friday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "506300730",
+    "day": "Friday",
+    "start": "6:30 AM",
+    "end": "7:30 AM"
+  },
+  {
+    "timeid": "507000800",
+    "day": "Friday",
+    "start": "7:00 AM",
+    "end": "8:00 AM"
+  },
+  {
+    "timeid": "507150815",
+    "day": "Friday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "507300830",
+    "day": "Friday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "507450845",
+    "day": "Friday",
+    "start": "7:45 AM",
+    "end": "8:45 AM"
+  },
+  {
+    "timeid": "508000900",
+    "day": "Friday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "508150915",
+    "day": "Friday",
+    "start": "8:15 AM",
+    "end": "9:15 AM"
+  },
+  {
+    "timeid": "508300930",
+    "day": "Friday",
+    "start": "8:30 AM",
+    "end": "9:30 AM"
+  },
+  {
+    "timeid": "508450945",
+    "day": "Friday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "509001000",
+    "day": "Friday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "509301030",
+    "day": "Friday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "510001100",
+    "day": "Friday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "510151115",
+    "day": "Friday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "510301130",
+    "day": "Friday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "511001200",
+    "day": "Friday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "511301230",
+    "day": "Friday",
+    "start": "11:30 AM",
+    "end": "12:30 PM"
+  },
+  {
+    "timeid": "512001300",
+    "day": "Friday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "512151315",
+    "day": "Friday",
+    "start": "12:15 PM",
+    "end": "1:15 PM"
+  },
+  {
+    "timeid": "512301330",
+    "day": "Friday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "512451345",
+    "day": "Friday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "513001400",
+    "day": "Friday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "513151415",
+    "day": "Friday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "513301430",
+    "day": "Friday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "514001500",
+    "day": "Friday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "514301530",
+    "day": "Friday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "514451545",
+    "day": "Friday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "515151615",
+    "day": "Friday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "516001700",
+    "day": "Friday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "516001730",
+    "day": "Friday",
+    "start": "4:00 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "516001800",
+    "day": "Friday",
+    "start": "4:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "516300530",
+    "day": "Friday",
+    "start": "4:30 PM",
+    "end": "5:30 AM"
+  },
+  {
+    "timeid": "516301730",
+    "day": "Friday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "517001800",
+    "day": "Friday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "517151815",
+    "day": "Friday",
+    "start": "5:15 PM",
+    "end": "6:15 PM"
+  },
+  {
+    "timeid": "517301830",
+    "day": "Friday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "518001900",
+    "day": "Friday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "518151915",
+    "day": "Friday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "518151930",
+    "day": "Friday",
+    "start": "6:15 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "518301930",
+    "day": "Friday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "518301945",
+    "day": "Friday",
+    "start": "6:30 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "518451945",
+    "day": "Friday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "518452000",
+    "day": "Friday",
+    "start": "6:45 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "519002000",
+    "day": "Friday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "519002015",
+    "day": "Friday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "519152015",
+    "day": "Friday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "519302030",
+    "day": "Friday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "519302045",
+    "day": "Friday",
+    "start": "7:30 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "519452045",
+    "day": "Friday",
+    "start": "7:45 PM",
+    "end": "8:45 PM"
+  },
+  {
+    "timeid": "520002100",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "520002115",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "520002130",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "520002200",
+    "day": "Friday",
+    "start": "8:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "520302130",
+    "day": "Friday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "520302230",
+    "day": "Friday",
+    "start": "8:30 PM",
+    "end": "10:30 PM"
+  },
+  {
+    "timeid": "520452145",
+    "day": "Friday",
+    "start": "8:45 PM",
+    "end": "9:45 PM"
+  },
+  {
+    "timeid": "521002200",
+    "day": "Friday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "521152215",
+    "day": "Friday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "521302230",
+    "day": "Friday",
+    "start": "9:30 PM",
+    "end": "10:30 PM"
+  },
+  {
+    "timeid": "522002300",
+    "day": "Friday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "522002315",
+    "day": "Friday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "522302330",
+    "day": "Friday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "523000000",
+    "day": "Friday",
+    "start": "11:00 PM",
+    "end": "12:00 AM"
+  },
+  {
+    "timeid": "600000100",
+    "day": "Saturday",
+    "start": "12:00 AM",
+    "end": "1:00 AM"
+  },
+  {
+    "timeid": "600000115",
+    "day": "Saturday",
+    "start": "12:00 AM",
+    "end": "1:15 AM"
+  },
+  {
+    "timeid": "602000315",
+    "day": "Saturday",
+    "start": "2:00 AM",
+    "end": "3:15 AM"
+  },
+  {
+    "timeid": "606000700",
+    "day": "Saturday",
+    "start": "6:00 AM",
+    "end": "7:00 AM"
+  },
+  {
+    "timeid": "607150815",
+    "day": "Saturday",
+    "start": "7:15 AM",
+    "end": "8:15 AM"
+  },
+  {
+    "timeid": "607300830",
+    "day": "Saturday",
+    "start": "7:30 AM",
+    "end": "8:30 AM"
+  },
+  {
+    "timeid": "607450845",
+    "day": "Saturday",
+    "start": "7:45 AM",
+    "end": "8:45 AM"
+  },
+  {
+    "timeid": "608000900",
+    "day": "Saturday",
+    "start": "8:00 AM",
+    "end": "9:00 AM"
+  },
+  {
+    "timeid": "608450945",
+    "day": "Saturday",
+    "start": "8:45 AM",
+    "end": "9:45 AM"
+  },
+  {
+    "timeid": "609001000",
+    "day": "Saturday",
+    "start": "9:00 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "609151015",
+    "day": "Saturday",
+    "start": "9:15 AM",
+    "end": "10:15 AM"
+  },
+  {
+    "timeid": "609301000",
+    "day": "Saturday",
+    "start": "9:30 AM",
+    "end": "10:00 AM"
+  },
+  {
+    "timeid": "609301030",
+    "day": "Saturday",
+    "start": "9:30 AM",
+    "end": "10:30 AM"
+  },
+  {
+    "timeid": "609301100",
+    "day": "Saturday",
+    "start": "9:30 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "610001100",
+    "day": "Saturday",
+    "start": "10:00 AM",
+    "end": "11:00 AM"
+  },
+  {
+    "timeid": "610151115",
+    "day": "Saturday",
+    "start": "10:15 AM",
+    "end": "11:15 AM"
+  },
+  {
+    "timeid": "610301130",
+    "day": "Saturday",
+    "start": "10:30 AM",
+    "end": "11:30 AM"
+  },
+  {
+    "timeid": "611001200",
+    "day": "Saturday",
+    "start": "11:00 AM",
+    "end": "12:00 PM"
+  },
+  {
+    "timeid": "611151215",
+    "day": "Saturday",
+    "start": "11:15 AM",
+    "end": "12:15 PM"
+  },
+  {
+    "timeid": "611301300",
+    "day": "Saturday",
+    "start": "11:30 AM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "612001300",
+    "day": "Saturday",
+    "start": "12:00 PM",
+    "end": "1:00 PM"
+  },
+  {
+    "timeid": "612301330",
+    "day": "Saturday",
+    "start": "12:30 PM",
+    "end": "1:30 PM"
+  },
+  {
+    "timeid": "612301400",
+    "day": "Saturday",
+    "start": "12:30 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "612451345",
+    "day": "Saturday",
+    "start": "12:45 PM",
+    "end": "1:45 PM"
+  },
+  {
+    "timeid": "613001400",
+    "day": "Saturday",
+    "start": "1:00 PM",
+    "end": "2:00 PM"
+  },
+  {
+    "timeid": "613001430",
+    "day": "Saturday",
+    "start": "1:00 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "613151415",
+    "day": "Saturday",
+    "start": "1:15 PM",
+    "end": "2:15 PM"
+  },
+  {
+    "timeid": "613301430",
+    "day": "Saturday",
+    "start": "1:30 PM",
+    "end": "2:30 PM"
+  },
+  {
+    "timeid": "614001500",
+    "day": "Saturday",
+    "start": "2:00 PM",
+    "end": "3:00 PM"
+  },
+  {
+    "timeid": "614001515",
+    "day": "Saturday",
+    "start": "2:00 PM",
+    "end": "3:15 PM"
+  },
+  {
+    "timeid": "614301530",
+    "day": "Saturday",
+    "start": "2:30 PM",
+    "end": "3:30 PM"
+  },
+  {
+    "timeid": "614301600",
+    "day": "Saturday",
+    "start": "2:30 PM",
+    "end": "4:00 PM"
+  },
+  {
+    "timeid": "614451545",
+    "day": "Saturday",
+    "start": "2:45 PM",
+    "end": "3:45 PM"
+  },
+  {
+    "timeid": "615001600",
+    "day": "Saturday",
+    "start": "3:00 PM",
+    "end": "4:00 PM"
+  },
+  {
+    "timeid": "615151615",
+    "day": "Saturday",
+    "start": "3:15 PM",
+    "end": "4:15 PM"
+  },
+  {
+    "timeid": "616001700",
+    "day": "Saturday",
+    "start": "4:00 PM",
+    "end": "5:00 PM"
+  },
+  {
+    "timeid": "616151730",
+    "day": "Saturday",
+    "start": "4:15 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "616301730",
+    "day": "Saturday",
+    "start": "4:30 PM",
+    "end": "5:30 PM"
+  },
+  {
+    "timeid": "616451745",
+    "day": "Saturday",
+    "start": "4:45 PM",
+    "end": "5:45 PM"
+  },
+  {
+    "timeid": "617001800",
+    "day": "Saturday",
+    "start": "5:00 PM",
+    "end": "6:00 PM"
+  },
+  {
+    "timeid": "617301830",
+    "day": "Saturday",
+    "start": "5:30 PM",
+    "end": "6:30 PM"
+  },
+  {
+    "timeid": "618001900",
+    "day": "Saturday",
+    "start": "6:00 PM",
+    "end": "7:00 PM"
+  },
+  {
+    "timeid": "618001930",
+    "day": "Saturday",
+    "start": "6:00 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "618151915",
+    "day": "Saturday",
+    "start": "6:15 PM",
+    "end": "7:15 PM"
+  },
+  {
+    "timeid": "618301930",
+    "day": "Saturday",
+    "start": "6:30 PM",
+    "end": "7:30 PM"
+  },
+  {
+    "timeid": "618451945",
+    "day": "Saturday",
+    "start": "6:45 PM",
+    "end": "7:45 PM"
+  },
+  {
+    "timeid": "619002000",
+    "day": "Saturday",
+    "start": "7:00 PM",
+    "end": "8:00 PM"
+  },
+  {
+    "timeid": "619002015",
+    "day": "Saturday",
+    "start": "7:00 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "619152015",
+    "day": "Saturday",
+    "start": "7:15 PM",
+    "end": "8:15 PM"
+  },
+  {
+    "timeid": "619302030",
+    "day": "Saturday",
+    "start": "7:30 PM",
+    "end": "8:30 PM"
+  },
+  {
+    "timeid": "620002100",
+    "day": "Saturday",
+    "start": "8:00 PM",
+    "end": "9:00 PM"
+  },
+  {
+    "timeid": "620002115",
+    "day": "Saturday",
+    "start": "8:00 PM",
+    "end": "9:15 PM"
+  },
+  {
+    "timeid": "620002200",
+    "day": "Saturday",
+    "start": "8:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "620302130",
+    "day": "Saturday",
+    "start": "8:30 PM",
+    "end": "9:30 PM"
+  },
+  {
+    "timeid": "621002200",
+    "day": "Saturday",
+    "start": "9:00 PM",
+    "end": "10:00 PM"
+  },
+  {
+    "timeid": "621152215",
+    "day": "Saturday",
+    "start": "9:15 PM",
+    "end": "10:15 PM"
+  },
+  {
+    "timeid": "621302230",
+    "day": "Saturday",
+    "start": "9:30 PM",
+    "end": "10:30 PM"
+  },
+  {
+    "timeid": "622002300",
+    "day": "Saturday",
+    "start": "10:00 PM",
+    "end": "11:00 PM"
+  },
+  {
+    "timeid": "622002315",
+    "day": "Saturday",
+    "start": "10:00 PM",
+    "end": "11:15 PM"
+  },
+  {
+    "timeid": "622302330",
+    "day": "Saturday",
+    "start": "10:30 PM",
+    "end": "11:30 PM"
+  },
+  {
+    "timeid": "623000000",
+    "day": "Saturday",
+    "start": "11:00 PM",
+    "end": "12:00 AM"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "typeID": "B",
+    "name": "Beginners meeting"
+  },
+  {
+    "typeID": "BB",
+    "name": "Big Book meeting"
+  },
+  {
+    "typeID": "C",
+    "name": "Closed Discussion meeting"
+  },
+  {
+    "typeID": "S",
+    "name": "Step meeting"
+  },
+  {
+    "typeID": "T",
+    "name": "Tradition meeting"
+  },
+  {
+    "typeID": "O",
+    "name": "Open meeting"
+  },
+  {
+    "typeID": "OD",
+    "name": "Open Discussion meeting"
+  }
+]
