@@ -1,19 +1,19 @@
-## Week Eight&Nine
+## Week Eight & Nine
 
 #### IoT Development: Particle Argon + DHT22
 
-* Device Setup 
+Device Setup 
 
-![image](https://github.com/JessieJessJe/dataStructures/blob/master/week07/dataClean/locationFinal.json)
+![image](https://github.com/JessieJessJe/dataStructures/blob/master/week09/IMG_6297.jpg)
 
-* Code in Particle Web IDE
-Modified the example from Adafruit_DHT library, creating two global variables: temp and humi.
-
-[dht.info](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getTime.js)
+Code in Particle Web IDE
+Modified the example from Adafruit_DHT library, creating two global variables: temp and humi. [dht.info](https://github.com/JessieJessJe/dataStructures/blob/master/week09/dht.ino)
 
 #### Fetch API Data: Particle API + AWS cloud9 + pm2
 
-I constructed an array(record) for storing temperature(record[0]) and humidity(record[1]) data. So each time when a request being triggered and fetching a data point through Particle API, the data will be either stored in record[0] or record[1].
+I constructed an array `record` for storing temperature `record[0]` and humidity `record[1]` data. 
+
+So each time when a request being triggered and fetching a data point through Particle API, the data will be either stored in `record[0]` or `record[1]`.
 [9b.js](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getTime.js)
 
 ````javascript
@@ -76,7 +76,7 @@ setInterval(getAndWriteData, 300000);
 
 #### Database Mgmt: PostgreSQL
 
-Create sensor table [9a.js](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getTime.js)
+Create sensor table [9a.js](https://github.com/JessieJessJe/dataStructures/blob/master/week09/9a.js)
 ````sql
 CREATE TABLE sensor ( 
                     id SERIAL PRIMARY KEY,
@@ -84,15 +84,16 @@ CREATE TABLE sensor (
                     humi DOUBLE PRECISION,
                     time TIMESTAMP DEFAULT current_timestamp);
 ````
-Insert into sensor table [9b.js](https://github.com/JessieJessJe/dataStructures/blob/master/week07/getTime.js)
+Insert into sensor table [9b.js](https://github.com/JessieJessJe/dataStructures/blob/master/week09/9b.js)
 ````sql
 INSERT INTO sensor(temp,humi,time) VALUES (" + record[0] + "," + record[1] + ", DEFAULT);
 ````
 
 Result
+
 Question: why there're are null values in the database? 
 
-![image](https://github.com/JessieJessJe/dataStructures/blob/master/week07/debug.png)
+![image](https://github.com/JessieJessJe/dataStructures/blob/master/week09/db.png)
 
 
 
