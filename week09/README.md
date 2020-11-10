@@ -40,10 +40,8 @@ function getData(){
        var data = JSON.parse(body).result; 
        insertData(1,data);
        
-    });
-    
+    });    
     return 1;
-
 }
 ````
 
@@ -90,9 +88,9 @@ Insert into sensor table [9b.js](https://github.com/JessieJessJe/dataStructures/
 INSERT INTO sensor(temp,humi,time) VALUES (" + record[0] + "," + record[1] + ", DEFAULT);
 ````
 
-Result
+#### Result
 
-Question: why there're are null values in the database? 
+Question: why there're null values in the database? 
 
 ![image](https://github.com/JessieJessJe/dataStructures/blob/master/week09/db.png)
 
