@@ -7,6 +7,7 @@ Device Setup
 ![image](https://github.com/JessieJessJe/dataStructures/blob/master/week09/IMG_6297.jpg)
 
 Code in Particle Web IDE
+
 Modified the example from Adafruit_DHT library, creating two global variables: temp and humi. [dht.info](https://github.com/JessieJessJe/dataStructures/blob/master/week09/dht.ino)
 
 #### Fetch API Data: Particle API + AWS cloud9 + pm2
