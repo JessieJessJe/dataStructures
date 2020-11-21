@@ -35,5 +35,5 @@ Here're the [assignment instruction](https://github.com/visualizedata/data-struc
 #### The process
 * For the detailed information go to Week02 -> [README](https://github.com/JessieJessJe/dataStructures/blob/master/week02/README.md)
 
-##Final Project
+## Final Project
 work in  progress [here](https://jessiejessje.github.io/dataStructures/)
