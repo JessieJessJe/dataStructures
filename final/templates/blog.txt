@@ -1,0 +1,74 @@
+<!doctype html>
+
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Process Blog</title>
+  <meta name="description" content="Process Blog">
+  <meta name="author" content="Jessie">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+
+  <style>
+    
+     body { height: 100%; width: 100%; margin: 0.5em; z-index: 100; }
+
+     #myEntries { font-size: 1.5em; padding: 0.5em;}
+
+     .content:hover { background-color: #efefef; }
+
+    .img {
+        position: fixed;
+        z-index: -100;
+    }
+
+  </style>
+</head>
+
+<body>
+
+<script>
+
+var data = {{{pbdata}}} ; 
+var myTable = '<table><thead><tr><th style="width:20%; text-align: left;">date</th><th style="width:60%; text-align: left;">entry</th style="width:20%; text-align: left;"><th>Post on Instagram?</th></tr></thead><tbody>';
+
+    for (var i=0; i < data.length; i++) {
+    myTable += '<tr class="content" id="' + i;
+    myTable += '">';
+	myTable += '<td>' + data[i].date.S + '</td>';
+	myTable += '<td>' + data[i].entry.S + '</td>';
+	myTable += '<td>' + data[i].ins.BOOL + '</td>';
+	myTable += '</tr>';
+}
+
+myTable += '</body></table>'
+
+$(window).on('load', function() {
+  $("#myEntries").html(myTable);
+  $(".content").mouseover(function(e){
+        var row = e.currentTarget.getAttribute('id');
+        var myPic = '<img class="img"'; 
+        myPic += 'src="' + data[row].image.S;
+        myPic += '" height="300px" style="top:' + Math.floor(Math.random() * 80); 
+        myPic += 'vh; right:' + Math.floor(Math.random() * 80); 
+        myPic += 'vw;">';
+        $("#image").prepend(myPic);
+        console.log(myPic);})
+
+  $("#myEntries").mouseleave(function(e){      
+      $(".img").remove();
+  });            
+});
+
+
+</script>
+
+<h3>Hello!</h3>
+<div id='myEntries'></div>
+<div id='image'></div>
+
+</body>
+</html>

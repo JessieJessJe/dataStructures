@@ -1,0 +1,216 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>AA Meetings</title>
+  <meta name="description" content="Meetings of AA in Manhattan">
+  <meta name="author" content="Jessie">
+  
+  <link rel="stylesheet" href="css/styles.css?v=1.0">
+  
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+       integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+       crossorigin=""/>
+       
+  <style>
+  @import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+  
+    body { height: 100%; width: 100%; margin: 0px;}
+    #mapid { height:100vh;}
+    
+    .h2{
+    text-align: center;
+    }
+    .column {
+    float: left;}
+
+    .left {
+    width: 75vw;}
+
+    .right {
+    width: 25vw;}
+
+/* Clear floats after the columns */
+    .row:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
+    
+  #receipt{
+    font-family: 'VT323', monospace;
+    width: 100%;
+    padding: 10px;
+  
+  .reText{
+    text-align: center;
+  }
+  .reLeft{
+    text-align: left;
+  }
+  
+  .reRight{
+    text-align: right;
+  }
+  
+  </style>
+</head>
+
+<body>
+<div class="row">
+  <div class="column left">
+    <div id="mapid"></div>
+  </div>
+  <div class="column right">
+  
+  <div id="receipt">
+    <div class="reText" style="text-align: center;">
+      <h2>AA Meeting List</h2>
+      <h2>++++++++++++++++++++++++++++</h2>
+    </div>
+      <div>
+      <table>
+        <thead>
+        <tr>
+          <th class="reLeft" style="width:99%;"></th>
+          <th class="reRight" style="width:1%;"></th>
+        </tr>
+        </thead>
+  		
+  		<tbody id="reTable">
+      <tr>
+  		  <td>
+          <table>
+        	  <tr><td>Group</td></tr>
+            <tr><td>&nbsp;&nbsp;(location)</td></tr>
+          </table>
+        </td>
+        
+        <td>
+        	<table>
+        	  <tr><td>Day&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+            <tr><td>Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+        	</table>
+        </td>
+  	  </tr>
+
+  	  </tbody>
+  </table>
+  </div>
+    <button onclick="addButton()">Add</button>
+    <button onclick="deleteButton()">Delete</button>
+
+</div>
+
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+
+ 
+ <script>
+  var data = {{{aadata}}};
+  var record = [];
+  var mylist = [];
+  
+  var mymap = L.map('mapid').setView([40.744,-73.946], 12);
+  
+  const myicon = L.icon({
+    iconUrl: './public/dot.png',
+    iconSize:     [10, 10], // size of the icon
+    iconAnchor:   [5, 5] // point of the icon which will correspond to marker's location
+});
+  
+  L.tileLayer('https://api.mapbox.com/styles/v1/jessiehanvana/ckhs6j4pv23tk1ao5yw3qde5v/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w', {
+    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+    maxZoom: 18,
+    tileSize: 512,
+    zoomOffset: -1,
+    accessToken: 'pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w'
+    }).addTo(mymap);
+    
+    
+    for (var i=0; i<data.length; i++) {
+       var mypopup = "<b>Group:&nbsp</b>" +  data[i].groupid + "<br /> <b>Location:&nbsp</b>" + data[i].location + "<br /><b>Day:&nbsp</b>" + data[i].day;
+           mypopup += "<br /><b>Time:&nbsp</b>" + data[i].start_time + "-" + data[i].end_time + "<br /> <b>Wheelchair:&nbsp</b>" + data[i].wheelchair;
+       // specify popup options 
+      var customOptions =
+        {
+        'maxWidth': '500',
+        'className' : 'custom'
+        }
+       var marker = L.marker( [data[i].lat, data[i].lng], {icon:myicon}).bindPopup(mypopup,customOptions)
+                     .addTo(mymap);
+        marker.on('click', onClick);
+        marker.meta = data[i];
+    }
+    
+    function onClick(e) {
+    var marker = e.target.meta;
+    record.push(marker);
+    console.log(marker);
+    }
+    
+    function addButton() {
+    
+    var index = record.length;
+    if (index > 0) {
+     
+      mylist.push(record[record.length-1]);
+      record.pop();
+      
+      var meta = mylist[mylist.length-1];
+      
+      var x = document.getElementById('reTable').innerHTML;
+      
+          var foo = `<tr>
+  		  <td>
+          <table>
+        	  <tr><td>`;
+        	    foo += meta.groupid;
+        	    foo += `</td></tr>
+            <tr><td>&nbsp;&nbsp;(`;
+              foo += meta.location;
+              foo += `)</td></tr>
+          </table>
+        </td>
+        
+        <td>
+        	<table>
+        	  <tr><td>`;
+        	    foo += meta.day;
+        	    foo += `</td></tr>
+            <tr><td>`;
+              foo += meta.start_time + '<br />' + meta.end_time;
+              foo +=`</td></tr>
+        	</table>
+        </td>
+  	  </tr>`;
+  	  
+  	    x += foo;
+     document.getElementById("reTable").innerHTML = x;
+    
+
+    } else {
+        alert('To add a meeting, please click a dot first.')};
+    }
+    
+    function deleteButton() {
+    
+    var index = mylist.length;
+    if (index > 0){
+   
+        var meta = mylist.pop();
+        
+        document.getElementById('reTable').deleteRow(index);
+    
+        //console.log(mylist);
+    } else {
+        alert('You list is already empty!')};
+    }
+    
+    </script>
+    </body>
+    </html>
