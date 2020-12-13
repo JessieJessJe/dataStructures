@@ -14,9 +14,9 @@
 
   <style>
     
-     body { height: 100%; width: 100%; margin: 0.5em; z-index: 100; }
+     body { height: 100%; width: 100%; margin: 0.5em; z-index: 100; padding: 0.5em; font-size: 1.5em;}
 
-     #myEntries { font-size: 1.5em; padding: 0.5em;}
+     #myEntries {  padding-top: 0.5em; opacity: 0;}
 
      .content:hover { background-color: #efefef; }
 
@@ -24,7 +24,7 @@
         position: fixed;
         z-index: -100;
     }
-
+    
   </style>
 </head>
 
@@ -38,10 +38,10 @@ var myTable = '<table><thead><tr><th style="width:20%; text-align: left;">date</
     for (var i=0; i < data.length; i++) {
     myTable += '<tr class="content" id="' + i;
     myTable += '">';
-	myTable += '<td>' + data[i].date.S + '</td>';
-	myTable += '<td>' + data[i].entry.S + '</td>';
-	myTable += '<td>' + data[i].ins.BOOL + '</td>';
-	myTable += '</tr>';
+	  myTable += '<td>' + data[i].date.S + '</td>';
+	  myTable += '<td>' + data[i].entry.S + '</td>';
+  	myTable += '<td>' + data[i].ins.BOOL + '</td>';
+	  myTable += '</tr>';
 }
 
 myTable += '</body></table>'
@@ -56,17 +56,39 @@ $(window).on('load', function() {
         myPic += 'vh; right:' + Math.floor(Math.random() * 80); 
         myPic += 'vw;">';
         $("#image").prepend(myPic);
-        console.log(myPic);})
+        })
 
   $("#myEntries").mouseleave(function(e){      
       $(".img").remove();
-  });            
+  });       
+  
+   if ( data.length>0) {document.getElementById("myEntries").style.opacity = "1";}
+ 
 });
+
+
+
+async function getquery(a,b){
+ 
+  const obj = {
+    post: a,
+    post2: b
+  }
+  const params = new URLSearchParams(obj);
+
+  const url = await window.location.href.split('/?')[0]+ '/?' + params;
+ 
+  window.location.href = url;
+
+}
 
 
 </script>
 
-<h3>Hello!</h3>
+<h3>Cat Overflow</h3>
+<button id="postYes" onclick="getquery(true,false)">See posted</button>
+<button id="postNo" onclick="getquery(false,true)">See not posted</button>
+<button id="postAll" onclick="getquery(true,true)">See all</button>
 <div id='myEntries'></div>
 <div id='image'></div>
 

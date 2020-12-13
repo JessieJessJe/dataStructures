@@ -41,7 +41,7 @@
     font-family: 'VT323', monospace;
     width: 100%;
     padding: 10px;
-  
+  }
   .reText{
     text-align: center;
   }
@@ -51,6 +51,13 @@
   
   .reRight{
     text-align: right;
+  }
+
+  #filter{
+    padding: 0.5em;
+    padding-bottom: 1em;
+    border-bottom: dashed black;
+
   }
   
   </style>
@@ -63,7 +70,23 @@
   </div>
   <div class="column right">
   
-  <div id="receipt">
+  
+    <div id="filter">
+      <label for="days">Select a day:</label>
+      <select name="day" id="days">
+        <option value="Sunday">Sunday</option>
+        <option value="Monday">Monday</option>
+        <option value="Tuesday">Tuesday</option>
+        <option value="Wednesday">Wednesday</option>
+        <option value="Thursday">Thursday</option>
+        <option value="Friday">Friday</option>
+        <option value="Saturday">Saturday</option>
+      </select>
+
+      <button onclick="applyFilter()">Search</button>
+    </div>
+
+    <div id="receipt">
     <div class="reText" style="text-align: center;">
       <h2>AA Meeting List</h2>
       <h2>++++++++++++++++++++++++++++</h2>
@@ -97,10 +120,7 @@
   	  </tbody>
   </table>
   </div>
-    <button onclick="addButton()">Add</button>
-    <button onclick="deleteButton()">Delete</button>
-
-</div>
+  </div> <button onclick="addButton()">Add</button> <button onclick="deleteButton()">Delete</button> </div>
 
   </div>
 </div>
@@ -111,27 +131,35 @@
 
  
  <script>
-  var data = {{{aadata}}};
+  var rawdata = {{{aadata}}};
+  var data = [];
   var record = [];
   var mylist = [];
+  var mymap;
+  var myicon;
+  var marker;
+  var markerLayer;
+
+ function init(data){
+    mymap = L.map('mapid').setView([40.744,-73.946], 12);
   
-  var mymap = L.map('mapid').setView([40.744,-73.946], 12);
-  
-  const myicon = L.icon({
-    iconUrl: './public/dot.png',
-    iconSize:     [10, 10], // size of the icon
-    iconAnchor:   [5, 5] // point of the icon which will correspond to marker's location
-});
-  
-  L.tileLayer('https://api.mapbox.com/styles/v1/jessiehanvana/ckhs6j4pv23tk1ao5yw3qde5v/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w', {
-    attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
-    maxZoom: 18,
-    tileSize: 512,
-    zoomOffset: -1,
-    accessToken: 'pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w'
-    }).addTo(mymap);
+    myicon = L.icon({
+     iconUrl: './public/dot.png',
+      iconSize:     [10, 10], // size of the icon
+      iconAnchor:   [5, 5] // point of the icon which will correspond to marker's location
+      });
     
-    
+    L.tileLayer('https://api.mapbox.com/styles/v1/jessiehanvana/ckhs6j4pv23tk1ao5yw3qde5v/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w', {
+      attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+      maxZoom: 18,
+      tileSize: 512,
+      zoomOffset: -1,
+      accessToken: 'pk.eyJ1IjoiamVzc2llaGFudmFuYSIsImEiOiJja2hxems4ZzIwc2FrMnhxbG9rOWFveWZlIn0.6vO6JLz3Q1lMesqL2VQ22w'
+      }).addTo(mymap);
+      
+    markerLayer = L.layerGroup().addTo(mymap);
+
+    //add all markers
     for (var i=0; i<data.length; i++) {
        var mypopup = "<b>Group:&nbsp</b>" +  data[i].groupid + "<br /> <b>Location:&nbsp</b>" + data[i].location + "<br /><b>Day:&nbsp</b>" + data[i].day;
            mypopup += "<br /><b>Time:&nbsp</b>" + data[i].start_time + "-" + data[i].end_time + "<br /> <b>Wheelchair:&nbsp</b>" + data[i].wheelchair;
@@ -141,11 +169,64 @@
         'maxWidth': '500',
         'className' : 'custom'
         }
+        var marker = L.marker( [data[i].lat, data[i].lng], {icon:myicon}).bindPopup(mypopup,customOptions)
+                     .addTo(markerLayer);
+                     
+        marker.on('click', onClick);
+        
+        // necessary?
+        marker.meta = data[i];
+    }
+
+ }
+ 
+  init(rawdata);
+  
+  function filterData(day){
+    var dd = [];
+
+    for (let i=0; i<rawdata.length; i++){
+        if (rawdata[i].day == day) {
+          dd.push(rawdata[i]);
+        }
+    }
+
+    return dd;
+  }
+
+  function removeMarker(){
+    if ( markerLayer !== undefined){ mymap.removeLayer(markerLayer);}
+  }
+  
+  async function applyFilter(){
+    var d = document.getElementById("days");
+    var day = d.options[d.selectedIndex].value; 
+    
+    await removeMarker();
+    markerLayer = L.layerGroup().addTo(mymap);
+
+    var data = await filterData(day);
+    
+    //add new markers
+    for (var i=0; i < data.length; i++) {
+      
+       var mypopup = "<b>Group:&nbsp</b>" +  data[i].groupid + "<br /> <b>Location:&nbsp</b>" + data[i].location + "<br /><b>Day:&nbsp</b>" + data[i].day;
+           mypopup += "<br /><b>Time:&nbsp</b>" + data[i].start_time + "-" + data[i].end_time + "<br /> <b>Wheelchair:&nbsp</b>" + data[i].wheelchair;
+       // specify popup options 
+      var customOptions =
+        {
+        'maxWidth': '500',
+        'className' : 'custom'
+        }
        var marker = L.marker( [data[i].lat, data[i].lng], {icon:myicon}).bindPopup(mypopup,customOptions)
-                     .addTo(mymap);
+                     .addTo(markerLayer);
+                     
         marker.on('click', onClick);
         marker.meta = data[i];
     }
+    
+  } //end of async
+ 
     
     function onClick(e) {
     var marker = e.target.meta;

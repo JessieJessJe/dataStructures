@@ -13,7 +13,6 @@ var dir = path.join(__dirname, 'public');
 const db = require("./module");
 
 
-
 const aaSource = fs.readFileSync("templates/aa.txt").toString();
 var aatemplate = handlebars.compile(aaSource, { strict: true });
 
@@ -29,24 +28,17 @@ app.get('/', function(req, res) {
 
 app.get('/aa', function(req, res) {
 
-    //var now = moment.tz(Date.now(), "America/New_York"); 
-    //var dayy = now.day().toString(); 
-    //var hourr = now.hour().toString(); 
-
     // Connect to the AWS RDS Postgres database
     const client = new Pool(db.db_credentials);
     client.connect();
-    // SQL query 
-    // var thisQuery = `SELECT lat, lng, groupid FROM meeting_loc;`;
-    
+   
     var thisQuery = `
-                    SELECT *
+    SELECT *
     FROM meeting_loc 
     JOIN ( SELECT *
                 FROM meeting_tg
                 JOIN ( SELECT *
                             FROM meeting_time
-                            WHERE day = 'Sunday'
                         ) sub_time
                 ON meeting_tg.timeid = sub_time.timeid
             ) sub_tg
@@ -86,7 +78,7 @@ app.get('/temperature', function(req, res) {
     client.query(q, (qerr, qres) => {
         if (qerr) { throw qerr }
         else {
-            res.end(stemplate({ sensordata: JSON.stringify(qres.rows)}));
+            res.send(stemplate({ sensordata: JSON.stringify(qres.rows)}));
             client.end();
             console.log('responded to request for sensor graph');
         }
@@ -100,14 +92,44 @@ app.get('/processblog', function(req, res) {
 
     // Connect to the AWS DynamoDB database
     var dynamodb = new AWS.DynamoDB();
-
-    // DynamoDB (NoSQL) query
-    var params = {
-        TableName : "processblog",
-        ReturnConsumedCapacity: "TOTAL"
     
-    };
-
+    // GET query parameters -- post, post2 defined as:
+    //              post        post2
+    // get A        1           0
+    // get B        0           1
+    // get A&B      1           1
+    let post = (req.query.post == 'true') ? true : false;
+    let post2 = (req.query.post2 == 'true') ? true : false;
+    
+    // DynamoDB (NoSQL) query
+    if (post && post2) {
+        var params = {
+            TableName : "processblog",
+            ReturnConsumedCapacity: "TOTAL"
+            }
+        } else if (post){
+            
+            var params = {
+            TableName : "processblog",
+            ReturnConsumedCapacity: "TOTAL",
+            FilterExpression: "ins = :val",
+            ExpressionAttributeValues: {
+                ":val": { "BOOL": true},
+               }
+            }
+        } else if (post2){
+            
+            var params = {
+            TableName : "processblog",
+            ReturnConsumedCapacity: "TOTAL",
+            FilterExpression: "ins = :val",
+            ExpressionAttributeValues: {
+                ":val": { "BOOL": false},
+               }
+            }};
+    
+    if ( post || post2) {
+    
     dynamodb.scan(params, function(err, data) {
         if (err) {
             console.error("Unable to query. Error:", JSON.stringify(err, null, 2));
@@ -115,11 +137,16 @@ app.get('/processblog', function(req, res) {
         }
         else {
             
-            res.end(pbtemplate({ pbdata: JSON.stringify(data.Items)}));
+            res.send(pbtemplate({ pbdata: JSON.stringify(data.Items)}));
             console.log('responded to request for process blog data');
-        }
-    });
-});
+            }
+        });
+    } else {
+        let dumidata=[];
+        res.send(pbtemplate({ pbdata: JSON.stringify(dumidata)}));
+    }
+    
+}); 
 
 
 // serve static files in /public
