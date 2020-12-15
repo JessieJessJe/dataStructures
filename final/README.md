@@ -44,7 +44,7 @@ Considering the aa meeting dataset isn't too large, I decided to let the browser
     </div>
 
 ```
-2. create the filted array
+2. Filter the raw data based on the request
 ```javascript
   function filterData(day){
     var dd = [];
@@ -118,6 +118,7 @@ In this case, I want my frontend to generate 4 different requests - empty / get 
     // get A        1           0
     // get B        0           1
     // get A&B      1           1
+    // empty        0           0
     
     let post = (req.query.post == 'true') ? true : false;
     let post2 = (req.query.post2 == 'true') ? true : false;
