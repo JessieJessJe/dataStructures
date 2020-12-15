@@ -64,13 +64,16 @@ Considering the aa meeting dataset isn't too large, I decided to let the browser
     var d = document.getElementById("days");
     var day = d.options[d.selectedIndex].value; 
     
+    //remove the existing markers on the map
     await removeMarker();
+    
+    //create a new layer where new markers will be added on to
     markerLayer = L.layerGroup().addTo(mymap);
 
-    //create the filtered array
+    //create the filtered array as shown in step 2
     var data = await filterData(day);
     
-    //add new markers
+    //add new markers to 'markerLayer'
     for (var i=0; i < data.length; i++) {
       
        var mypopup = "<b>Group:&nbsp</b>" +  data[i].groupid + "<br /> <b>Location:&nbsp</b>" + data[i].location + "<br /><b>Day:&nbsp</b>" + data[i].day;
@@ -100,6 +103,12 @@ Considering the aa meeting dataset isn't too large, I decided to let the browser
 * Demo 
 <img src="https://github.com/JessieJessJe/dataStructures/blob/master/final/sensor.png" width="800" />
 
+* Server-side Dev |
+[app.js](https://github.com/JessieJessJe/dataStructures/blob/master/final/app.js)
+
+* Client-side Dev |
+[sensor.txt](https://github.com/JessieJessJe/dataStructures/blob/master/final/templates/sensor.txt)
+
 ## Process Blog
 
 * Demo 
@@ -128,7 +137,7 @@ In this case, I want my frontend to generate 4 different requests - empty / get 
         var params = {
             TableName : "processblog",
             ReturnConsumedCapacity: "TOTAL"
-            }
+            } //get A&B
         } else if (post){
             
             var params = {
@@ -137,7 +146,7 @@ In this case, I want my frontend to generate 4 different requests - empty / get 
             FilterExpression: "ins = :val",
             ExpressionAttributeValues: {
                 ":val": { "BOOL": true},
-               }
+               } //get A
             }
         } else if (post2){
             
@@ -147,7 +156,29 @@ In this case, I want my frontend to generate 4 different requests - empty / get 
             FilterExpression: "ins = :val",
             ExpressionAttributeValues: {
                 ":val": { "BOOL": false},
-               }
+               } //get B
             }};
 ```
+* Client-side Dev |
+[blog.txt](https://github.com/JessieJessJe/dataStructures/blob/master/final/templates/blog.txt)
 
+Buttons for filtering:
+```html
+<button id="postYes" onclick="getquery(true,false)">See posted</button>
+<button id="postNo" onclick="getquery(false,true)">See not posted</button>
+<button id="postAll" onclick="getquery(true,true)">See all</button>
+```
+Redirect the page to a new url once button clicked:
+```javascript
+async function getquery(a,b){ 
+  const obj = {
+    post: a,
+    post2: b
+  }
+  // generating query strings
+  const params = new URLSearchParams(obj);
+  const url = await window.location.href.split('/?')[0]+ '/?' + params;
+  window.location.href = url;
+
+}
+```
